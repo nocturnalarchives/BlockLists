@@ -1,0 +1,57 @@
+
+^.*ads.*\.
+^.*adtng.*\.
+^.*analytics.*\.
+^.*app-?measurement.*\.
+^.*crashlytics.*\.
+^.*dnssecure.*\.
+^.*etahub.*\.
+^.*firebaselogging.*\.
+^.*fpbns.*\.
+^.*googletagmanager.*\.
+^.*graph.*\.
+^.*gstatic.*\.
+^.*measurement.*\.
+^.*metrics?.*\.
+^.*mopub.*\.
+^.*paypal-?objects.*\.
+^.*paypal.*\.
+^.*rncdn4.*\.
+^.*stats?.*\.
+^.*traffic-?junky.*\.
+^.*trafficjunky.*\.
+^.geo?.*\.
+^.maps?.*\.
+ads.mopub.com
+ads.trafficjunky.net
+app-measurement.com
+crashlytics.com
+cs851.wpc.rncdn4.com
+dnssecure.fpbns.net
+e.crashlytics.com
+encrypted-tbn0.gstatic.com
+etahub.com
+fonts.gstatic.com blacklist
+fpbns.net
+googleapis.com blacklist
+googletagmanager.com
+graph.facebook.com blacklist
+gstatic.com blacklist
+hubt.pornhub.com blacklist
+hw-cdn.trafficjunky.net
+hw-cdn2.adtng.com blacklist
+media.trafficjunky.com blacklist
+ng-s10-blue.dnssecure.fpbns.net
+paypal.com
+paypalobjects.com
+rncdn4.com
+ssl.google-analytics.com blacklist
+static.trafficjunky.com blacklist
+t.paypal.com
+trafficjunky.net
+vz-cdn.trafficjunky.net
+wpc.rncdn4.com
+www.googletagmanager.com
+www.gstatic.com
+www.paypal.com
+www.paypalobjects.com

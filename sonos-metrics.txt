@@ -1,0 +1,45 @@
+#########################################################################################
+##
+##  This list blocks Sonos Trackers
+##  You can get a list that blocks all the Sonos Trackers and Updates At:
+##
+##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/sonos-master-trackers.txt
+##
+##  MASTER LIST LOCATION
+##
+##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/master-block-list.txt
+##
+##  Upated: May 4, 2020
+##
+#########################################################################################
+
+
+#########################################################################################
+##
+##  SONOS WHITELIST DOMAINS
+##
+##  feature-config.sslauth.sonos.com
+##  oauth.sslauth.sonos.com
+##  update-services.sonos.com
+##  service-catalog.ws.sonos.com
+##
+#########################################################################################
+
+msmetrics.ws.sonos.com
+msmetrics-test.ws.sonos.com
+clientdata.sslauth.sonos.com
+dcapps.ws.sonos.com
+keys.ws.sonos.com
+sonar.ws.sonos.com
+
+
+#########################################################################################
+##
+##  This RegEX statements will block any sonos metrics and client data subdomains
+##  in case Sonos changes names to get around blocking. It should be all on one line.
+##
+##  ^.*(clietnts?|data|deactivat(e|ed|es|ion)|dcapps|info(rmation)?|keys?|metri(c|x)s?|recycl(e|ed|or|ing)|sonar|stat(s|istics?)|users?).*([-a-z0-9]+.)?sonos([-a-z0-9]+.)?\.
+##
+##
+#########################################################################################
+

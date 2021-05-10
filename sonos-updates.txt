@@ -1,0 +1,57 @@
+#########################################################################################
+##
+##  This list blocks all the Sonos Update Domains. This will prevent any equipment
+##  from getting any updates. This may result in unexpected behavior if Sonos changes
+##  their connection methods or protocols. Please consider if this is something you
+##  want to do or not before proceeding.
+##  You can dd the regex versions at the bottom of the page to
+##  future proof your blocking. If you want to block Sonos Metrics use this URL
+##
+##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/sonos-metrics.txt
+##
+##  You can get a list that blocks all the Sonos Trackers and Updates At:
+##
+##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/sonos-master-trackers.txt
+##
+##
+##  MASTER LIST LOCATION
+##
+##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/master-block-list.txt
+##
+##  Upated: May 4, 2020
+##
+#########################################################################################
+
+#########################################################################################
+##
+##  SONOS WHITELIST DOMAINS
+##
+##  feature-config.sslauth.sonos.com
+##  oauth.sslauth.sonos.com
+##  update-services.sonos.com
+##  service-catalog.ws.sonos.com
+##
+#########################################################################################
+
+update.sonos.com
+updates.sonos.com
+update-firmware.sonos.com
+update-software.sonos.com
+update.ws.sonos.com
+updates.ws.sonos.com
+update-firmware.ws.sonos.com
+update-software.ws.sonos.com
+update.sslauth.sonos.com
+updates.sslauth.sonos.com
+update-firmware.sslauth.sonos.com
+update-software.sslauth.sonos.com
+
+#########################################################################################
+##
+##  This RegEX statements will block any Sonos Update subdomains
+##  in case Sonos changes names to get around blocking. It should be all on one line.
+##
+##  ^.*(firmware|updat(e|ed|er|es|ing)|upgrad(e|ed|er|es|ing)).*([-a-z0-9]+.)?sonos([-a-z0-9]+.)?\.
+##
+##
+#########################################################################################

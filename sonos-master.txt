@@ -1,0 +1,58 @@
+#########################################################################################
+##
+##  This list blocks Sonos Trackers and Updates.
+##  Individual Sonos lists are available at:
+##
+##
+##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/sonos-metrics-trackers.txt
+##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/sonos-updates.txt
+##
+##  MASTER LIST LOCATION
+##
+##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/master-block-list.txt
+##
+##  Upated: May 4, 2020
+##
+#########################################################################################
+
+#########################################################################################
+##
+##  SONOS WHITELIST DOMAINS
+##
+##  feature-config.sslauth.sonos.com
+##  oauth.sslauth.sonos.com
+##  update-services.sonos.com
+##  service-catalog.ws.sonos.com
+##
+#########################################################################################
+
+
+clientdata.sslauth.sonos.com
+dcapps.ws.sonos.com
+keys.ws.sonos.com
+msmetrics-test.ws.sonos.com
+msmetrics.ws.sonos.com
+sonar.ws.sonos.com
+update-firmware.sonos.com
+update-firmware.sslauth.sonos.com
+update-firmware.ws.sonos.com
+update-software.sonos.com
+update-software.sslauth.sonos.com
+update-software.ws.sonos.com
+update.sonos.com
+update.sslauth.sonos.com
+update.ws.sonos.com
+updates.sonos.com
+updates.sslauth.sonos.com
+updates.ws.sonos.com
+
+#########################################################################################
+##
+##  This RegEX statements will block any sonos metrics and client data subdomains
+##  in case Sonos changes names to get around blocking. It should be all on one line.
+##
+##  ^.*(clietnts?|data|deactivat(e|ed|es|ion)|dcapps|info(rmation)?|keys?|metri(c|x)s?|recycl(e|ed|or|ing)|sonar|stat(s|istics?)|users?).*([-a-z0-9]+.)?sonos([-a-z0-9]+.)?\.
+##
+##
+#########################################################################################
+
