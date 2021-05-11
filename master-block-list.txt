@@ -17726,3 +17726,11 @@ zy.google.com
 zynbit.com
 zz.google.com
 zzvid.com
+valerie.forbes.com
+ab-machine.forbes.com
+thumbor.forbes.com
+sparrow.cloudflare.com
+maps.googleapis.com
+oloc7.x.incapdns.net
+x.incapdns.net
+incapdns.net
