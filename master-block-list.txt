@@ -1637,6 +1637,7 @@ aiproxies.com
 air.tv
 airage.com
 airasia.m.facebook.com
+airbrake.io
 airforums.com
 airpr.com
 airship.com
@@ -2184,7 +2185,6 @@ appsitemsuggest-pa.clients6.google.com
 appsmav.com
 appsnack.com
 appspot.com
-appspot.com
 appstatico.electronic.us
 appswaldo-pa.clients.google.com
 appswaldo-pa.clients0.google.com
@@ -2592,6 +2592,7 @@ be.google.com
 beacon-v2.helpscout.net
 beacon.krxd.net
 beacon.lynx.cognitivlabs.com
+beacon.riskified.com
 beacon.tru.am
 beaconads.com
 beaconforstore.com
@@ -7600,6 +7601,7 @@ fxporn.net
 fy.google.com
 fz.google.com
 g--o.info
+g.3gl.net
 g.aaplimg.com
 g.bingparachute.com
 g.doubleclick.net
@@ -8376,6 +8378,7 @@ gsspcln.jp
 gssprt.jp
 gsstatic.es
 gstatic.com
+gstaticadssl.l.google.com
 gstaticadsssl.i.Google.com
 gsuite.google.com
 gt.google.com
@@ -9365,6 +9368,7 @@ js.pusher.com
 js.sentry-cdn.com
 js.smile.io
 js.stripe.comp
+js.trendmd.com
 js.ubembed.com
 js.usemessages.com
 js2.verygoodvault.com
@@ -10882,6 +10886,7 @@ noterium.com
 notifia.io
 notification.services
 notification.viktvaktarna.se
+notifier-configs.airbrake.io
 notifpush.com
 notify.bugsnag.com
 notifyon.com
@@ -17695,6 +17700,7 @@ zm.google.com
 zmags.com
 zmbl.co
 zn.google.com
+zndikywqsjiuwn0q5-nlmenterprise.siteintercept.qualtrics.com
 zo.google.com
 zoetis.com
 zog.link
@@ -17747,22 +17753,3 @@ zy.google.com
 zynbit.com
 zz.google.com
 zzvid.com
-notifier-configs.airbrake.io
-airbrake.io
-beacon.riskified.com
-riskified.com
-rum-static.pingdom.net
-pingdom.net
-gstaticadssl.l.google.com
-g.3gl.net
-3gl.net
-badges.altmetric.com
-api.altmetric.com
-altmetric.com
-js.trendmd.com
-trendmd.com
-ouptag.scholarlyiq.com
-scholarlyiq.com
-zndikywqsjiuwn0q5-nlmenterprise.siteintercept.qualtrics.com
-siteintercept.qualtrics.com
-qualtrics.com
