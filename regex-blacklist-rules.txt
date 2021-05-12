@@ -783,3 +783,10 @@ dns([0-9]+)\.quad9\.net
 (\.|^)clients?([0-9]+)\.
 
 (\.|^)geolocation\.
+
+(\.|^)*pop-iad*\.
+(\.|^)*bugs?*\.
+(\.|^)*bugsnag*\.
+(\.|^)*timedtext*\.
+(\.|^)*trickplay*\.
+(\.|^)*siteintercept*\.
