@@ -471,6 +471,7 @@ aax-us-east.amazon-adsystem.com
 aax.amazon-adsystem.com
 aaxads.com
 aaxdetect.com
+ab-machine.forbes.com
 ab.google.com
 aba.gumgum.com
 abackchain.com
@@ -931,6 +932,7 @@ admetix.com
 admetricspro.com
 admicro.vn
 admin.air.tv
+admiral-mtml.mt.rvapps.io
 admiral.mgr.consensu.org
 admission.net
 admitad.com
@@ -2182,6 +2184,7 @@ appsitemsuggest-pa.clients6.google.com
 appsmav.com
 appsnack.com
 appspot.com
+appspot.com
 appstatico.electronic.us
 appswaldo-pa.clients.google.com
 appswaldo-pa.clients0.google.com
@@ -2306,6 +2309,7 @@ astutebot.com
 asurion.m.facebook.com
 aswpsdkeu.com
 aswpsdkus.com
+at.cbsi.com
 at.google.com
 atdmt.com
 ateam-ad.jp
@@ -6670,6 +6674,7 @@ embed.air.tv
 embed.ly
 embed.tawk.to
 embed.wistia.com
+embeddable-player.gke.megaphone.cloud
 embedfastly.wistia.com
 embedly.com
 embedly.forbes.com
@@ -7780,6 +7785,7 @@ gizmodo.com
 gj.google.com
 gjirafa.com
 gk.google.com
+gke.megaphone.cloud
 gl.google.com
 gladly.com
 glami.cz
@@ -7825,6 +7831,7 @@ go-vip.net
 go.4cinsights.com
 go.aniview.com
 go.com
+go.ezoic.net
 go.google.com
 go.itracker360.com
 go.pardot.com
@@ -8739,6 +8746,8 @@ hypnoticwound.com
 hypothes.is
 hystericalhelp.com
 hz.google.com
+i-cmg-amlg-prod.appspot.com
+i-cnet-engagement-prod.firebaseapp.com
 i-mobile.co.jp
 i-p-c-s.org
 i-parcel.com
@@ -10235,6 +10244,7 @@ medtargetsystem.com
 medyanetads.com
 meetami.ai
 meetrics.net
+megaphone.cloud
 megaphone.fm
 megapopads.com
 megaxt.com
@@ -10550,6 +10560,7 @@ msn.com
 mstar.com
 mt.google.com
 mt.lv
+mt.rvapps.io
 mtalk.google.com
 mtb-news.de
 mthsense.com
@@ -11587,6 +11598,7 @@ player.field59.com
 player.spotim.market
 Player1-Macbook-Air.lan	OK
 playground.xyz
+playlist.megaphone.fm
 playoncenter.com
 playreplay.me
 playreplay.net
@@ -12560,6 +12572,7 @@ ruthlessdegree.com
 ruthlessrobin.com
 ruutu.fi
 rv.google.com
+rvapps.io
 rw.google.com
 rx.google.com
 rx.io
@@ -13060,6 +13073,7 @@ secure.imrworldwide.com
 secure.imrworldwide.com.fritz.com
 secure.insightexpressai.com
 secure.livechatinc.com
+secure.quantserve.com
 secure.widget.cloud.opta.net
 secureaddisplay.com
 secureads.g.doubleclick.net
@@ -13699,6 +13713,7 @@ sparkasse.de
 sparkflow.net
 sparklingnumber.com
 sparkmail.pl
+sparrow.cloudflare.com
 spcdn.incartupsell.com
 speakol.com
 speakpipe.com
@@ -14510,6 +14525,7 @@ throattrees.com
 thron.com
 thrtle.com
 thuiswinkel-cdn.org
+thumbor.forbes.com
 thumbs-share.com
 thunderhead.com
 thxxxnung.com
@@ -15083,6 +15099,7 @@ ureruadnw.com
 uri.sh
 urlbi.com
 uro5.realmagnet.land
+urs.cnet.com
 us-content.vergic.com
 us-east-1-decisionapi.lift.acquia.com
 us-east-1.prod.boltdns.net
@@ -15176,6 +15193,7 @@ va.tawk.to
 vaderinis.com
 vads.net.vn
 vak345.com
+valerie.forbes.com
 valica.it
 valid.apple.com
 valid.origin-apple.com.akadns.net
@@ -16512,6 +16530,7 @@ www.cashlayer.com
 www.castplatform.com
 www.catalog-retail.amazon.com
 www.cdn-us-doubleverify.com
+www.cdn.printfriendly.com
 www.cdn7.rocks
 www.cdnads.com
 www.cdnproviders.net
@@ -16722,6 +16741,7 @@ www.inskinad.com
 www.instagram.com
 www.installtracker.com
 www.instinctiveads.com
+www.intensedebate.com
 www.intercom.io
 www.intrado.com
 www.ip-api.com
@@ -16884,6 +16904,7 @@ www.posttv.com
 www.powr.io
 www.prebid.org
 www.pricespider.com
+www.printfriendly.com
 www.privacy-mgmt.com
 www.privy.com
 www.prod.facebook.com
@@ -17726,11 +17747,3 @@ zy.google.com
 zynbit.com
 zz.google.com
 zzvid.com
-valerie.forbes.com
-ab-machine.forbes.com
-thumbor.forbes.com
-sparrow.cloudflare.com
-maps.googleapis.com
-oloc7.x.incapdns.net
-x.incapdns.net
-incapdns.net
