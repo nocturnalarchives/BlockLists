@@ -1289,7 +1289,6 @@ adwo.com
 adwods.com
 adworx.at
 adwstats.com
-adx.adform.net
 adx1.com
 adxadserv.com
 adxcel-ec2.com
@@ -6624,6 +6623,7 @@ ei.google.com
 eight.eight.eight.eight
 eight.eight.four.four
 eip-ntt.pbs.twimg.com.akahost.net
+eip-tata.pbs.twimg.com.akahost.net
 ej.google.com
 ejyymghi.com
 ek.google.com
@@ -8804,7 +8804,6 @@ ibtracking.com
 ibuki.cgnat.net
 ic.google.com
 icagruppen.se
-ice.360yield.com
 icebns.com
 icfcdn.com
 ichecknotifyfriends.info
@@ -11740,7 +11739,6 @@ preapp.prod.partner.netflix.net
 prebid.a-mo.net
 prebid.adnxs.com
 prebid.media.net
-prebid.mgid.com
 prebid.org
 prebid.pub.network
 precisemodeling.com
@@ -12537,7 +12535,6 @@ rta247.com
 rtalabel.org
 rtb-csync.smartadserver.com
 rtb-seller.com
-rtb.adpone.com
 rtb.mfadsrvr.com
 rtb123.com
 rtk.io
@@ -13246,7 +13243,6 @@ sharppatch.com
 sharpschool.com
 sharpspring.com
 shavar.services.mozilla.com
-shb.richaudience.com
 sheerid.com
 shein.com
 shelterstraw.com
@@ -13874,7 +13870,6 @@ ssl.gstatic.com
 ssl.hwcdn.net
 ssl.p.jwpcdn.com
 ssl.trustwave.com
-ssm.codesa
 sso-service.de
 ssor.platform.californiatimes.com
 ssp.behave.com
@@ -17759,3 +17754,5 @@ zy.google.com
 zynbit.com
 zz.google.com
 zzvid.com
+s-jrciprf5ext221020.jrc.it
+jrc.it
