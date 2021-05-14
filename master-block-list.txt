@@ -8749,6 +8749,7 @@ hyperspeed.pro
 hypnoticwound.com
 hypothes.is
 hystericalhelp.com
+hyvor.com
 hz.google.com
 i-cmg-amlg-prod.appspot.com
 i-cnet-engagement-prod.firebaseapp.com
@@ -12229,6 +12230,7 @@ realnudist.biz
 realperson.de
 realpython.net
 realsrv.com
+realtime-talk.hyvor.com
 realtimestatistics.net
 realtimesupport.clients1.google.com
 realtimesupport.clients10.google.com
@@ -12592,6 +12594,7 @@ rz.google.com
 s-cloud.fi
 s-i-r.de
 s-img.de
+s-jrciprf5ext221020.jrc.it
 s-jsonp.moatads.com
 s-onetag.com
 s-palvelut.fi
@@ -17754,5 +17757,3 @@ zy.google.com
 zynbit.com
 zz.google.com
 zzvid.com
-s-jrciprf5ext221020.jrc.it
-jrc.it
