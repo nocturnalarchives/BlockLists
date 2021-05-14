@@ -6623,6 +6623,7 @@ ei.google.com
 eight.eight.eight.eight
 eight.eight.four.four
 eip-ntt.pbs.twimg.com.akahost.net
+eip-tata.pbs.twimg.com.akahost.net
 ej.google.com
 ejyymghi.com
 ek.google.com
