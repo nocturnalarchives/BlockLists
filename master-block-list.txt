@@ -566,6 +566,7 @@ actuallysnake.com
 acuityplatform.com
 acuityscheduling.com
 acw.elsevier.com
+acw.evise.com
 acwebconnecting.com
 acx.com
 acxiom.com
@@ -4041,6 +4042,7 @@ bidder.criteo.com
 biddercore.io
 biddingx.com
 biddr.brealtime.co
+biddr.brealtime.com
 bidfilter.com
 bidfluence.com
 bidgear-syndication.com
@@ -4592,6 +4594,7 @@ cdn.dynamicyield.com
 cdn.engine.addroplet.com
 cdn.engine.spotscenered.info
 cdn.fera.ai
+cdn.foxycart.com
 cdn.ghostmonitor.com
 cdn.ihsmarkit.com
 cdn.inpwrd.net
@@ -4617,8 +4620,10 @@ cdn.otstatic.com
 cdn.p-n.io
 cdn.parsely.com
 cdn.pbgrd.com
+cdn.pendo.io
 cdn.permutive.com
 cdn.petametrics.com
+cdn.plu.mx
 cdn.printfriendly.com
 cdn.prismic.io
 cdn.quilljs.com
@@ -7006,6 +7011,7 @@ evgnet.com
 evidon.com
 evidon.mgr.consensu.org
 eviesays.com
+evise.com
 evo.company
 evolok.net
 evoluhcion.es
@@ -11352,6 +11358,7 @@ paddleangle.com
 padlet.net
 padlet.pics
 padsquad.com
+pagead2.googlesyndication.com
 pagefly.io
 pagepeeker.com
 pages01.net
@@ -11616,6 +11623,7 @@ plerdy.com
 plista.com
 plot.ly
 plrsrvcs.com
+plu.mx
 plufdsb.com
 plug.it
 plugrush.com
@@ -12116,6 +12124,7 @@ r-agent.com
 r-login.wordpress.com
 r.bingparachute.com
 r.doubleclick.net
+r.logrocket.io
 r.moatads.com
 r.ntv.io
 r.o0bc.com
@@ -13031,6 +13040,7 @@ sdy.ai
 se.google.com
 seaboblit.com
 seadform.net
+seamlessaccess.org
 seamus.amazon.co.uk
 seamus.amazon.com
 seamus.amazon.de
@@ -13173,6 +13183,7 @@ service.amazonsilk.com
 service.force.com
 service.gc.apple.com
 service.maxymiser.net
+service.seamlessaccess.org
 service.signalr.net
 services.amazon.com
 services.brid.tv
@@ -13571,6 +13582,7 @@ smetrics.bostonglobe.com
 smetrics.elsevier.com
 smetrics.foxnews.com
 smetrics.globalnews.ca
+smetrics.time.com
 smg.com
 smi2.net
 smi2.ru
