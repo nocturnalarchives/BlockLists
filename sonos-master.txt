@@ -45,6 +45,8 @@ update.ws.sonos.com
 updates.sonos.com
 updates.sslauth.sonos.com
 updates.ws.sonos.com
+sonos-pmap.ws.sonos.com
+spotify-static.ws.sonos.com
 
 #########################################################################################
 ##
