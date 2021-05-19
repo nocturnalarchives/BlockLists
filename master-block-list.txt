@@ -13701,6 +13701,7 @@ sonar.fsea1-1.fna.fbcdn.net
 sonar.ftpa1-1.fna.fbcdn.net
 sonar.ws.sonos.com
 sonobi.com
+sonos-pmap.ws.sonos.com
 sony.com
 sooqr.com
 sophi.io
@@ -13824,6 +13825,7 @@ sportslocalmedia.com
 spot.im
 spoteffects.net
 spotible.com
+spotify-static.ws.sonos.com
 spotify.com
 spotim.market
 spotler.co.uk
