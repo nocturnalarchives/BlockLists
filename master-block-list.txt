@@ -2081,6 +2081,7 @@ app.cookieyes.com
 app.donaldjtrump.com
 app.ecwid.com
 app.goo.gl
+app.letsgoconvert.com
 app.link
 app.marsello.com
 app.matheranalytics.com
@@ -4394,6 +4395,7 @@ c-eu3.stripst.com
 c-i.as
 c-ovn.jp
 c-s.cms.ms.akadns.net
+c-ville.com
 c.amazon-adsystem.com
 c.bingparachute.com
 c.convertkit.com
@@ -4649,6 +4651,7 @@ cdn.valuad.cloud
 cdn.viglink.com
 cdn.virtuoussoftware.com
 cdn.volument.com
+cdn.wallit.io
 cdn2.bustle.com
 cdn2.editmysite.com
 cdn2.lockerdome.com
@@ -5222,6 +5225,7 @@ condenastdigital.com
 conditioncrush.com
 conductrics.com
 conectadosbancogalicia.m.facebook.com
+confection.io
 confiant-integrations.global.ssl.fastly.net
 config.emb-api.com
 config.gorgias.io
@@ -8535,6 +8539,7 @@ heavyplayground.com
 heg-cp.com
 hektorcommerce.com
 helixbi.io
+hello.myfonts.net
 hellobar.com
 helloextend.com
 hellofresh.com
@@ -8773,6 +8778,7 @@ i.insider.com
 i.matheranalytics.com
 i.moatads.com
 i.mol.im
+i.newzit.com
 i.ntv.io
 i.o0bc.com
 i.optmnstr.com
@@ -9145,6 +9151,7 @@ iphonesubmissions.apple.com
 iphonesubmissions.apple.com.akadns.com
 iphonesubmissions.origin-apple.com
 ipify.org
+ipinfo.io
 ipinyou.com
 iplocate.io
 iplsc.com
@@ -9435,6 +9442,7 @@ k.udkcjr.com
 k.usabilla.com
 k2e3e.app.goo.gl
 k2s.cc
+ka-f.fontawesome.com
 ka-ge.facebook.com
 ka.google.com
 kaitain.restena.lu
@@ -9720,6 +9728,7 @@ letemsvetemapplem.eu
 letmejerk.com
 letreach.com
 letsencrypt.org
+letsgoconvert.com
 letslinc.com
 lettucelimit.com
 levelaccess.net
@@ -10070,6 +10079,7 @@ mangasum.com
 mangazoneapp.com
 mangoads.vn
 mangomediaads.com
+manhattan-institute.org
 manifest.googlevideo.com
 mannenmedia.nl
 mansueto.com
@@ -10193,6 +10203,7 @@ media.net
 media.rocketreach.co
 media.weather.com
 media01.eu
+media4.manhattan-institute.org
 media6degrees.com
 mediaad.org
 mediaalpha.com
@@ -10627,6 +10638,7 @@ myedgy.be
 myersinfosys.com
 myfamilypies.com
 myfinance.com
+myfonts.net
 myiphide.com
 mylfcdn.net
 mylivechat.com
@@ -13609,6 +13621,7 @@ snack-media.com
 snack-projects.co.uk
 snackly.co
 snakesort.com
+snap.licdn.com
 snapapp.com
 snapchat.com
 snapkit.com
@@ -14161,6 +14174,7 @@ subscriptiongenius.com
 subsequentswim.com
 substack.com
 substantialcarpenter.com
+substation.confection.io
 succeedscene.com
 suddensidewalk.com
 sudosecuritygroup.com
@@ -14762,6 +14776,7 @@ treblo.io
 tredir.go.com
 tree.com
 treewaves.com
+treg.hearstnp.com
 tremendousplastic.com
 tremendoustime.com
 tremendoustreatment.com
@@ -15556,6 +15571,7 @@ wa.google.com
 waitrose.com
 wakefulcook.com
 walkme.com
+wallit.io
 walmart.com
 walmeric.com
 want.tf
@@ -16545,6 +16561,7 @@ www.buyhitscheap.com
 www.buysellads.com
 www.buysellads.net
 www.buzzad.io
+www.c-ville.com
 www.c1exchange.com
 www.c3tag.com
 www.cardlytics.com
@@ -16861,6 +16878,7 @@ www.netsparkmobile.com
 www.netwads.com
 www.newonads.com
 www.newrelic.com
+www.newzit.com
 www.nextclick.pl
 www.nomobileads.com
 www.nprapps.org
@@ -17770,23 +17788,3 @@ zy.google.com
 zynbit.com
 zz.google.com
 zzvid.com
-treg.hearstnp.com
-hearstnp.com
-opensharecount.com
-graph.facebook.com
-cd.connatix.com
-connatix.com
-native.sharethrough.com
-sharethrough.com
-www.c-ville.com
-c-ville.com
-i.newzit.com
-newzit.com
-www.newzit.com
-confection.io
-media4.manhattan-institute.org
-manhattan-institute.org
-hello.myfonts.net
-myfonts.net
-cdn.wallit.io
-wallit.io
