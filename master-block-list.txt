@@ -1680,6 +1680,7 @@ alexa.amazon.ca
 alexa.amazon.cn
 alexa.amazon.co.uk
 alexa.amazon.com.au
+alexa.amazon.dev
 alexa.amazon.es
 alexa.com
 alexametrics.com
@@ -2064,6 +2065,8 @@ apikeys.civiccomputing.com
 apis.com.br
 apis.google.com
 apiservices.krxd.net
+apl-alexa.com
+apl.alexa.amazon.dev
 aplaut.io
 apolloprogram.io
 apomaya.net
@@ -2250,6 +2253,8 @@ ariseboundary.com
 arkadiumhosted.com
 arkeero.net
 arkoselabs.com
+arl.assets.apl-alexa.com
+arl.assets.apl.alexa.amazon.dev
 aroa.io
 aromamirror.com
 aroundmeapi.com
@@ -2289,6 +2294,8 @@ asos.m.facebook.com
 aspnetcdn.com
 assets.a-mo.net
 assets.adobedtm.com
+assets.apl-alexa.com
+assets.apl.alexa.amazon.dev
 assets.bounceexchange.com
 assets.calendly.com
 assets.context.ly
@@ -5837,6 +5844,7 @@ devcloudsoftware.com
 developer.amazon.com
 developermedia.com
 developers.facebook.com
+device-artifacts-v2.s3.amazonaws.com
 device-metrics-us-1.amazon.com
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
