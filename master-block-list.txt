@@ -528,6 +528,7 @@ accounts.youtube.com
 accutics.net
 accuweather.com
 acdn.adnxs.com
+ace.c9.io
 acecounter.com
 acexedge.com
 achcdn.com
@@ -4428,6 +4429,7 @@ c2shb.ssp.yahoo.com
 c3tag.com
 c5.rgstatic.net
 c8.net.ua
+c9.io
 ca-es.facebook.com
 ca.google.com
 cachefly.net
@@ -10711,6 +10713,7 @@ nanorep.co
 nanorep.com
 narrativ.com
 narrative.io
+nas-whatwearedoing.disqus.com
 nascar.com
 nascar.media
 nate.com
@@ -17792,4 +17795,3 @@ zy.google.com
 zynbit.com
 zz.google.com
 zzvid.com
-device-metrics-us-2.amazon.com
