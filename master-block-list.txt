@@ -1754,9 +1754,6 @@ amazon.co.uk
 amazon.de
 amazon.dev
 amazon.jobs
-amazonaws.com
-amazoncrl.com
-amazonsilk.com
 amazontrust.com
 ambient-platform.com
 ambientdsp.com
@@ -11829,7 +11826,6 @@ proboards.com
 prod-use.perf-serving.com
 prod.adspsp.com
 prod.ally.ac
-prod.amazoncrl.com
 prod.benchmarkemail.com
 prod.bidr.io
 prod.boltdns.net
@@ -17797,3 +17793,5 @@ zynbit.com
 zz.google.com
 zzvid.com
 device-metrics-us-2.amazon.com
+ace.c9.io
+c9.io
