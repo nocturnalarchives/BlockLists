@@ -528,6 +528,7 @@ accounts.youtube.com
 accutics.net
 accuweather.com
 acdn.adnxs.com
+ace.c9.io
 acecounter.com
 acexedge.com
 achcdn.com
@@ -4428,6 +4429,7 @@ c2shb.ssp.yahoo.com
 c3tag.com
 c5.rgstatic.net
 c8.net.ua
+c9.io
 ca-es.facebook.com
 ca.google.com
 cachefly.net
@@ -8796,8 +8798,10 @@ i.udkcjr.com
 i.usabilla.com
 i.w55c.net
 i0.wp.com
+i1.itools.com
 i1.rgstatic.net
 i1.wp.com
+i2.itools.com
 i2.wp.com
 i2i.jp
 ia.google.com
@@ -9220,6 +9224,7 @@ iteengirl.com
 iteos.de
 iteratehq.com
 itmedia.co.jp
+itools.com
 itracker360.com
 itrustzone.site
 its-up.com
@@ -10711,6 +10716,7 @@ nanorep.co
 nanorep.com
 narrativ.com
 narrative.io
+nas-whatwearedoing.disqus.com
 nascar.com
 nascar.media
 nate.com
@@ -11516,6 +11522,7 @@ pfm4.net
 pform.net
 pg.google.com
 pgapi.io
+pgl.yoyo.org
 pgtb.me
 ph.google.com
 phabricator.intern.facebook.com
@@ -14020,6 +14027,7 @@ static.fsea1-1.fna.fbcdn.net
 static.gc.apple.com
 static.hotjar.com
 static.ips.apple.com
+static.itools.com
 static.klaviyo.com
 static.kqzyfj.com
 static.olark.com
@@ -15574,6 +15582,7 @@ w55c.net
 wa.google.com
 waitrose.com
 wakefulcook.com
+walkingontravels.com
 walkme.com
 wallit.io
 walmart.com
@@ -17437,6 +17446,7 @@ yourjavascript.com
 youtube-nocookie.com
 youtube.com
 youvisit.com
+yoyo.org
 yp.google.com
 ypncdn.com
 yq.google.com
@@ -17792,6 +17802,5 @@ zy.google.com
 zynbit.com
 zz.google.com
 zzvid.com
-device-metrics-us-2.amazon.com
-ace.c9.io
-c9.io
+pgl.yoyo.org
+yoyo.org
