@@ -17804,3 +17804,13 @@ zz.google.com
 zzvid.com
 pgl.yoyo.org
 yoyo.org
+cf-timedtext.aux.pv-cdn.net
+r3.o.lencr.org
+o.lencr.org
+lencr.org
+acme-v02.api.letsencrypt.org
+api.letsencrypt.org
+letsencrypt.org
+api.codenotary.io
+main.codenotary.io
+codenotary.io
