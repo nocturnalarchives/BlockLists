@@ -17810,3 +17810,6 @@ zy.google.com
 zynbit.com
 zz.google.com
 zzvid.com
+s.go-mpulse.net
+go-mpulse.net
+tru.am
