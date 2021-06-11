@@ -2534,6 +2534,7 @@ baixarhentais.com
 balancebreath.com
 balloonbit.com
 balloontexture.com
+bam-sdk-configs.bamgrid.com
 bam-x.com
 bam.nr-data.net
 bancvue.com
@@ -8491,6 +8492,7 @@ harri.com
 hatchbuck.com
 hatena.ne.jp
 havasedge.com
+haveibeenpwned.com
 hawk-assets.co.uk
 hawk.so
 hawksearch.com
@@ -9884,6 +9886,7 @@ localizejs.com
 localizercdn.com
 localmediabuying.com
 localytics.com
+locate.measurementlab.net
 location-services-measurements.s3-external-1.amazonaws.com
 location.force.com
 location.services.mozilla.com
@@ -10197,6 +10200,7 @@ me-api.phunware.com
 me.apple-dns.net
 me.google.com
 measured.com
+measurementlab.net
 meatthe.ru
 meatydime.com
 meba.kr
@@ -10939,6 +10943,7 @@ npttech.com
 nq.google.com
 nr-data.net
 nr.google.com
+nrcapi.ssl2.duapps.com
 nrdp.nccp.netflix.com
 nrdp.prod.ftl.netflix.com
 nrich.ai
@@ -13904,12 +13909,15 @@ ssc.33across.com
 ssense.com
 ssl-images-amazon.com
 ssl-services.com
+ssl.duapps.com
 ssl.facebook.com
 ssl.google-analytics.com
 ssl.gstatic.com
 ssl.hwcdn.net
 ssl.p.jwpcdn.com
 ssl.trustwave.com
+ssl1.duapps.com
+ssl2.duapps.com
 sso-service.de
 ssor.platform.californiatimes.com
 ssp.behave.com
@@ -17802,15 +17810,6 @@ zy.google.com
 zynbit.com
 zz.google.com
 zzvid.com
-pgl.yoyo.org
-yoyo.org
-cf-timedtext.aux.pv-cdn.net
-r3.o.lencr.org
-o.lencr.org
-lencr.org
-acme-v02.api.letsencrypt.org
-api.letsencrypt.org
-letsencrypt.org
-api.codenotary.io
-main.codenotary.io
-codenotary.io
+s.go-mpulse.net
+go-mpulse.net
+tru.am
