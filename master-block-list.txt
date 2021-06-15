@@ -808,6 +808,7 @@ addons-pa.clients98.google.com
 addons-pa.clients99.google.com
 addons.business
 addoor.net
+addresseetransportationsyndrome.com
 addroplet.com
 addsearch.com
 addshoppers.com
@@ -2004,6 +2005,7 @@ api.21ninety.com
 api.actionbutton.co
 api.altmetric.com
 api.atlassian.com
+api.auth.adobe.com
 api.bibblio.org
 api.bmw
 api.bounceexchange.com
@@ -2207,6 +2209,7 @@ apptera.com
 apptimize.com
 apptornado.com
 apptracker.stream
+apptrailers.itunes.g.aaplimg.com
 apptrk.io
 apptus.com
 appular.com
@@ -2352,6 +2355,7 @@ ats.rlcdn.com
 atsptp.com
 atswsd.com
 att.com
+att.demdex.net
 attachment.fbsbx.com
 attachments.facebook.com
 attn.tv
@@ -2423,6 +2427,7 @@ avantisvideo.com
 avantlink.com
 avantmobile.com
 avast.com
+avatars.slant.co
 avazunativeads.com
 avazutracking.net
 avclub.com
@@ -4441,6 +4446,7 @@ calconic.com
 calculatingcircle.com
 calculatingtoothbrush.com
 calculatorcamera.com
+calendarsuggest.client6.google.com
 calendly.com
 californiatimes.com
 callmeasurement.com
@@ -4576,6 +4582,7 @@ cdn-sp-gcs.air.tv
 cdn-spurit.com
 cdn-us-doubleverify.com
 cdn.9xbud.com
+cdn.adpushup.com
 cdn.adsafeprotected.com
 cdn.anvato.net
 cdn.appdomain.cloud
@@ -4663,6 +4670,7 @@ cdn2.bustle.com
 cdn2.editmysite.com
 cdn2.lockerdome.com
 cdn20tube.pro
+cdn3.doubleverify.com
 cdn3.net
 cdn4dd.com
 cdn7.rocks
@@ -8756,6 +8764,9 @@ hurtteeth.com
 hushforms.com
 hushly.com
 hv.google.com
+hw-cdn.adtng.com
+hw-cdn1.adtng.com
+hw-cdn2.adtng.com
 hw.google.com
 hwcdn.net
 hx.google.com
@@ -8906,6 +8917,7 @@ image.issuu.com
 imagebam.com
 imagendigital.com
 images-apmex.com
+images.dmca.com
 images.outbrain.com
 images.pluto.tv
 images.taboola.com
@@ -8963,6 +8975,7 @@ imspublishergroup.com
 imtwjwoasak.com
 imu.nl
 in-appadvertising.com
+in.appcenter.ms
 in.ftadsrv.com
 in.getclicky.com
 in.google.com
@@ -11639,6 +11652,7 @@ player.anyclip.com
 player.cnevids.com
 player.field59.com
 player.spotim.market
+player1-macbook-air.lan	Blocked (gravity)
 Player1-Macbook-Air.lan	OK
 playground.xyz
 playlist.megaphone.fm
@@ -12575,6 +12589,7 @@ rtalabel.org
 rtb-csync.smartadserver.com
 rtb-seller.com
 rtb.mfadsrvr.com
+rtb0.doubleverify.com
 rtb123.com
 rtk.io
 rtm.com
@@ -12671,6 +12686,7 @@ s2-iad-ww.cf.videorolls.row.aiv-cdn.net
 s2.googleusercontent.com
 s2.wp.com
 s3-1-w.amazonaws.com
+s3-dub-2.cf.trailer.row.aiv-cdn.net
 s3-iad-2.cf.dash.row.aiv-cdn.net
 s3-iad-ww.cf.videorolls.row.aiv-cdn.net
 s3.us-east-1.wasabisys.com
@@ -13552,6 +13568,7 @@ skylowhat.site
 skype.com
 skyscanner.net
 sl.google.com
+slant.co
 slashdotmedia.com
 slaysweater.com
 sleeknote.com
@@ -14707,6 +14724,8 @@ tpmedia-reactads.com
 tps.doubleverify.com
 tps10232.doubleverify.com
 tps30.doubleverify.com
+tps604.doubleverify.com
+tps623.doubleverify.com
 tpt.cloud
 tq.google.com
 tr-tr.facebook.com
@@ -17026,6 +17045,7 @@ www.silvermob.com
 www.simpleanalytics.com
 www.simplesharebuttons.com
 www.skimresources.com
+www.slant.co
 www.slashdotmedia.com
 www.smart4ads.com
 www.smartadserver.com
@@ -17042,6 +17062,7 @@ www.springserve.com
 www.sprout-ad.com
 www.ssl-services.com
 www.sstatic.net
+www.stack-sonar.com
 www.stailamedia.com
 www.star-advertising.com
 www.stat24.com
@@ -17810,6 +17831,3 @@ zy.google.com
 zynbit.com
 zz.google.com
 zzvid.com
-s.go-mpulse.net
-go-mpulse.net
-tru.am
