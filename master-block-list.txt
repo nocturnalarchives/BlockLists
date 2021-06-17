@@ -1581,6 +1581,7 @@ affilae.com
 affiliatefuture.com
 affiliategroove.com
 affiliateprogramma.eu
+affiliates.fiverr.com
 affiliatetechnology.com
 affiliatetrading.net
 affiliatly.com
@@ -1923,6 +1924,7 @@ analyticssuitefrontend-pa.clients98.google.com
 analyticssuitefrontend-pa.clients99.google.com
 ancensoredcdn2.xyz
 anchor.host
+and.co
 and.co.uk
 andbeyond.media
 andomedia.com
@@ -2311,6 +2313,7 @@ assets.sni-dat.com
 assets.targetimg1.com
 assets.ubembed.com
 assetshuluimcom-a.akamaihd.net
+assetsv2.fiverrcdn.com
 assoc-amazon.com
 associates-amazon.com
 astraone.io
@@ -4140,6 +4143,7 @@ blockchain.info
 blockexplorer.com
 blockthrough.com
 blog.facebook.com
+blog.fiverr.com
 blogblog.com
 blogcluster.nl
 blogger.com
@@ -4250,6 +4254,7 @@ bp.google.com
 bpinet.pt
 bpmonline.com
 bq.google.com
+br.fiverr.com
 br.google.com
 brainlyads.com
 braintreegateway.com
@@ -4376,6 +4381,7 @@ butterbulb.com
 butterburst.com
 buxflow.com
 buybox.click
+buyers.fiverr.com
 buyhitscheap.com
 buyitdirect.co.uk
 buymeacoffee.com
@@ -4881,6 +4887,7 @@ clearcomb.com
 clearista.com
 clearme.com
 clearsale.com.br
+clearvoice.com
 cleeng.com
 clerk.io
 cleverads.vn
@@ -5083,6 +5090,7 @@ cloudflare.com
 cloudflareinsights.com
 cloudfront.net
 cloudfunctions.net
+cloudinary.com
 cloudiq.com
 cloudmaestro.com
 cloudsdestruction.com
@@ -5777,6 +5785,7 @@ ddmcdn.com
 ddos-guard.net
 de-de.facebook.com
 de.com
+de.fiverr.com
 de.google.com
 de17a.com
 deabbcdiibjggbbbacb.ru
@@ -5918,6 +5927,7 @@ discordapp.com
 discountninja.io
 discountryvc.club
 discourse-cdn.com
+discover.fiverr.com
 discoveryeducation.com
 discreetfield.com
 diskpart.com
@@ -6665,6 +6675,7 @@ electronic.us
 elephantqueue.com
 elev.io
 elevaate.io
+elevate.fiverr.com
 elevenday.me
 elfsight.com
 eligibility-panelresearch.googlevideo.com
@@ -6969,6 +6980,7 @@ es-la.es-es.de-de.fbjs.facebook.com
 es-la.f.connect.facebook.com
 es-la.facebook.com
 es.facebook.com
+es.fiverr.com
 es.google.com
 escalated.io
 escort69.sexy
@@ -7013,6 +7025,7 @@ events.air.tv
 events.bouncex.net
 events.brightline.tv
 events.browsiprod.com
+events.fiverr.com
 events.mapbox.com
 events.prod.bugs.firebat.prime-video.amazon.dev
 events.tremorhub.com
@@ -7376,6 +7389,7 @@ fiservsolutions-1.demdex.net
 fitbit.com
 fittingbox.com
 five9.com
+fiverr-dev-res.cloudinary.com
 fiverrcdn.com
 fixel.ai
 fiztrade.com
@@ -7491,6 +7505,7 @@ formsite.com
 formstack.com
 fortawesome.com
 forter.com
+forum.fiverr.com
 forumexcellence.com
 forumfree.net
 foshk.com
@@ -7522,6 +7537,7 @@ fr-ca.facebook.com
 fr-fr.facebook.com
 fr-fr.o.facebook.com
 fr.facebook.com
+fr.fiverr.com
 fr.google.com
 fractionalmedia.com
 frailoffer.com
@@ -9135,6 +9151,7 @@ inventionpassenger.com
 investingchannel.com
 investis.com
 investor.fb.com
+investors.fiverr.com
 invidio.us
 invintus.com
 invintusmedia.com
@@ -9232,6 +9249,7 @@ isteam.wsimg.com
 isu.pub
 it-it.facebook.com
 it.facebook.com
+it.fiverr.com
 it.google.com
 italia.it
 itdg.com.br
@@ -9388,6 +9406,7 @@ js-bn.com
 js-sec.indexww.com
 js.ad-score.com
 js.agkn.com
+js.appboycdn.com
 js.braintreegateway.com
 js.chargebee.com
 js.createsend1.com
@@ -9728,6 +9747,7 @@ leadspace.com
 leadsrx.com
 leaflymarket.com
 leaplunchroom.com
+learn.fiverr.com
 leclerc.m.facebook.com
 lee.blueconic.net
 leftliquid.com
@@ -10896,6 +10916,7 @@ nj.google.com
 nk.google.com
 nl-nl.facebook.com
 nl.facebook.com
+nl.fiverr.com
 nl.google.com
 nm.google.com
 nmgassets.com
@@ -10948,6 +10969,7 @@ noxgroup.com
 noz-cdn.de
 noz.de
 np.google.com
+npm-assets.fiverrcdn.com
 npo-data.nl
 npo.nl
 npr.org
@@ -11386,6 +11408,7 @@ p.udkcjr.com
 p.usabilla.com
 p0.com
 p1.zemanta.com
+p11.techlab-cdn.com
 p24.hu
 p26d67164-93a2-4cc6-8556-3e08315ae9ce-54-244-84-195.fastcast.semfs.engsvc.go.com
 p28-quota.icloud.com
@@ -11644,6 +11667,7 @@ platform.smile.io
 platform.twitter.com
 platforum.cloud
 plavxml.com
+play.acast.com
 play.googleapis.com
 play.publicradio.org
 playbuzz.co
@@ -11692,6 +11716,7 @@ po.st
 pocketads.pl
 podbean.com
 podfdch.com
+podfollow.com
 podigee.com
 podium.com
 podnikani.cz
@@ -12376,6 +12401,7 @@ rekmob.com
 relaido.jp
 relap.io
 relappro.com
+relay.fiverr.com
 relevant-digital.com
 relish.com
 rema.m.facebook.com
@@ -12583,6 +12609,7 @@ rss2json.com
 rstudio.com
 rsz.sk
 rt.google.com
+rt2.fiverr.com
 rta.pubocean.com
 rta247.com
 rtalabel.org
@@ -16407,6 +16434,7 @@ www.anagog.com
 www.analysys.cn
 www.analytiall.com
 www.analytics-egain.com
+www.and.co
 www.andomedia.com
 www.android-root-tool.com
 www.androworks.org
@@ -16636,6 +16664,7 @@ www.ckeditor.com
 www.clarity.ms
 www.clearista.com
 www.clearme.com
+www.clearvoice.com
 www.cleverads.vn
 www.clickability.com
 www.clickagy.com
@@ -17778,6 +17807,7 @@ zm.google.com
 zmags.com
 zmbl.co
 zn.google.com
+zn0umm8znjpycgm2n-fiverr.siteintercept.qualtrics.com
 zndikywqsjiuwn0q5-nlmenterprise.siteintercept.qualtrics.com
 zo.google.com
 zoetis.com
