@@ -10969,7 +10969,6 @@ noxgroup.com
 noz-cdn.de
 noz.de
 np.google.com
-npm-assets.fiverrcdn.com
 npo-data.nl
 npo.nl
 npr.org
