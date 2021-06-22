@@ -808,6 +808,7 @@ addons-pa.clients98.google.com
 addons-pa.clients99.google.com
 addons.business
 addoor.net
+addresseetransportationsyndrome.com
 addroplet.com
 addsearch.com
 addshoppers.com
@@ -1580,6 +1581,7 @@ affilae.com
 affiliatefuture.com
 affiliategroove.com
 affiliateprogramma.eu
+affiliates.fiverr.com
 affiliatetechnology.com
 affiliatetrading.net
 affiliatly.com
@@ -1922,6 +1924,7 @@ analyticssuitefrontend-pa.clients98.google.com
 analyticssuitefrontend-pa.clients99.google.com
 ancensoredcdn2.xyz
 anchor.host
+and.co
 and.co.uk
 andbeyond.media
 andomedia.com
@@ -2004,6 +2007,7 @@ api.21ninety.com
 api.actionbutton.co
 api.altmetric.com
 api.atlassian.com
+api.auth.adobe.com
 api.bibblio.org
 api.bmw
 api.bounceexchange.com
@@ -2207,6 +2211,7 @@ apptera.com
 apptimize.com
 apptornado.com
 apptracker.stream
+apptrailers.itunes.g.aaplimg.com
 apptrk.io
 apptus.com
 appular.com
@@ -2308,6 +2313,7 @@ assets.sni-dat.com
 assets.targetimg1.com
 assets.ubembed.com
 assetshuluimcom-a.akamaihd.net
+assetsv2.fiverrcdn.com
 assoc-amazon.com
 associates-amazon.com
 astraone.io
@@ -2352,6 +2358,7 @@ ats.rlcdn.com
 atsptp.com
 atswsd.com
 att.com
+att.demdex.net
 attachment.fbsbx.com
 attachments.facebook.com
 attn.tv
@@ -2423,6 +2430,7 @@ avantisvideo.com
 avantlink.com
 avantmobile.com
 avast.com
+avatars.slant.co
 avazunativeads.com
 avazutracking.net
 avclub.com
@@ -4135,6 +4143,7 @@ blockchain.info
 blockexplorer.com
 blockthrough.com
 blog.facebook.com
+blog.fiverr.com
 blogblog.com
 blogcluster.nl
 blogger.com
@@ -4245,6 +4254,7 @@ bp.google.com
 bpinet.pt
 bpmonline.com
 bq.google.com
+br.fiverr.com
 br.google.com
 brainlyads.com
 braintreegateway.com
@@ -4371,6 +4381,7 @@ butterbulb.com
 butterburst.com
 buxflow.com
 buybox.click
+buyers.fiverr.com
 buyhitscheap.com
 buyitdirect.co.uk
 buymeacoffee.com
@@ -4441,6 +4452,7 @@ calconic.com
 calculatingcircle.com
 calculatingtoothbrush.com
 calculatorcamera.com
+calendarsuggest.client6.google.com
 calendly.com
 californiatimes.com
 callmeasurement.com
@@ -4576,6 +4588,7 @@ cdn-sp-gcs.air.tv
 cdn-spurit.com
 cdn-us-doubleverify.com
 cdn.9xbud.com
+cdn.adpushup.com
 cdn.adsafeprotected.com
 cdn.anvato.net
 cdn.appdomain.cloud
@@ -4663,6 +4676,7 @@ cdn2.bustle.com
 cdn2.editmysite.com
 cdn2.lockerdome.com
 cdn20tube.pro
+cdn3.doubleverify.com
 cdn3.net
 cdn4dd.com
 cdn7.rocks
@@ -4873,6 +4887,7 @@ clearcomb.com
 clearista.com
 clearme.com
 clearsale.com.br
+clearvoice.com
 cleeng.com
 clerk.io
 cleverads.vn
@@ -5075,6 +5090,7 @@ cloudflare.com
 cloudflareinsights.com
 cloudfront.net
 cloudfunctions.net
+cloudinary.com
 cloudiq.com
 cloudmaestro.com
 cloudsdestruction.com
@@ -5769,6 +5785,7 @@ ddmcdn.com
 ddos-guard.net
 de-de.facebook.com
 de.com
+de.fiverr.com
 de.google.com
 de17a.com
 deabbcdiibjggbbbacb.ru
@@ -5910,6 +5927,7 @@ discordapp.com
 discountninja.io
 discountryvc.club
 discourse-cdn.com
+discover.fiverr.com
 discoveryeducation.com
 discreetfield.com
 diskpart.com
@@ -6657,6 +6675,7 @@ electronic.us
 elephantqueue.com
 elev.io
 elevaate.io
+elevate.fiverr.com
 elevenday.me
 elfsight.com
 eligibility-panelresearch.googlevideo.com
@@ -6961,6 +6980,7 @@ es-la.es-es.de-de.fbjs.facebook.com
 es-la.f.connect.facebook.com
 es-la.facebook.com
 es.facebook.com
+es.fiverr.com
 es.google.com
 escalated.io
 escort69.sexy
@@ -7005,6 +7025,7 @@ events.air.tv
 events.bouncex.net
 events.brightline.tv
 events.browsiprod.com
+events.fiverr.com
 events.mapbox.com
 events.prod.bugs.firebat.prime-video.amazon.dev
 events.tremorhub.com
@@ -7368,6 +7389,7 @@ fiservsolutions-1.demdex.net
 fitbit.com
 fittingbox.com
 five9.com
+fiverr-dev-res.cloudinary.com
 fiverrcdn.com
 fixel.ai
 fiztrade.com
@@ -7483,6 +7505,7 @@ formsite.com
 formstack.com
 fortawesome.com
 forter.com
+forum.fiverr.com
 forumexcellence.com
 forumfree.net
 foshk.com
@@ -7514,6 +7537,7 @@ fr-ca.facebook.com
 fr-fr.facebook.com
 fr-fr.o.facebook.com
 fr.facebook.com
+fr.fiverr.com
 fr.google.com
 fractionalmedia.com
 frailoffer.com
@@ -8756,6 +8780,9 @@ hurtteeth.com
 hushforms.com
 hushly.com
 hv.google.com
+hw-cdn.adtng.com
+hw-cdn1.adtng.com
+hw-cdn2.adtng.com
 hw.google.com
 hwcdn.net
 hx.google.com
@@ -8906,6 +8933,7 @@ image.issuu.com
 imagebam.com
 imagendigital.com
 images-apmex.com
+images.dmca.com
 images.outbrain.com
 images.pluto.tv
 images.taboola.com
@@ -8963,6 +8991,7 @@ imspublishergroup.com
 imtwjwoasak.com
 imu.nl
 in-appadvertising.com
+in.appcenter.ms
 in.ftadsrv.com
 in.getclicky.com
 in.google.com
@@ -9122,6 +9151,7 @@ inventionpassenger.com
 investingchannel.com
 investis.com
 investor.fb.com
+investors.fiverr.com
 invidio.us
 invintus.com
 invintusmedia.com
@@ -9219,6 +9249,7 @@ isteam.wsimg.com
 isu.pub
 it-it.facebook.com
 it.facebook.com
+it.fiverr.com
 it.google.com
 italia.it
 itdg.com.br
@@ -9375,6 +9406,7 @@ js-bn.com
 js-sec.indexww.com
 js.ad-score.com
 js.agkn.com
+js.appboycdn.com
 js.braintreegateway.com
 js.chargebee.com
 js.createsend1.com
@@ -9715,6 +9747,7 @@ leadspace.com
 leadsrx.com
 leaflymarket.com
 leaplunchroom.com
+learn.fiverr.com
 leclerc.m.facebook.com
 lee.blueconic.net
 leftliquid.com
@@ -10883,6 +10916,7 @@ nj.google.com
 nk.google.com
 nl-nl.facebook.com
 nl.facebook.com
+nl.fiverr.com
 nl.google.com
 nm.google.com
 nmgassets.com
@@ -11373,6 +11407,7 @@ p.udkcjr.com
 p.usabilla.com
 p0.com
 p1.zemanta.com
+p11.techlab-cdn.com
 p24.hu
 p26d67164-93a2-4cc6-8556-3e08315ae9ce-54-244-84-195.fastcast.semfs.engsvc.go.com
 p28-quota.icloud.com
@@ -11631,6 +11666,7 @@ platform.smile.io
 platform.twitter.com
 platforum.cloud
 plavxml.com
+play.acast.com
 play.googleapis.com
 play.publicradio.org
 playbuzz.co
@@ -11639,6 +11675,7 @@ player.anyclip.com
 player.cnevids.com
 player.field59.com
 player.spotim.market
+player1-macbook-air.lan	Blocked (gravity)
 Player1-Macbook-Air.lan	OK
 playground.xyz
 playlist.megaphone.fm
@@ -11678,6 +11715,7 @@ po.st
 pocketads.pl
 podbean.com
 podfdch.com
+podfollow.com
 podigee.com
 podium.com
 podnikani.cz
@@ -12362,6 +12400,7 @@ rekmob.com
 relaido.jp
 relap.io
 relappro.com
+relay.fiverr.com
 relevant-digital.com
 relish.com
 rema.m.facebook.com
@@ -12569,12 +12608,14 @@ rss2json.com
 rstudio.com
 rsz.sk
 rt.google.com
+rt2.fiverr.com
 rta.pubocean.com
 rta247.com
 rtalabel.org
 rtb-csync.smartadserver.com
 rtb-seller.com
 rtb.mfadsrvr.com
+rtb0.doubleverify.com
 rtb123.com
 rtk.io
 rtm.com
@@ -12671,6 +12712,7 @@ s2-iad-ww.cf.videorolls.row.aiv-cdn.net
 s2.googleusercontent.com
 s2.wp.com
 s3-1-w.amazonaws.com
+s3-dub-2.cf.trailer.row.aiv-cdn.net
 s3-iad-2.cf.dash.row.aiv-cdn.net
 s3-iad-ww.cf.videorolls.row.aiv-cdn.net
 s3.us-east-1.wasabisys.com
@@ -13552,6 +13594,7 @@ skylowhat.site
 skype.com
 skyscanner.net
 sl.google.com
+slant.co
 slashdotmedia.com
 slaysweater.com
 sleeknote.com
@@ -14707,6 +14750,8 @@ tpmedia-reactads.com
 tps.doubleverify.com
 tps10232.doubleverify.com
 tps30.doubleverify.com
+tps604.doubleverify.com
+tps623.doubleverify.com
 tpt.cloud
 tq.google.com
 tr-tr.facebook.com
@@ -16388,6 +16433,7 @@ www.anagog.com
 www.analysys.cn
 www.analytiall.com
 www.analytics-egain.com
+www.and.co
 www.andomedia.com
 www.android-root-tool.com
 www.androworks.org
@@ -16617,6 +16663,7 @@ www.ckeditor.com
 www.clarity.ms
 www.clearista.com
 www.clearme.com
+www.clearvoice.com
 www.cleverads.vn
 www.clickability.com
 www.clickagy.com
@@ -17026,6 +17073,7 @@ www.silvermob.com
 www.simpleanalytics.com
 www.simplesharebuttons.com
 www.skimresources.com
+www.slant.co
 www.slashdotmedia.com
 www.smart4ads.com
 www.smartadserver.com
@@ -17042,6 +17090,7 @@ www.springserve.com
 www.sprout-ad.com
 www.ssl-services.com
 www.sstatic.net
+www.stack-sonar.com
 www.stailamedia.com
 www.star-advertising.com
 www.stat24.com
@@ -17757,6 +17806,7 @@ zm.google.com
 zmags.com
 zmbl.co
 zn.google.com
+zn0umm8znjpycgm2n-fiverr.siteintercept.qualtrics.com
 zndikywqsjiuwn0q5-nlmenterprise.siteintercept.qualtrics.com
 zo.google.com
 zoetis.com
@@ -17810,47 +17860,11 @@ zy.google.com
 zynbit.com
 zz.google.com
 zzvid.com
-s.go-mpulse.net
-go-mpulse.net
-tru.am
-images.dmca.com
-dmca.com
-avatars.slant.co
-slant.co
-ucarecdn.com
-in.appcenter.ms
-appcenter.ms
-a.pub.network
-pub.network
-www.slant.co
-slant.co
-apptrailers.itunes.g.aaplimg.com
-o36975.ingest.sentry.io
-ingest.sentry.io
-calendarsuggest.client6.google.com
-api.auth.adobe.com
-auth.adobe.com
-player1-macbook-air.lan	Blocked (gravity)
-hw-cdn2.adtng.com
-hw-cdn1.adtng.com
-hw-cdn.adtng.com
-adtng.com
-s3-dub-2.cf.trailer.row.aiv-cdn.net
-addresseetransportationsyndrome.com
-
-
-www.stack-sonar.com
-stack-sonar.com
-cdn.adpushup.com
-adpushup.com
-tps604.doubleverify.com
-doubleverify.com
-att.demdex.net
-d.agkn.com
-tps623.doubleverify.com
-
-rtb0.doubleverify.com
-
-cdn3.doubleverify.com
-s0.2mdn.net
-ad.doubleclick.net
+sv.symcd.com
+symcd.com
+apidata.googleusercontent.com
+mydatascript.bubbleup.com
+bubbleup.com
+Cookieyes.com
+Noyb.eu
+SustainableComputing.eu
