@@ -17879,3 +17879,13 @@ cdn1.buysellads.net
 cdn.buysellads.net
 buysellads.net
 hacs.xyz
+ocsp.pki.goog
+pki.goog
+ocsp.apple.com
+gdmf.apple.com
+cf.iadsdk.apple.com
+iadsdk.apple.com
+iphone-ld.apple.com
+configuration.apple.com
+ota.lokalise.co
+lokalise.co
