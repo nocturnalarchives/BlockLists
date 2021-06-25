@@ -47,6 +47,9 @@ updates.sslauth.sonos.com
 updates.ws.sonos.com
 sonos-pmap.ws.sonos.com
 spotify-static.ws.sonos.com
+lechmere-v1.sslauth.sonos.com
+conn-i-08dcdc76a339be04a-us-east-1.lechmere.prod.ws.sonos.com
+
 
 #########################################################################################
 ##
