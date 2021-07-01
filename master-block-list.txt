@@ -457,6 +457,7 @@ a8723.com
 aa.google.com
 aa.online-metrix.net
 aa.trkn.us
+aaa.army
 aaacompany.net
 aaaecommerce.com
 aaawebstore.com
@@ -1572,6 +1573,7 @@ aebn.net
 aegpresents.com
 aemet.es
 aeplcdn.com
+aerisapi.com
 aerserv.com
 aestivator.com
 af.google.com
@@ -2063,6 +2065,7 @@ api3.branch.io
 api64.com
 apia.com.au
 apicit.net
+apidata.googleusercontent.com
 apikeys.civiccomputing.com
 apis.com.br
 apis.google.com
@@ -4341,6 +4344,7 @@ btstatic.com
 bttrack.com
 btttag.com
 bu.google.com
+bubbleup.com
 bucketbean.com
 buckridge.link
 bufferapp.com
@@ -4590,6 +4594,7 @@ cdn-us-doubleverify.com
 cdn.9xbud.com
 cdn.adpushup.com
 cdn.adsafeprotected.com
+cdn.aerisapi.com
 cdn.anvato.net
 cdn.appdomain.cloud
 cdn.appdynamics.com
@@ -4602,6 +4607,7 @@ cdn.branch.io
 cdn.brandmetrics.com
 cdn.brid.tv
 cdn.britepool.com
+cdn.buysellads.net
 cdn.carbonads.com
 cdn.ckeditor.com
 cdn.cohesionapps.com
@@ -4672,12 +4678,16 @@ cdn.viglink.com
 cdn.virtuoussoftware.com
 cdn.volument.com
 cdn.wallit.io
+cdn1.buysellads.net
 cdn2.bustle.com
+cdn2.buysellads.net
 cdn2.editmysite.com
 cdn2.lockerdome.com
 cdn20tube.pro
+cdn3.buysellads.net
 cdn3.doubleverify.com
 cdn3.net
+cdn4.buysellads.net
 cdn4dd.com
 cdn7.rocks
 cdn77.org
@@ -5368,6 +5378,7 @@ cookiepro.com
 cookiereports.com
 cookiesno.com
 cookieyes.com
+Cookieyes.com
 cooladata.com
 coordinatedcub.com
 copart.com
@@ -7709,6 +7720,7 @@ gcdn.co
 gcimetrics.com
 gcion.com
 gd.google.com
+gdmf.apple.com
 gdpr-check.net
 gdpr-web-dau-prod.privacymanager.io
 gdpr-wrapper.privacymanager.io
@@ -8013,6 +8025,7 @@ grandioseguide.com
 granicus.com
 granify.com
 graph-video.facebook.com
+graph.amctheatres.com
 graph.bluecava.com
 graph.bustle.com
 graph.facebook.com
@@ -8501,6 +8514,7 @@ h5v.eu
 h78xb.pw
 ha.google.com
 hacon.de
+hacs.xyz
 halo123.com
 haltingbadge.com
 ham.hngr.co
@@ -9953,6 +9967,7 @@ logs.psm.wmcdp.io
 logsss.com
 logx.optimizely.com
 logystowtencon.info
+lokalise.co
 loli.net
 lolibay.to
 lolicam.site
@@ -10680,6 +10695,7 @@ mybuys.com
 mycdn.co
 mycliplister.com
 mycounter.ua
+mydatascript.bubbleup.com
 mydecathlon.com
 myedgy.be
 myersinfosys.com
@@ -10966,6 +10982,7 @@ novomind.com
 nowads.biz
 nowinteract.com
 noxgroup.com
+Noyb.eu
 noz-cdn.de
 noz.de
 np.google.com
@@ -11082,6 +11099,7 @@ ocbc.m.facebook.com
 ocdn.eu
 ocgov.com
 ocm.de
+ocsp.apple.com
 ocsp.digicert.com
 ocsp.entrust.net
 ocsp.int-x3.letsencrypt.org
@@ -11347,6 +11365,7 @@ osano.com
 osmnames.org
 osnova.io
 ot.google.com
+ota.lokalise.co
 otaserve.net
 otherlab.com
 otherlevels.com
@@ -11649,6 +11668,7 @@ pj.google.com
 pj.l.admedo.com
 pk.google.com
 pki-goog.l.google.com
+pki.goog
 pkqeg5z3xffs.info
 pkwteile.de
 pl-pl.facebook.com
@@ -14283,9 +14303,11 @@ surveymonkey.com
 surveywall-api.survata.com
 survicate.com
 suspension.parts
+SustainableComputing.eu
 sutherlandglobal.com
 sv-se.facebook.com
 sv.google.com
+sv.symcd.com
 svc.example.net
 svc2.example.net
 svonm.com
@@ -14315,6 +14337,7 @@ sxp.smartclip.net
 sy.google.com
 syllable.ai
 symantec.com
+symcd.com
 symptoma.com
 syn-cdn.com
 synacor.com
@@ -17860,32 +17883,3 @@ zy.google.com
 zynbit.com
 zz.google.com
 zzvid.com
-sv.symcd.com
-symcd.com
-apidata.googleusercontent.com
-mydatascript.bubbleup.com
-bubbleup.com
-Cookieyes.com
-Noyb.eu
-SustainableComputing.eu
-nrcapi.ssl2.duapps.com
-momentjs.com
-cdn.aerisapi.com
-aerisapi.com
-cdn4.buysellads.net
-cdn3.buysellads.net
-cdn2.buysellads.net
-cdn1.buysellads.net
-cdn.buysellads.net
-buysellads.net
-hacs.xyz
-ocsp.pki.goog
-pki.goog
-ocsp.apple.com
-gdmf.apple.com
-cf.iadsdk.apple.com
-iadsdk.apple.com
-iphone-ld.apple.com
-configuration.apple.com
-ota.lokalise.co
-lokalise.co
