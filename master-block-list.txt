@@ -19,6 +19,7 @@
 04.taskassist-pa.clients.google.com
 05.client-channel.google.com
 05.taskassist-pa.clients.google.com
+05f14972-530d-4235-a941-d79be44f229b.edge.permutive.app
 06.client-channel.google.com
 06.taskassist-pa.clients.google.com
 07.client-channel.google.com
@@ -71,6 +72,7 @@
 130.rbx.abcvg.ovh
 14.client-channel.google.com
 14.taskassist-pa.clients.google.com
+140cc.v.fwmrm.net
 140proof.com
 15.client-channel.google.com
 15.taskassist-pa.clients.google.com
@@ -3338,6 +3340,7 @@ amazon.co.uk
 amazon.de
 amazon.dev
 amazon.jobs
+amazoncustomerservice.d2.sc.omtrdc.net
 amazontrust.com
 ambient-platform.com
 ambientdsp.com
@@ -3967,6 +3970,7 @@ api.rewards.brave.com
 api.rollbar.com
 api.sail-personalize.com
 api.smoot.apple.com
+api.ssrn.com
 api.tiles.mapbox.com
 api.time.com
 api.uca.cloud.unity3d.com
@@ -4396,6 +4400,7 @@ attractivecap.com
 attribution.report
 attributionapp.com
 attributiontrackingga.googlecode.com
+attservicesinc.tt.omtrdc.net
 atuttonet.it
 atwola.com
 atxqb.psychologies.com
@@ -4549,6 +4554,7 @@ az-az.facebook.com
 az-cdn.ch
 az.google.com
 az.gov
+az1.qualtrics.com
 az416426.vo.msecnd.net
 az43064.vo.msecnd.net
 az693360.vo.msecnd.net
@@ -7174,6 +7180,7 @@ cdn-apple.com
 cdn-channels-pixel.ex.co
 cdn-cnj.si
 cdn-code.host
+cdn-eu.dynamicyield.com
 cdn-fallback.petametrics.com
 cdn-gl.
 cdn-images.mailchimp.com
@@ -7223,6 +7230,8 @@ cdn.fera.ai
 cdn.foxycart.com
 cdn.freefacti.com
 cdn.ghostmonitor.com
+cdn.gotchosen.com
+cdn.heapanalytics.com
 cdn.ihsmarkit.com
 cdn.inpwrd.net
 cdn.instapagemetrics.com
@@ -8161,6 +8170,7 @@ cointraffic.io
 coinzilla.com
 coinzillatag.com
 coke.com
+col.eum-appdynamics.com
 coletor.terra.com
 collab.apps.mil
 collaborateext.verizon.com
@@ -8338,6 +8348,7 @@ connect.facetwealth.com
 connect.flowroute.com
 connect.imam-us.org
 connect.intel.com
+connect.liblynx.com
 connect.mchdata.com
 connect.medical.rossu.edu
 connect.mikrocentrum.nl
@@ -8383,8 +8394,10 @@ consensu.org
 consent.api.osano.com
 consent.cmp.oath.com
 consent.cookiebot.com
+consent.google.com
 consent.inm.ie
 consent.is
+consent.trustarc.com
 consent.truste.com
 consentag.eu
 consentprovider.leadexec.com
@@ -8797,6 +8810,7 @@ ct.irl.com
 ct.needlive.com
 ct.pinterest.com
 ct5m.citadium.com
+cta-service-cms2.hubspot.com
 cta.onguard.com
 ctbn.ru
 ctctcdn.com
@@ -9626,6 +9640,7 @@ directservices.it
 directtrack.com
 directv.com
 dirt.dennis.co.uk
+dis.us.criteo.com
 discord.com
 discordapp.com
 discountclick.com
@@ -9664,6 +9679,7 @@ districim.io
 districtm.ca
 districtm.io
 districtm.net
+dit.whatsapp.net
 ditr.ninja
 dittrich-naehmaschinen.com
 diversesolutions.com
@@ -9963,6 +9979,7 @@ dsspn.com
 dstillery.com
 dsum-sec.casalemedia.com
 dsum.casalemedia.com
+dsw.tt.omtrdc.net
 dt.google.com
 dt.nrjmobile.fr
 dt1pxsve3tgas.cloudfront.net
@@ -10549,9 +10566,11 @@ edge-video-shv-01-yyz1.fbcdn.net
 edge-video-shv-02-dft4.fbcdn.net
 edge-video-shv-02-sin6.fbcdn.net
 edge.adobedc.net
+edge.permutive.app
 edge.quantserve.com
 edgecastcdn.net
 edgedl.gvt1.com
+edgedl.me.gvt1.com
 edgefonts.net
 edgeio.com
 edgekey.net
@@ -12473,6 +12492,7 @@ german-linkindex.de
 gestionexterne.com
 get-native.eu
 get.anthem.com
+get.civicscience.com
 get.docusign.com
 get.s-onetag.com
 getambassador.com
@@ -12725,6 +12745,7 @@ goadservices.com
 goaffpro.com
 goals.rusingh.com
 gob.m.facebook.com
+godaddy.az1.qualtrics.com
 godaddy.com
 godo.co.kr
 goerdetselv.dk
@@ -16035,6 +16056,7 @@ lovecash.com
 lovely-app.com
 lovelydrum.com
 loveniki.ru
+lowes.ecorebates.com
 lowlocket.com
 loxodo-analytics.ext.nile.works
 loyalhealth.com
@@ -16071,6 +16093,7 @@ ls-models.gr
 ls-new.apple.com
 ls-origin-apple.com
 ls.apple.com
+ls.chatid.com
 ls.google.com
 lslinks.pw
 lslmetrics.djlmgdigital.com
@@ -16839,6 +16862,7 @@ mavenaudiences.com
 mavencoalition.io
 mavq.net
 mavrck.co
+maw.bronto.com
 max.i12.de
 maxcdn.com
 maxfullad.com
@@ -16961,6 +16985,7 @@ mdws.yourcu.com
 me-api.phunware.com
 me.apple-dns.net
 me.google.com
+me.gvt1.com
 measure.ameblo.jp
 measure.refinery89.com
 measured.com
@@ -17116,6 +17141,8 @@ mercedes-benz.com
 mercent.com
 merchantadvantage.com
 merchantequip.com
+mercola.demdex.net
+mercolaconsultingser.tt.omtrdc.net
 mercolocal.com
 merdeka.com
 meredith.com
@@ -18168,6 +18195,7 @@ mpianalytics.com
 mpio.io
 mplxtms.com
 mpnrs.com
+mpsnare.iesnare.com
 mpstat.us
 mptgate.com
 mq.google.com
@@ -18745,6 +18773,7 @@ notice.samsungcloudsolution.com
 noticecdn.samsungcloudsolution.com
 noticefile.samsungcloudsolution.com
 notifia.io
+notification.adblockplus.org
 notification.services
 notification.viktvaktarna.se
 notifier-configs.airbrake.io
@@ -20899,6 +20928,7 @@ rcgi.video.qq.com
 rcgroups.net
 rcm.shinobi.jp
 rcn.m.facebook.com
+rcom-eu.dynamicyield.com
 rcom.dynamicyield.com
 rcqiho.emp.de
 rcrsv.io
@@ -21660,6 +21690,7 @@ salesmanago.pl
 salesreps.io
 saleswingsapp.com
 salsalabs.org
+salsify-ecdn.com
 salzwerk.viessmann.de
 samandehi.ir
 samba.tv
@@ -21730,6 +21761,7 @@ sanalytics.wideroe.no
 sancdn.net
 sandbox-st11-1.gc.apple.com
 sandbox.gc.apple.com
+sandbox.tinypass.com
 sandisk.com
 sanl.champssports.com
 sanl.eastbay.com
@@ -22217,6 +22249,7 @@ se.google.com
 seaboblit.com
 seadform.net
 seahorseinfo.agilent.com
+seal-chicago.bbb.org
 sealingdev.actonservice.com
 seamlessaccess.org
 seamus.amazon.co.uk
@@ -22241,6 +22274,7 @@ seayipsex.com
 seb.sharpmarketing.eu
 sec-analytics.panasonic.co.uk
 sec-analytics.panasonic.de
+seccdn-gl.imrworldwide.com
 secmetrics.bkb.ch
 secmetrics.leggmason.com
 secmetrics.schaefer-shop.at
@@ -22953,6 +22987,7 @@ smartclip.net
 smartdevicemedia.com
 smarteragent.com
 smartgiftit.com
+smartlock.google.com
 smartlook.com
 smartmetrics.co.uk
 smartmove.us
@@ -23926,6 +23961,7 @@ sslanalytics.sixt.com
 sslsc.sanitas.com
 sslstats.canadapost-postescanada.ca
 sslstats.canadapost.ca
+sslwidget.criteo.com
 ssmr.nuro.jp
 ssmr.so-net.ne.jp
 ssmr2.so-net.ne.jp
@@ -24039,12 +24075,14 @@ sstats2.gq.com
 ssum-sec.casalemedia.com
 ssum.casalemedia.com
 ssw.live.com
+st-eu.dynamicyield.com
 st-hatena.com
 st-nlyss1.plala.or.jp
 st.arte.tv
 st.azcardinals.com
 st.bahn.de
 st.cdnco.us
+st.dynamicyield.com
 st.fullcircleinsights.com
 st.google.com
 st.hbrd.io
@@ -24269,12 +24307,15 @@ static.chartbeat.com
 static.cloudflareinsights.com
 static.criteo.net
 static.doubleclick.net
+static.dynamicyield.com
+static.ecorebates.com
 static.ess.apple.com
 static.facebook.com
 static.fdel11-1.fna.fbcdn.net
 static.fmpub.net
 static.fsea1-1.fna.fbcdn.net
 static.gc.apple.com
+static.getclicky.com
 static.hotjar.com
 static.ips.apple.com
 static.itools.com
@@ -24304,6 +24345,7 @@ statics-marketingsites-eus-ms-com.akamaized.net
 statics.life
 staticsfly.com
 staticstuff.net
+staticw2.yotpo.com
 staticwars.com
 staticworld.net
 staticxx.facebook.com
@@ -25574,6 +25616,7 @@ tgam.arcpublishing.com
 tglyr.co
 tgna-ux-dev.service.signalr.net
 tgna-ux-east2.service.signalr.net
+tgpfactcheck.com
 tgsdiw.dedoles.de
 tgtag.io
 th-th.facebook.com
@@ -27216,6 +27259,7 @@ usibook.xyz
 usmsad.tom.com
 usocial.pro
 usonar.jp
+uspto.report
 usrwy.com
 ustatik.com
 ustglobal.m.facebook.com
@@ -29588,6 +29632,7 @@ www.yoast.com
 www.yomedia.vn
 www.youmaker.com
 www.younetmedia.com
+www.youtube-nocookie.com
 www.youtubepp.com
 www.ysense.com
 www.yuhuads.com
@@ -30455,4 +30500,3 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
-dit.whatsapp.net
