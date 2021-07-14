@@ -21104,6 +21104,7 @@ reginapps.com
 register.facebook.com
 registerdisney.go.com
 registry.api.cnn.io
+registry.npmjs.org
 regmedia.co.uk
 regnow.com
 rehmann.actonservice.com
@@ -26892,6 +26893,7 @@ ttauri.toptenreviews.com
 ttauri.whathifi.com
 ttdetect.staticimgfarm.com
 ttgtmedia.com
+ttvnw.net
 ttxm.co.uk
 tu.google.com
 tube.ac
@@ -27255,6 +27257,7 @@ usertracks.live
 uservoice.com
 userway.org
 userzoom.com
+usher.ttvnw.net
 usibook.xyz
 usmsad.tom.com
 usocial.pro
