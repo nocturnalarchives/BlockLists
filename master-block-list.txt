@@ -30503,3 +30503,13 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
+cf-timedtext.aux.pv-cdn.net
+metering.platform.latimes.com
+platform.latimes.com
+activate.platform.californiatimes.com
+platform.californiatimes.com
+ssor.platform.californiatimes.com
+libs.platform.californiatimes.com
+datadesk-prod-origin.californiatimes.com
+caltimes.edge.nc0.co
+
