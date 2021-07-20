@@ -30522,3 +30522,10 @@ carto.com
 images.ctfassets.net
 videos.ctfassets.net
 ctfassets.net
+kraken-measurements.s3-external.amazonaws.com
+982b762063fc2544cee0e2dcd38ecc8013de47c88bca28ae25044c4da969ba8.us-east-1.prod.service.minerva.devices.a2z.com
+
+prod.service.minerva.devices.a2z.com
+service.minerva.devices.a2z.com
+minerva.devices.a2z.com
+devices.a2z.com
