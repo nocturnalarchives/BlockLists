@@ -14426,7 +14426,7 @@ huffpost.com.iasds01.com
 huffpost.com.media6degrees.com
 huffpost.com.mookie1.com
 huffpost.com.nr-data.net
-huffpost.com.resetdigital.co:10001
+huffpost.com.resetdigital.com
 huffpost.com.w55c.net
 huffpost.commdn.net
 huffpost.comrx.io
@@ -22223,7 +22223,7 @@ researchnow.com
 reseausocialsolutions.co
 reservationszone.com
 resetdigital.co
-resetdigital.co:10001
+resetdigital.com
 reseufun.com
 resize.hswstatic.com
 resolutekey.com
