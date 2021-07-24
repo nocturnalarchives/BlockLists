@@ -30512,4 +30512,13 @@ ssor.platform.californiatimes.com
 libs.platform.californiatimes.com
 datadesk-prod-origin.californiatimes.com
 caltimes.edge.nc0.co
-
+www.clarity.ms
+clarity.ms
+biadu.com
+poseidon01.ssrn.com
+hq.ssrn.com
+www.carto.com
+carto.com
+images.ctfassets.net
+videos.ctfassets.net
+ctfassets.net
