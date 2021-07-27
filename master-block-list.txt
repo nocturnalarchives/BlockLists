@@ -31926,3 +31926,10 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
+cf-timedtext.aux.pv-cdn.net
+cf-us.dash.pv-cdn.net
+sdk.privacy-center.org
+privacy-center.org
+s.go-mpulse.net
+go-mpulse.net
+tru.am
