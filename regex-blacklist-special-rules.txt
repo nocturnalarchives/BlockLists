@@ -251,3 +251,10 @@
 (\.|^)*svc\.
 (\.|^)*zooomyapps*\.
 (\.|^)*zooom*\.
+(\.|^)*sw-?scan*\.
+(\.|^)*software-?scan*\.
+(\.|^)*memberful*\.
+(\.|^)*member*\.
+(\.|^)*client*\.
+(\.|^)*crisp*\.
+(\.|^)*chat*\.

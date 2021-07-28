@@ -7688,6 +7688,7 @@ cf-cpc-worker.pub-ocean-cloudflare-account.workers.dev
 cf-images.us-east-1.prod.boltdns.net
 cf-timedtext.aux.pv-cdn.net
 cf-trickplay.aux.pv-cdn.net
+cf-us.dash.pv-cdn.net
 cf.geekdo-static.com
 cf.google.com
 cf.iadsdk.apple.com
@@ -8078,6 +8079,7 @@ client-api.arkoselabs.com
 client-channel.google.com
 client-event-reporter.twitch.tv
 client-log.box.com
+client.crisp.chat
 client.google.com
 client.optimizely.com
 client0.google.com
@@ -22012,6 +22014,7 @@ receptiveink.com
 receptivereaction.com
 recirculation.spot.im
 reciteme.com
+reclaimthenet.memberful.com
 reco.hardsextube.com
 recognified.net
 recommendation-hybrid.wpdigital.net
@@ -23304,6 +23307,7 @@ sdcs.felissimo.co.jp
 sdhfbvd.com
 sdk.beemray.com
 sdk.hockeyapp.net
+sdk.privacy-center.org
 sdk.sharethrough.com
 sdk.snapkit.com
 sdk.split.io
@@ -31926,15 +31930,3 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
-cf-timedtext.aux.pv-cdn.net
-cf-us.dash.pv-cdn.net
-sdk.privacy-center.org
-privacy-center.org
-s.go-mpulse.net
-go-mpulse.net
-tru.am
-nrcapi.ssl2.duapps.com
-ssl2.duapps.com
-duapps.com
-pasta.esfile.duapps.com
-esfile.duapps.com
