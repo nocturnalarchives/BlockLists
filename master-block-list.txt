@@ -31933,3 +31933,8 @@ privacy-center.org
 s.go-mpulse.net
 go-mpulse.net
 tru.am
+nrcapi.ssl2.duapps.com
+ssl2.duapps.com
+duapps.com
+pasta.esfile.duapps.com
+esfile.duapps.com
