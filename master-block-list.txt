@@ -7516,6 +7516,7 @@ cdnondemand.org
 cdnpark.com
 cdnproviders.net
 cdns.connatix.com
+cdns.tblsft.com
 cdns.us1.gigya.com
 cdns1.gigya.com
 cdns2.gigya.com
@@ -7688,6 +7689,7 @@ cf-cpc-worker.pub-ocean-cloudflare-account.workers.dev
 cf-images.us-east-1.prod.boltdns.net
 cf-timedtext.aux.pv-cdn.net
 cf-trickplay.aux.pv-cdn.net
+cf-us.dash.pv-cdn.net
 cf.geekdo-static.com
 cf.google.com
 cf.iadsdk.apple.com
@@ -8078,6 +8080,7 @@ client-api.arkoselabs.com
 client-channel.google.com
 client-event-reporter.twitch.tv
 client-log.box.com
+client.crisp.chat
 client.google.com
 client.optimizely.com
 client0.google.com
@@ -21501,6 +21504,7 @@ pubguru.com
 public-api.wordpress.com
 public-dns-a.baidu.com
 public.dns.iij.jp
+public.tableau.com
 public.vilynx.com
 public1.alidns.com
 public2.114dns.com
@@ -21509,6 +21513,7 @@ publicidad.elmundo.es
 publicidees.com
 publicize.co
 publicschoolworks.actonservice.com
+publicstaticcdn.tableausoftware.com
 publift.com
 publir.com
 publish-int.se
@@ -22012,6 +22017,7 @@ receptiveink.com
 receptivereaction.com
 recirculation.spot.im
 reciteme.com
+reclaimthenet.memberful.com
 reco.hardsextube.com
 recognified.net
 recommendation-hybrid.wpdigital.net
@@ -23304,6 +23310,7 @@ sdcs.felissimo.co.jp
 sdhfbvd.com
 sdk.beemray.com
 sdk.hockeyapp.net
+sdk.privacy-center.org
 sdk.sharethrough.com
 sdk.snapkit.com
 sdk.split.io
@@ -26439,6 +26446,7 @@ ta.sanook.com
 taadd.com
 tabarn.app
 tableau.com
+tableausoftware.com
 tablereservation.info
 taboola.com
 tac1.disqus.com
@@ -26587,6 +26595,7 @@ taxel.jp
 taylorshellfish.actonservice.com
 tb.google.com
 tbe.tom.ru
+tblsft.com
 tbmbm.net
 tc.airfrance.com
 tc.google.com
@@ -26839,6 +26848,7 @@ thechanlist.xyz
 thecoffeeilove.com
 thecounter.com
 thecreativer.com
+thedailybell.com
 thefacebook.com
 thefastestguninthewest.bitchute.com
 thefuturearticle.net
@@ -30958,6 +30968,7 @@ www.teads.com
 www.tentaculos.net
 www.terracotta.com
 www.terracotta.org
+www.thedailybell.com
 www.thefacebook.com
 www.theplatform.com
 www.thescore.com
@@ -31926,15 +31937,3 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
-cf-timedtext.aux.pv-cdn.net
-cf-us.dash.pv-cdn.net
-sdk.privacy-center.org
-privacy-center.org
-s.go-mpulse.net
-go-mpulse.net
-tru.am
-nrcapi.ssl2.duapps.com
-ssl2.duapps.com
-duapps.com
-pasta.esfile.duapps.com
-esfile.duapps.com
