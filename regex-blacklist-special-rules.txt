@@ -258,3 +258,7 @@
 (\.|^)*client*\.
 (\.|^)*crisp*\.
 (\.|^)*chat*\.
+(\.|^)*tableau*\.
+(\.|^)*tblsft*\.
+(\.|^)*tableausoftware*\.
+(\.|^)*tableau*\.

@@ -7516,6 +7516,7 @@ cdnondemand.org
 cdnpark.com
 cdnproviders.net
 cdns.connatix.com
+cdns.tblsft.com
 cdns.us1.gigya.com
 cdns1.gigya.com
 cdns2.gigya.com
@@ -21503,6 +21504,7 @@ pubguru.com
 public-api.wordpress.com
 public-dns-a.baidu.com
 public.dns.iij.jp
+public.tableau.com
 public.vilynx.com
 public1.alidns.com
 public2.114dns.com
@@ -21511,6 +21513,7 @@ publicidad.elmundo.es
 publicidees.com
 publicize.co
 publicschoolworks.actonservice.com
+publicstaticcdn.tableausoftware.com
 publift.com
 publir.com
 publish-int.se
@@ -26443,6 +26446,7 @@ ta.sanook.com
 taadd.com
 tabarn.app
 tableau.com
+tableausoftware.com
 tablereservation.info
 taboola.com
 tac1.disqus.com
@@ -26591,6 +26595,7 @@ taxel.jp
 taylorshellfish.actonservice.com
 tb.google.com
 tbe.tom.ru
+tblsft.com
 tbmbm.net
 tc.airfrance.com
 tc.google.com
@@ -26843,6 +26848,7 @@ thechanlist.xyz
 thecoffeeilove.com
 thecounter.com
 thecreativer.com
+thedailybell.com
 thefacebook.com
 thefastestguninthewest.bitchute.com
 thefuturearticle.net
@@ -30962,6 +30968,7 @@ www.teads.com
 www.tentaculos.net
 www.terracotta.com
 www.terracotta.org
+www.thedailybell.com
 www.thefacebook.com
 www.theplatform.com
 www.thescore.com
