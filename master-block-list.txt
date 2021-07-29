@@ -31937,3 +31937,6 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
+ocsp.rootca1.amazontrust.com
+rootca1.amazontrust.com
+amazontrust.com
