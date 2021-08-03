@@ -7687,7 +7687,6 @@ ceuswatcab01.blob.core.windows.net
 ceuswatcab02.blob.core.windows.net
 cf-cpc-worker.pub-ocean-cloudflare-account.workers.dev
 cf-images.us-east-1.prod.boltdns.net
-cf-timedtext.aux.pv-cdn.net
 cf-trickplay.aux.pv-cdn.net
 cf-us.dash.pv-cdn.net
 cf.geekdo-static.com
@@ -31937,3 +31936,6 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
+ocsp.rootca1.amazontrust.com
+rootca1.amazontrust.com
+amazontrust.com
