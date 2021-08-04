@@ -1494,6 +1494,7 @@ adctrl.com
 adcycle.com
 add-client.com
 add.newmedia.cz
+add0n.com
 addapptr.com
 addash.co
 addealing.com
@@ -4621,6 +4622,7 @@ awestc.com
 awin1.com
 awmserve.com
 awowwo.forever21.com
+aws1.discourse-cdn.com
 awsatstb.com
 awsmpsa.com
 awsstatic.com
@@ -6501,6 +6503,7 @@ bidclix.net
 bidder-shv-05-frc3.facebook.com
 bidder-shv-10-frc1.facebook.com
 bidder.criteo.com
+bidder.doceree.com
 bidder.mediams.mb.softbank.jp
 biddercore.io
 biddingx.com
@@ -7390,6 +7393,7 @@ cdn-sp-gcs.air.tv
 cdn-spurit.com
 cdn-us-doubleverify.com
 cdn.9xbud.com
+cdn.add0n.com
 cdn.adpushup.com
 cdn.adsafeprotected.com
 cdn.aerisapi.com
@@ -9222,6 +9226,7 @@ d179kwmlpc4o47.cloudfront.net
 d17m68fovwmgxj.cloudfront.net
 d18p8z0ptb8qab.cloudfront.net
 d191y0yd6d0jy4.cloudfront.net
+d1bxh8uas1mnw7.cloudfront.net
 d1cdnlzf6usiff.cloudfront.net
 d1cerpgff739r9.cloudfront.net
 d1clfvuu2240eh.cloudfront.net
@@ -10143,6 +10148,7 @@ do.google.com
 doa1.immobilier-neuf.com
 doabqu.s3.com.tw
 doagpm.promart.pe
+doceree.com
 docileyellow.club
 docksalmon.com
 docomo.ne.jp
@@ -10288,6 +10294,7 @@ dqs.actonservice.com
 dqs3.darjeeling.fr
 dqygip.clarins.ru
 dr.google.com
+dr15zo9o33078.cloudfront.net
 drabsize.com
 dragonforms.com
 dragzebra.com
@@ -19093,6 +19100,7 @@ mybbc-analytics.files.bbci.co.uk
 mybestpro.com
 mybloglog.com
 mybrightidea.co
+mybrowseraddon.com
 mybuys.com
 mycdn.co
 mycliplister.com
@@ -21017,6 +21025,7 @@ player.field59.com
 player.spotim.market
 player1-macbook-air.lan	Blocked (gravity)
 Player1-Macbook-Air.lan	OK
+players.brightcove.net
 playfantasticsplastic.com
 playground.xyz
 playhaven.com
@@ -22174,6 +22183,7 @@ remarketingpixel.com
 remarketstats.com
 remarkety.com
 remixd.com
+remote.captcha.com
 remotead.cnet.com
 remove-client.com
 remove-from-mailing-list.com
@@ -22719,6 +22729,7 @@ sablesmile.com
 sac-h-ct-m-fbx.fbsbx.com.online-metrix.net
 sadb.toggoeltern.de
 sadbelytics.munichre.com
+sadmin.brightcove.com
 sadobe.homecenter.com.co
 sadobe.mercuryinsurance.com
 sadobemetrics.la-z-boy.com
@@ -22980,6 +22991,7 @@ schibsted.io
 schibsted.media
 schlesingerassociates.actonservice.com
 schneider-electric.com
+scholar.google.com
 scholarlyiq.com
 schoolwires.com
 sci-hub.shop
@@ -28586,6 +28598,7 @@ utdstc.com
 utensils.pro
 utexas.actonservice.com
 utherverse.com
+utils.add0n.com
 utils.mediageneral.net
 utklhk.kojima.net
 utl-utils.ru
@@ -30741,6 +30754,7 @@ www.mediashakers.com
 www.mediatek.com
 www.mediawayss.com
 www.mediaz.vn
+www.medtargetsystem.com
 www.megapopads.com
 www.mellowads.com
 www.merchantadvantage.com
@@ -31936,6 +31950,3 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
-ocsp.rootca1.amazontrust.com
-rootca1.amazontrust.com
-amazontrust.com
