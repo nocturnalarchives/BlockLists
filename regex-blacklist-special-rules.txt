@@ -383,3 +383,5 @@
 (\.|^)*outbrain*\.
 (\.|^)*usabilla*\.
 (\.|^)*addtoany*\.
+(\.|^)*myshopify*\.
+(\.|^)*pardot*\.
