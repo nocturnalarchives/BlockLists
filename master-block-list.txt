@@ -4018,6 +4018,7 @@ api.lbry.tv
 api.letsencrypt.org
 api.levelaccess.net
 api.livechatinc.com
+api.msn.com
 api.nextgen.guardianapps.co.uk
 api.no
 api.nobeta.com.br
@@ -4153,12 +4154,14 @@ appjustable.com
 applanga.com
 apple-dns.net
 apple-mapkit.com
+apple-resources.s3.amazonaws.com
 apple.com
 apple.news
 apple.www.letv.com
 appleid.cdn-apple.com
 appleiphonecell.com
 appleleaveit.co
+applemediaservices.com
 applesarmy.com
 appleworldwidedeveloper-stage.hb-api.omtrdc.net
 appliancesaccount.io
@@ -8750,6 +8753,7 @@ control1.tvinteractive.tv
 control2.tvinteractive.tv
 converge-digital.com
 conversantmedia.com
+conversations.indy100.com
 converseapps.net
 conversio.com
 conversionruler.com
@@ -9538,6 +9542,7 @@ data.mainpost.de
 data.mic.com
 data.minute.ly
 data.mistat.intl.xiaomi.com
+data.msn.com
 data.netweaver.uk
 data.ouigo.com
 data.podwatch.io
@@ -27104,6 +27109,7 @@ tongji.mafengwo.cn
 tongji.meizu.com
 tookcheckout.com
 toolbox.com
+tools.applemediaservices.com
 tools.goo gle.com
 tools.google.com
 tools.ietf.org
@@ -29328,6 +29334,7 @@ web.news.eprice.it
 web.newsletter.viviennewestwood.com
 web.northwestern.nm.org
 web.vortex.data.microsoft.com
+web.vortex.data.msn.com
 web.x.ilpost.it
 web.zoominfo.com
 web1.51.la
