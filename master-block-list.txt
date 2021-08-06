@@ -3952,6 +3952,7 @@ apcinfo.motorolasolutions.com
 ape-asset-tag.timeinc.com
 ape-tagit.timeinc.net
 ape78cn2.com
+apec.org
 apester.com
 apesvr.com
 apex-ad.com
@@ -4019,6 +4020,7 @@ api.lbry.tv
 api.letsencrypt.org
 api.levelaccess.net
 api.livechatinc.com
+api.microsoftmoderator.com
 api.msn.com
 api.nextgen.guardianapps.co.uk
 api.no
@@ -9788,6 +9790,7 @@ dev.vvv.facebook.com
 devaltitude.com
 devcloudsoftware.com
 developer.amazon.com
+developer.microsoftmoderator.com
 developermedia.com
 developers.facebook.com
 development.oregon4biz.com
@@ -12263,6 +12266,7 @@ filepicker.io
 files-downloads.com
 files-warehouse.com
 filestackapi.com
+filesusr.com
 filetarget.net
 filez.top
 filingwarranty.com
@@ -15469,6 +15473,7 @@ iw.google.com
 iwa.iplsc.com
 iwantglobal.actonservice.com
 iwantitallnow.com
+iwf.co.uk
 iwonttrackyou.xn--gckvb8fzb.com
 iwpkhm.re-store.ru
 iwpneu.eneba.com
@@ -17622,6 +17627,7 @@ md-static.com
 md.google.com
 md.gov
 md.rkdms.com
+mddb.apec.org
 mdgzg.com
 mdhv.io
 mdiyay.vseinstrumenti.ru
@@ -18602,6 +18608,7 @@ microsites.nielseniq.com
 microsmallcap.com
 microsoft.com
 microsoft.m.facebook.com
+microsoftmoderator.com
 microsofttranslator.com
 microstatic.pl
 microticker.com
@@ -19155,6 +19162,7 @@ mynewbesttime.com
 mynsystems.com
 mypagerank.net
 mypagerank.ru
+myphotodna.microsoftmoderator.com
 mypixs.top
 myporn.xxx
 mypostservice.online
@@ -19346,6 +19354,7 @@ netadclick.hu
 netaffiliation.com
 netagent.cz
 netc.sfr.fr
+netclean.com
 netclickstats.com
 netcommunities.com
 netcore.co.in
@@ -20156,6 +20165,7 @@ op.google.com
 opecloud.com
 open.delivery.net
 open.mkt1397.com
+openaccess.thecvf.com
 openad.tf1.fr
 openad.travelnow.com
 openads.friendfinder.com
@@ -20634,6 +20644,7 @@ pdc.dmleonyc.com
 pdc.nl
 pdffiller.com
 pdk.theplatform.com
+pdnasampleimages.blob.core.windows.net
 pdst.fm
 pe.google.com
 peacepowder.com
@@ -21081,6 +21092,7 @@ pmetrics.performancing.com
 pmsrv.co
 pn.google.com
 pn.vg
+pnas-movie.glencoesoftware.com
 po.google.com
 po.ponant.com
 po.st
@@ -21407,6 +21419,7 @@ projectagoraservices.com
 projectagoratech.com
 projectgoals.net
 projects.posttv.com
+projectvic.org
 projectwonderful.com
 prom.st
 promis.facebook.com
@@ -25486,6 +25499,7 @@ static.ak.connect.facebook.com
 static.ak.facebook.com
 static.ak.facebook.com.edgesuite.net
 static.ak.fbcdn.net
+static.cdn.prismic.io
 static.chartbeat.com
 static.cloudflareinsights.com
 static.criteo.net
@@ -26876,6 +26890,7 @@ thechanlist.xyz
 thecoffeeilove.com
 thecounter.com
 thecreativer.com
+thecvf.com
 thedailybell.com
 thefacebook.com
 thefastestguninthewest.bitchute.com
@@ -28674,6 +28689,7 @@ v6.rubyfish.cn
 v8-emea.sdk.beemray.com
 va.google.com
 va.tawk.to
+vaccinationdemandobservatory.imgix.net
 vaderinis.com
 vads.net.vn
 vak345.com
@@ -29403,6 +29419,7 @@ webpixel.smartmeapp.com
 webpower.com
 webprotector.co
 webprotocol.net
+webpurify.com
 webpush.jp
 webpushr.com
 webrad.io
@@ -30722,6 +30739,7 @@ www.ipify.org
 www.ipstack.com
 www.itracker360.com
 www.ivi.ru
+www.iwf.co.uk
 www.js.sentry-cdn.com
 www.jsonline.com
 www.juiceadv.com
@@ -30811,6 +30829,7 @@ www.nclick.ru
 www.net.ua
 www.net.vn
 www.netadclick.hu
+www.netclean.com
 www.netsparkmobile.com
 www.netwads.com
 www.newonads.com
@@ -31973,15 +31992,3 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
-cdn.foxycart.com
-foxycart.com
-pnas-movie.glencoesoftware.com
-vaccinationdemandobservatory.imgix.net
-static.cdn.prismic.io
-cdn.prismic.io
-prismic.io
-targeting.washpost.nile.works
-washpost.nile.works
-nile.works
-polyfill.io
-filesusr.com
