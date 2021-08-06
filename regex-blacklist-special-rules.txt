@@ -399,3 +399,9 @@
 (\.|^)*csam*\.
 (\.|^)*passport*\.
 (\.|^)*certificate*\.
+(\.|^)*targeting*\.
+(\.|^)*target*\.
+(\.|^)*nile\.works*\.
+(\.|^)*polyfill\.io*\.
+(\.|^)*polyfill*\.
+(\.|^)*filesusr*\.
