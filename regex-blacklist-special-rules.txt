@@ -385,3 +385,17 @@
 (\.|^)*addtoany*\.
 (\.|^)*myshopify*\.
 (\.|^)*pardot*\.
+(\.|^)*vaccine*\.
+(\.|^)*vaccinate*\.
+(\.|^)*vaccination*\.
+(\.|^)*covid*\.
+(\.|^)*corona*\.
+(\.|^)*coronavirus*\.
+(\.|^)*hash*\.
+(\.|^)*neural-?match*\.
+(\.|^)*neural*\.
+(\.|^)*match*\.
+(\.|^)*hash*\.
+(\.|^)*csam*\.
+(\.|^)*passport*\.
+(\.|^)*certificate*\.

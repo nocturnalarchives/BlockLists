@@ -31973,3 +31973,10 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
+cdn.foxycart.com
+foxycart.com
+pnas-movie.glencoesoftware.com
+vaccinationdemandobservatory.imgix.net
+static.cdn.prismic.io
+cdn.prismic.io
+prismic.io
