@@ -4515,6 +4515,7 @@ audiencia.r7.com
 audiencies.ccma.cat
 audiens.com
 audima.co
+audio-articles.lionfish.media.aws.wapo.pub
 audioaddict.com
 audioarctic.com
 audioboom.com
@@ -8728,6 +8729,7 @@ content.rightsourcemarketing.com
 content.sffirecu.org
 content.tatatelebusiness.com
 content.verint.com
+content.vidgyor.com
 content.wacom.com
 content4.jdmagicbox.com
 contentabc.com
@@ -11064,6 +11066,7 @@ elasticchange.com
 elc1.energies.leclerc
 elderlyscissors.com
 elderlytown.com
+election.nw18.com
 electronic.us
 elementscart.com
 elephantqueue.com
@@ -19024,6 +19027,7 @@ msmetrics-test.ws.sonos.com
 msmetrics.ws.sonos.com
 msn.com
 msntest.serving-sys.com
+mssl.fwmrm.net
 mstar.com
 msufcu.actonservice.com
 mt.google.com
@@ -19762,6 +19766,7 @@ nvspc.me
 nw-rail-03.com
 nw-umwatson.events.data.microsoft.com
 nw.google.com
+nw18.com
 nwk-sandbox.gc.apple.com
 nws.naltis.com
 nwstatic.co.uk
@@ -21099,6 +21104,7 @@ po.st
 pochta-info.com
 pocketads.pl
 podbean.com
+podcast.washpostpodcasts.com
 podfdch.com
 podfollow.com
 podigee.com
@@ -22099,6 +22105,7 @@ redirect-traffic.net
 redirect-tunnel.net
 redirect-webpage.net
 redirect.prod.experiment.routing.cloudfront.aws.a2z.com
+redirect.washpostpodcasts.com
 redirect2url.net
 redirectchannel.net
 redirectcheck.net
@@ -26564,6 +26571,7 @@ taldpq.francfranc.com
 talentbrew.com
 talentedsteel.com
 talk-tgam.global.ssl.fastly.net
+talk.washingtonpost.com
 talkable.com
 talkgadget.google.com
 talkscreativity.com
@@ -26811,6 +26819,7 @@ terracotta.org
 terrapsps.com
 terriblethumb.com
 terribleturkey.com
+terrorismanalytics.org
 teschenite.com
 tesco.com
 tesla.oscaro.com
@@ -29232,6 +29241,7 @@ want.tf
 want7feed.com
 wap.vn
 wapo-analytics.zeustechnology.com
+wapo.pub
 wapsite.info
 warbycdn.com
 wareneingang.edeka.de
@@ -29250,9 +29260,11 @@ was.vodafone.de
 was.vodafone.ie
 was.vodafone.nl
 wasabisys.com
+washingtonpost-d.openx.net
 washingtonpost.com
 washpost.io
 washpost.nile.works
+washpostpodcasts.com
 wasp-182b.com
 wasp.frenchtogether.com
 wass.ihsmarkit.com
@@ -31992,17 +32004,3 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
-contributor.google.com
-terrorismanalytics.org
-election.nw18.com
-nw18.com
-content.vidgyor.com
-vidgyor.com
-audio-articles.lionfish.media.aws.wapo.pub
-wapo.pub
-redirect.washpostpodcasts.com
-washpostpodcasts.com
-talk.washingtonpost.com
-podcast.washpostpodcasts.com
-
-

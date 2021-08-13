@@ -438,3 +438,13 @@
 (\.|^)*talk*\.
 (\.|^)*podcast*\.
 (\.|^)*audio-articles*\.
+(\.|^)*pusher*\.
+(\.|^)*openx*\.
+(\.|^)*washingtonpost-*\.
+(\.|^)*zeustechnology*\.
+(\.|^)*wapo-analytic*\.
+(\.|^)*-analytic*\.
+(\.|^)*adsafeprotected*\.
+(\.|^)*pixel*\.
+(\.|^)*krxd*\.
+(\.|^)*consumer*\.
