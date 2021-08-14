@@ -448,3 +448,10 @@
 (\.|^)*pixel*\.
 (\.|^)*krxd*\.
 (\.|^)*consumer*\.
+(\.|^)*aboutads*\.
+(\.|^)*opt-?out*\.
+(\.|^)*opt-?in*\.
+(\.|^)*youmaker*\.
+(\.|^)*civicscience*\.
+(\.|^)*quantcast*\.
+(\.|^)*consensu*\.
