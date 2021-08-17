@@ -1494,6 +1494,7 @@ adctrl.com
 adcycle.com
 add-client.com
 add.newmedia.cz
+add0n.com
 addapptr.com
 addash.co
 addealing.com
@@ -3951,6 +3952,7 @@ apcinfo.motorolasolutions.com
 ape-asset-tag.timeinc.com
 ape-tagit.timeinc.net
 ape78cn2.com
+apec.org
 apester.com
 apesvr.com
 apex-ad.com
@@ -3994,6 +3996,7 @@ api.bunzlaucastle.com
 api.choice.microsoft.com
 api.circularhub.com
 api.cloudapp.net
+api.cnevids.com
 api.cnn.io
 api.codenotary.io
 api.condenast.io
@@ -4017,6 +4020,8 @@ api.lbry.tv
 api.letsencrypt.org
 api.levelaccess.net
 api.livechatinc.com
+api.microsoftmoderator.com
+api.msn.com
 api.nextgen.guardianapps.co.uk
 api.no
 api.nobeta.com.br
@@ -4152,12 +4157,14 @@ appjustable.com
 applanga.com
 apple-dns.net
 apple-mapkit.com
+apple-resources.s3.amazonaws.com
 apple.com
 apple.news
 apple.www.letv.com
 appleid.cdn-apple.com
 appleiphonecell.com
 appleleaveit.co
+applemediaservices.com
 applesarmy.com
 appleworldwidedeveloper-stage.hb-api.omtrdc.net
 appliancesaccount.io
@@ -4463,6 +4470,7 @@ atmrum.net
 atom-log.3.cn
 atomex.net
 atoms.jsonline.com
+atoms.usatoday.com
 atomseo.com
 atp.io
 atrack.allposters.com
@@ -4621,6 +4629,7 @@ awestc.com
 awin1.com
 awmserve.com
 awowwo.forever21.com
+aws1.discourse-cdn.com
 awsatstb.com
 awsmpsa.com
 awsstatic.com
@@ -6501,6 +6510,7 @@ bidclix.net
 bidder-shv-05-frc3.facebook.com
 bidder-shv-10-frc1.facebook.com
 bidder.criteo.com
+bidder.doceree.com
 bidder.mediams.mb.softbank.jp
 biddercore.io
 biddingx.com
@@ -7390,6 +7400,7 @@ cdn-sp-gcs.air.tv
 cdn-spurit.com
 cdn-us-doubleverify.com
 cdn.9xbud.com
+cdn.add0n.com
 cdn.adpushup.com
 cdn.adsafeprotected.com
 cdn.aerisapi.com
@@ -8746,6 +8757,7 @@ control1.tvinteractive.tv
 control2.tvinteractive.tv
 converge-digital.com
 conversantmedia.com
+conversations.indy100.com
 converseapps.net
 conversio.com
 conversionruler.com
@@ -9222,6 +9234,7 @@ d179kwmlpc4o47.cloudfront.net
 d17m68fovwmgxj.cloudfront.net
 d18p8z0ptb8qab.cloudfront.net
 d191y0yd6d0jy4.cloudfront.net
+d1bxh8uas1mnw7.cloudfront.net
 d1cdnlzf6usiff.cloudfront.net
 d1cerpgff739r9.cloudfront.net
 d1clfvuu2240eh.cloudfront.net
@@ -9533,6 +9546,7 @@ data.mainpost.de
 data.mic.com
 data.minute.ly
 data.mistat.intl.xiaomi.com
+data.msn.com
 data.netweaver.uk
 data.ouigo.com
 data.podwatch.io
@@ -9776,6 +9790,7 @@ dev.vvv.facebook.com
 devaltitude.com
 devcloudsoftware.com
 developer.amazon.com
+developer.microsoftmoderator.com
 developermedia.com
 developers.facebook.com
 development.oregon4biz.com
@@ -10143,6 +10158,7 @@ do.google.com
 doa1.immobilier-neuf.com
 doabqu.s3.com.tw
 doagpm.promart.pe
+doceree.com
 docileyellow.club
 docksalmon.com
 docomo.ne.jp
@@ -10288,6 +10304,7 @@ dqs.actonservice.com
 dqs3.darjeeling.fr
 dqygip.clarins.ru
 dr.google.com
+dr15zo9o33078.cloudfront.net
 drabsize.com
 dragonforms.com
 dragzebra.com
@@ -12249,6 +12266,7 @@ filepicker.io
 files-downloads.com
 files-warehouse.com
 filestackapi.com
+filesusr.com
 filetarget.net
 filez.top
 filingwarranty.com
@@ -12830,6 +12848,7 @@ gaming-cdn.com
 gammamaximum.com
 gammaplatform.com
 gannett-cdn.com
+gannett-d.openx.net
 gannett.com
 gannettdigital.com
 ganon.yahoo.com
@@ -14544,6 +14563,7 @@ i.o0bc.com
 i.optmnstr.com
 i.optmstr.com
 i.pokernews.com
+i.postimg.cc
 i.rmbl.ws
 i.skimresources.com
 i.teads.tv
@@ -15213,6 +15233,7 @@ insurance.thehullgroup.com
 inswebt.com
 int-x3.letsencrypt.org
 int.deltafaucet.com
+int.nyt.com
 intake-analytics.wikimedia.org
 intechservices.actonservice.com
 integration-services.redventures.io
@@ -15452,6 +15473,7 @@ iw.google.com
 iwa.iplsc.com
 iwantglobal.actonservice.com
 iwantitallnow.com
+iwf.co.uk
 iwonttrackyou.xn--gckvb8fzb.com
 iwpkhm.re-store.ru
 iwpneu.eneba.com
@@ -16958,6 +16980,7 @@ malware-scan.com
 mamba-live.com
 mamydirect.com
 manage.com
+manage.hawksearch.com
 managedsnap.com
 management-help.com
 managingincluded.com
@@ -17604,6 +17627,7 @@ md-static.com
 md.google.com
 md.gov
 md.rkdms.com
+mddb.apec.org
 mdgzg.com
 mdhv.io
 mdiyay.vseinstrumenti.ru
@@ -18584,6 +18608,7 @@ microsites.nielseniq.com
 microsmallcap.com
 microsoft.com
 microsoft.m.facebook.com
+microsoftmoderator.com
 microsofttranslator.com
 microstatic.pl
 microticker.com
@@ -19093,6 +19118,7 @@ mybbc-analytics.files.bbci.co.uk
 mybestpro.com
 mybloglog.com
 mybrightidea.co
+mybrowseraddon.com
 mybuys.com
 mycdn.co
 mycliplister.com
@@ -19136,6 +19162,7 @@ mynewbesttime.com
 mynsystems.com
 mypagerank.net
 mypagerank.ru
+myphotodna.microsoftmoderator.com
 mypixs.top
 myporn.xxx
 mypostservice.online
@@ -19327,6 +19354,7 @@ netadclick.hu
 netaffiliation.com
 netagent.cz
 netc.sfr.fr
+netclean.com
 netclickstats.com
 netcommunities.com
 netcore.co.in
@@ -20137,6 +20165,7 @@ op.google.com
 opecloud.com
 open.delivery.net
 open.mkt1397.com
+openaccess.thecvf.com
 openad.tf1.fr
 openad.travelnow.com
 openads.friendfinder.com
@@ -20615,6 +20644,7 @@ pdc.dmleonyc.com
 pdc.nl
 pdffiller.com
 pdk.theplatform.com
+pdnasampleimages.blob.core.windows.net
 pdst.fm
 pe.google.com
 peacepowder.com
@@ -20755,6 +20785,7 @@ phunware.com
 physicalcheetah.com
 pi-charter.net
 pi-rate.com.au
+pi-ue1-lba2.pardot.com
 pi.feedsportal.com
 pi.google.com
 pi.ispot.tv
@@ -21017,6 +21048,7 @@ player.field59.com
 player.spotim.market
 player1-macbook-air.lan	Blocked (gravity)
 Player1-Macbook-Air.lan	OK
+players.brightcove.net
 playfantasticsplastic.com
 playground.xyz
 playhaven.com
@@ -21060,6 +21092,7 @@ pmetrics.performancing.com
 pmsrv.co
 pn.google.com
 pn.vg
+pnas-movie.glencoesoftware.com
 po.google.com
 po.ponant.com
 po.st
@@ -21166,6 +21199,7 @@ postback.pointwise.co
 postcodeanywhere.co.uk
 postgraduate.smu.edu.sg
 postgraduate2.smu.edu.sg
+postimg.cc
 postimgs.org
 postmaster.facebook.com
 postpixel.vindicosuite.com
@@ -21384,6 +21418,8 @@ projectagoralibs.com
 projectagoraservices.com
 projectagoratech.com
 projectgoals.net
+projects.posttv.com
+projectvic.org
 projectwonderful.com
 prom.st
 promis.facebook.com
@@ -21504,6 +21540,7 @@ public-api.wordpress.com
 public-dns-a.baidu.com
 public.dns.iij.jp
 public.tableau.com
+public.tockify.com
 public.vilynx.com
 public1.alidns.com
 public2.114dns.com
@@ -22174,6 +22211,7 @@ remarketingpixel.com
 remarketstats.com
 remarkety.com
 remixd.com
+remote.captcha.com
 remotead.cnet.com
 remove-client.com
 remove-from-mailing-list.com
@@ -22719,6 +22757,7 @@ sablesmile.com
 sac-h-ct-m-fbx.fbsbx.com.online-metrix.net
 sadb.toggoeltern.de
 sadbelytics.munichre.com
+sadmin.brightcove.com
 sadobe.homecenter.com.co
 sadobe.mercuryinsurance.com
 sadobemetrics.la-z-boy.com
@@ -22980,6 +23019,7 @@ schibsted.io
 schibsted.media
 schlesingerassociates.actonservice.com
 schneider-electric.com
+scholar.google.com
 scholarlyiq.com
 schoolwires.com
 sci-hub.shop
@@ -25459,9 +25499,11 @@ static.ak.connect.facebook.com
 static.ak.facebook.com
 static.ak.facebook.com.edgesuite.net
 static.ak.fbcdn.net
+static.cdn.prismic.io
 static.chartbeat.com
 static.cloudflareinsights.com
 static.criteo.net
+static.ctctcdn.com
 static.doubleclick.net
 static.dynamicyield.com
 static.ecorebates.com
@@ -26828,6 +26870,7 @@ tharbadir.com
 thawte.com
 thcdn.com
 the-lead-tracker.com
+the-mrc-store.myshopify.com
 the-only-way-out.com
 the-ozone-project.com
 the8app.com
@@ -26847,6 +26890,7 @@ thechanlist.xyz
 thecoffeeilove.com
 thecounter.com
 thecreativer.com
+thecvf.com
 thedailybell.com
 thefacebook.com
 thefastestguninthewest.bitchute.com
@@ -27092,6 +27136,7 @@ tongji.mafengwo.cn
 tongji.meizu.com
 tookcheckout.com
 toolbox.com
+tools.applemediaservices.com
 tools.goo gle.com
 tools.google.com
 tools.ietf.org
@@ -28532,6 +28577,7 @@ usablenet.com
 usapromotravel.com
 usasync01.admantx.com
 usatoday.com
+usatodaynetworkservice.com
 usc.adserver.snapads.com
 usdbbx.mmartan.com.br
 usden.ce.apple-dns.net
@@ -28586,6 +28632,7 @@ utdstc.com
 utensils.pro
 utexas.actonservice.com
 utherverse.com
+utils.add0n.com
 utils.mediageneral.net
 utklhk.kojima.net
 utl-utils.ru
@@ -28642,6 +28689,7 @@ v6.rubyfish.cn
 v8-emea.sdk.beemray.com
 va.google.com
 va.tawk.to
+vaccinationdemandobservatory.imgix.net
 vaderinis.com
 vads.net.vn
 vak345.com
@@ -28650,6 +28698,7 @@ valerie.forbes.com
 valica.it
 valid.apple.com
 valid.origin-apple.com.akadns.net
+validate.onecount.net
 validclick.com
 valimail.actonservice.com
 valiuz.com
@@ -29315,6 +29364,7 @@ web.news.eprice.it
 web.newsletter.viviennewestwood.com
 web.northwestern.nm.org
 web.vortex.data.microsoft.com
+web.vortex.data.msn.com
 web.x.ilpost.it
 web.zoominfo.com
 web1.51.la
@@ -29369,6 +29419,7 @@ webpixel.smartmeapp.com
 webpower.com
 webprotector.co
 webprotocol.net
+webpurify.com
 webpush.jp
 webpushr.com
 webrad.io
@@ -30224,6 +30275,7 @@ www.affinityanswers.com
 www.afsanalytics.com
 www.agendize.com
 www.agentanalytics.com
+www.aier.org
 www.airship.com
 www.aiservice.vn
 www.ajmc.com
@@ -30687,6 +30739,7 @@ www.ipify.org
 www.ipstack.com
 www.itracker360.com
 www.ivi.ru
+www.iwf.co.uk
 www.js.sentry-cdn.com
 www.jsonline.com
 www.juiceadv.com
@@ -30741,6 +30794,7 @@ www.mediashakers.com
 www.mediatek.com
 www.mediawayss.com
 www.mediaz.vn
+www.medtargetsystem.com
 www.megapopads.com
 www.mellowads.com
 www.merchantadvantage.com
@@ -30775,6 +30829,7 @@ www.nclick.ru
 www.net.ua
 www.net.vn
 www.netadclick.hu
+www.netclean.com
 www.netsparkmobile.com
 www.netwads.com
 www.newonads.com
@@ -30840,6 +30895,7 @@ www.pixel.ad
 www.pixel.watch
 www.pluto.tv
 www.pmc.com
+www.podbean.com
 www.popads.com
 www.popads.net
 www.popcash.net
@@ -31936,6 +31992,3 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
-ocsp.rootca1.amazontrust.com
-rootca1.amazontrust.com
-amazontrust.com
