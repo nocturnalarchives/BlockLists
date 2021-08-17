@@ -455,3 +455,5 @@
 (\.|^)*civicscience*\.
 (\.|^)*quantcast*\.
 (\.|^)*consensu*\.
+\.ai$
+(\.|^)*trinitymedia*\.
