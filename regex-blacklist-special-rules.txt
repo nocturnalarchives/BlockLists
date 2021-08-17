@@ -457,3 +457,5 @@
 (\.|^)*consensu*\.
 \.ai$
 (\.|^)*trinitymedia*\.
+(\.|^)*constant-?contact*\.
+(\.|^)*img-?ssl*\.
