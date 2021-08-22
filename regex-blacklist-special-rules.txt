@@ -459,3 +459,5 @@
 (\.|^)*trinitymedia*\.
 (\.|^)*constant-?contact*\.
 (\.|^)*img-?ssl*\.
+(\.|^)*live-?search*\.
+(\.|^)*auto-?complete*\.
