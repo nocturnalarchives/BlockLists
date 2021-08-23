@@ -3191,6 +3191,7 @@ agora.pl
 agraria.org
 agreeableprice.com
 agreeablestew.com
+ags-ext.amazon.com
 ah-ha.com
 ah-server.com
 ah.google.com
@@ -4203,6 +4204,7 @@ apprope.com
 approstar.com
 apprupt.com
 apps-host.com
+apps.apple.com
 apps.elfsight.com
 apps.facebook.com
 apps.mil
@@ -6517,6 +6519,7 @@ biddercore.io
 biddingx.com
 biddr.brealtime.co
 biddr.brealtime.com
+biddyfungussaps.com
 bidfilter.com
 bidfluence.com
 bidgear-syndication.com
@@ -7265,6 +7268,7 @@ cardlytics.com
 cardmrket.com
 care5alea.com
 carecart.io
+careers.homedepot.com
 careers.nchjobs.org
 carfax.com
 caringzinc.com
@@ -8063,6 +8067,8 @@ clicks.traffictrader.net
 clickserv.pixel.ad
 clickserve.cc-dt.com
 clicksor.com
+clickstream-killswitch.hd-personalization-prod.gcp.homedepot.com
+clickstream-producer.hd-personalization-prod.gcp.homedepot.com
 clicktag.de
 clicktale.net
 clicktale.pantherssl.com
@@ -8444,6 +8450,7 @@ collector-7626.tvsquared.com
 collector-api.99designs.com
 collector-cdn.github.com
 collector-medium.lightstep.com
+collector-px04kmklxi.px-cloud.net
 collector-px0py5pczn.octopart.com
 collector-pxogckki0e.px-cloud.net
 collector.automote.co.nz
@@ -8844,6 +8851,7 @@ corp.sts.microsoft.com
 corpext.msitadfs.glbdns2.microsoft.com
 corporate-marketing.hrs.com
 corporate.averydennison.com
+corporate.homedepot.com
 corporate.mattamyhomes.com
 corporate.walmart.com
 corporate1.bluepink.ro
@@ -9192,6 +9200,7 @@ cyeabs.luxyhair.com
 cyrstalventure.club
 cyudkx.panafoto.com
 cz.google.com
+cz15y20kg2.execute-api.us-east-1.amazonaws.com
 czvdlp.hgregoire.com
 d-bi.fr
 d-markets.net
@@ -10289,6 +10298,9 @@ downdetector.com
 downgradeproduct.com
 download.dnvgl.com
 doyoudreamup.com
+dp-discovery-na-ext.amazon.com
+dp-gw-na.amazon.com
+dp-rsm-prod.amazon.com
 dp.google.com
 dp.shoprunner.com
 dpbolvw.net
@@ -10622,6 +10634,7 @@ economica.net
 economicdevelopment.vic.gov.au
 economicpizzas.com
 ecookie.nl
+ecooptions.homedepot.com
 ecorebates.com
 ecoupons.com
 ecustomeropinions.com
@@ -11537,6 +11550,7 @@ enginenetwork.com
 engsvc.go.com
 enhance.co
 eniro.com
+enjoypiingtoe.com
 enlightenment.secureshoppingbasket.com
 enoratraffic.com
 enormousearth.com
@@ -12891,6 +12905,7 @@ gcdn.anvato.net
 gcdn.co
 gcimetrics.com
 gcion.com
+gcp.homedepot.com
 gcpdata.telegraph.co.uk
 gcwubi.happypancake.fi
 gd.google.com
@@ -13301,7 +13316,6 @@ google.ca
 google.ch
 google.co.id
 google.co.in
-google.com
 google.com.au
 google.com.br
 google.de
@@ -14005,6 +14019,7 @@ hcaptcha.com
 hcjpbc.usmagazine.com
 hclinfosystems.m.facebook.com
 hcsc.net
+hd-personalization-prod.gcp.homedepot.com
 hd.google.com
 hd.pe.fr
 hd100546b.com
@@ -14307,6 +14322,9 @@ hollandbusinessadvertising.nl
 hollowshake.com
 hollydeal.club
 homebook.pl
+homedepot-app.quantummetric.com
+homedepot.demdex.net
+homedepot.tt.omtrdc.net
 homehardware.actonservice.com
 homeishere.co
 homelycrown.com
@@ -14781,6 +14799,7 @@ imgix.net
 imgpromo.easyrencontre.com
 imgshare.info
 imgsmail.ru
+imgssl.constantcontact.com
 imgstat.baidu.com
 imgsynd.com
 imgtrack.domainmarket.com
@@ -15378,6 +15397,7 @@ iqm.com
 iqmining.com
 ir-na.amazon-adsystem.com
 ir.google.com
+ir.homedepot.com
 ir.surveywall-api.survata.com
 ireklama.cz
 iridion.de
@@ -16513,6 +16533,7 @@ liveperson.com
 liveperson.net
 liverail.c10r.facebook.com
 liverail.com
+livesearch-autocomplete.magento-ds.com
 livesession.io
 livesgplive.org
 livestats.kaltura.com
@@ -16574,6 +16595,7 @@ localads-statistics.maps.me
 localbeige.club
 localbitcoins.com
 localgreenflowers.com
+localization.thdws.com
 localizecdn.com
 localizejs.com
 localizercdn.com
@@ -16920,6 +16942,7 @@ madeinwork.com
 madfishelements.com
 madisonavenue.com
 mads-eu.amazon.com
+mads.amazon-adsystem.com
 mads.aol.com
 mads.cnet.com
 madsack-native.de
@@ -16929,6 +16952,7 @@ madvertise.com
 madvertise.de
 maformationofficinale.actonservice.com
 magemail.co
+magento-ds.com
 mageworx.com
 maghrebfoot.com
 maghrebfunny.biz
@@ -17888,6 +17912,7 @@ mes4.gtsgapps.com
 mesosphere.com
 message.alldata.com
 messagenovice.com
+messaging-director-us-east-1.amazon.com
 messaging-notifications.api.nytimes.com
 messenger.com
 messiupal.com
@@ -18879,6 +18904,7 @@ monitis.com
 monitor.azure.com
 monitor.channel4.com
 monitor.ebay.com
+monitor.firefox.com
 monks-aerzte-im-netz.de
 monohost.com
 monorail-edge.shopifysvc.com
@@ -18983,6 +19009,7 @@ mqtt.facebook.com
 mqtt.vvv.facebook.com
 mr-rank.de
 mr.google.com
+mr.homedepot.com
 mrb.upapi.net
 mrcdn.info
 mrelko.com
@@ -19206,6 +19233,7 @@ mz.google.com
 mzjruy.yocoyoco.com
 mzstatic.com
 n-core-pipe.com
+n-devs.tplinkcloud.com
 n.bingparachute.com
 n.doubleclick.net
 n.moatads.com
@@ -21362,6 +21390,7 @@ processor.asccommunications.com
 prod-use.perf-serving.com
 prod.adspsp.com
 prod.ally.ac
+prod.amazoncrl.com
 prod.benchmarkemail.com
 prod.bidr.io
 prod.boltdns.net
@@ -26876,6 +26905,7 @@ thaqyl.mediamarkt.nl
 tharbadir.com
 thawte.com
 thcdn.com
+thdws.com
 the-lead-tracker.com
 the-mrc-store.myshopify.com
 the-only-way-out.com
@@ -27259,6 +27289,8 @@ tp.yomonda.de
 tp.yourhome.de
 tpc.googlesyndication.com
 tpgzwv.al-ko.com
+tplinkcloud.com
+tplinkra.com
 tpmedia-reactads.com
 tpnads.com
 tps.doubleverify.com
@@ -28002,6 +28034,7 @@ trickycelery.com
 triggerbee.com
 triggers.wfxtriggers.com
 trililihihi.com
+trinitymedia.ai
 triodos.com
 tripadvisor.com
 tripleclickpays.com
@@ -28591,6 +28624,7 @@ usden.ce.apple-dns.net
 usden.icloud-content.com
 use-application-dns.net
 use-tor.adsrvr.org
+use1-api.tplinkra.com
 usefathom.com
 useg.nextdigital.com.hk
 usehero.com
@@ -28674,6 +28708,7 @@ v-jrcipsccrt009.jrc.it
 v.bingparachute.com
 v.doubleclick.net
 v.emedia.cn
+v.liveperson.net
 v.moatads.com
 v.ntv.io
 v.o0bc.com
@@ -28696,6 +28731,7 @@ v6.rubyfish.cn
 v8-emea.sdk.beemray.com
 va.google.com
 va.tawk.to
+va.v.liveperson.net
 vaccinationdemandobservatory.imgix.net
 vaderinis.com
 vads.net.vn
@@ -30483,6 +30519,7 @@ www.bing.net
 www.bkrtx.com
 www.bleepingcomputer.com
 www.bleepstatic.com
+www.blinds.com
 www.blueconic.com
 www.blueconic.net
 www.bluekai.com
@@ -32001,32 +32038,3 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
-monitor.firefox.com
-apps.apple.com
-trinitymedia.ai
-js.pelcro.com
-pelcro.com
-imgssl.constantcontact.com
-constantcontact.com
-n-devs.tplinkcloud.com
-tplinkcloud.com
-use1-api.tplinkra.com
-tplinkra.com
-biddyfungussaps.com
-enjoypiingtoe.com
-livesearch-autocomplete.magento-ds.com
-magento-ds.com
-ags-ext.amazon.com
-cognito-identity.us-east-1.amazonaws.com
-cortana-gateway.amazon.com
-cz15y20kg2.execute-api.us-east-1.amazonaws.com
-device-messaging-na.amazon.com
-device-metrics-us.amazon.com
-dp-discovery-na-ext.amazon.com
-dp-gw-na.amazon.com
-dp-rsm-prod.amazon.com
-messaging-director-us-east-1.amazon.com
-prod.amazoncrl.com
-todo-ta-g7g.amazon.com
-mads.amazon-adsystem.com
-amazon-adsystem.com
