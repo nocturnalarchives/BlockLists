@@ -479,3 +479,7 @@
 (\.|^)*px-?cloud*\.
 (\.|^)*collector*\.
 (\.|^)*go-?mpulse*\.
+(\.|^)*mas-ssr-ad*\.
+(\.|^)*audible*\.
+(\.|^)api\.
+(\.|^)id\.

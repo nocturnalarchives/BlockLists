@@ -20772,7 +20772,6 @@ pfm4.net
 pform.net
 pg.google.com
 pgapi.io
-pgl.yoyo.org
 pgmediaserve.com
 pgpartner.com
 pgs.farmprogress.com
@@ -31594,7 +31593,6 @@ yousunhard.com
 youtube-nocookie.com
 youtube.com
 youvisit.com
-yoyo.org
 yp.google.com
 ypcdbw.drive2.com
 ypcdbw.drive2.ru
@@ -32038,3 +32036,13 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
+talk.hyvor.com
+hyvor.com
+reclaimthenet.memberful.com
+memberful.com
+pym.nprapps.org
+nprapps.org
+www.sovereignman.com
+sovereignman.com
+cdn.usechimney.com
+usechimney.com
