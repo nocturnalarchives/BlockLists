@@ -19038,7 +19038,6 @@ msecnd.net
 msedge.net
 mseeru.faz.net
 msftauth.net
-msftncsi.com
 msg-em.hismarttv.com
 msg-na.hismarttv.com
 msg.71.am
@@ -30860,7 +30859,6 @@ www.moengage.com
 www.money4exit.de
 www.mopub.com
 www.motiveinteractive.com
-www.msftncsi.com
 www.msgr.com
 www.mxtads.com
 www.myregistry.com
@@ -32046,3 +32044,10 @@ www.sovereignman.com
 sovereignman.com
 cdn.usechimney.com
 usechimney.com
+msh.amazon.com
+dna.amazon.com
+kptx.amazon.com
+kptx-naws.amazon.com
+wl.amazon-dss.com
+amazon-dss.com
+
