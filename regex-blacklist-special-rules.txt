@@ -484,3 +484,7 @@
 (\.|^)api\.
 (\.|^)id\.
 (\.|^)*amazon-?dss*\.
+(\.|^)*apple-?id*\.
+(\.|^)*tinypass*\.
+(\.|^)*gotchosen*\.
+(\.|^)*klaviyo*\.

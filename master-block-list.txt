@@ -32050,4 +32050,6 @@ kptx.amazon.com
 kptx-naws.amazon.com
 wl.amazon-dss.com
 amazon-dss.com
+appleid.cdn-apple.com
+googletagservices.com
 
