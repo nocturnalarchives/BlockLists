@@ -488,3 +488,6 @@
 (\.|^)*tinypass*\.
 (\.|^)*gotchosen*\.
 (\.|^)*klaviyo*\.
+(\.|^)*marketing*\.
+(\.|^)*automation*\.
+\.services$

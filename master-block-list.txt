@@ -236,6 +236,7 @@
 3lift.com
 3liftt.com
 3p.ampproject.net
+3s92aa3rejqt2m3335c8ox74-wpengine.netdna-ssl.com
 3speak.online
 3xplanet.com
 3xplanet.net
@@ -4044,6 +4045,7 @@ api.smoot.apple.com
 api.ssrn.com
 api.tiles.mapbox.com
 api.time.com
+api.tinypass.com
 api.uca.cloud.unity3d.com
 api.userleap.com
 api.verizon.com
@@ -7494,6 +7496,7 @@ cdn.tax
 cdn.thesn.net
 cdn.tinypass.com
 cdn.turner.com
+cdn.usechimney.com
 cdn.usefathom.com
 cdn.valuad.cloud
 cdn.viglink.com
@@ -8838,6 +8841,7 @@ core.bruynzeelkeukens.nl
 core.connatix.com
 core.unit-sense.net
 core.windows.net
+coredna.com
 coreg-feed.com
 corel.com
 coremedia.cloud
@@ -10080,6 +10084,7 @@ dmxxa.com
 dn.google.com
 dn34cbtcv9mef.cloudfront.net
 dn360.net
+dna.amazon.com
 dna.uol.com.br
 dnacdn.net
 dnads.directnic.com
@@ -15981,6 +15986,7 @@ kodpornx.com
 koehiroba.com
 kohlermetrics.kohler.com
 kohlermetricssecure.kohler.com
+koi-3qn63qd29u.marketingautomation.services
 koi-3qnnf9xqbw.marketingautomation.services
 kojiht.partsdirect.ru
 komisigratis.com
@@ -16006,6 +16012,8 @@ kpcdn.net
 kpcyic.sportisimo.cz
 kpn.com
 kpr2exp21.com
+kptx-naws.amazon.com
+kptx.amazon.com
 kq.google.com
 kqaasz.instreet.com.tr
 kqchxa.denizbutik.com
@@ -19046,6 +19054,7 @@ msgesr.askona.ru
 msgp.pl
 msgr.com
 msh.amazon.co.uk
+msh.amazon.com
 msigbs.actonservice.com
 msmetrics-test.ws.sonos.com
 msmetrics.ws.sonos.com
@@ -24760,6 +24769,7 @@ southpointcasino.com
 southwest.com
 souvlatraffic.com
 sovendus.com
+sovereignman.com
 sowa.carhartt.com
 soxnwz.lg.com
 sp-mms.weather.com
@@ -26596,6 +26606,7 @@ taldpq.francfranc.com
 talentbrew.com
 talentedsteel.com
 talk-tgam.global.ssl.fastly.net
+talk.hyvor.com
 talk.washingtonpost.com
 talkable.com
 talkgadget.google.com
@@ -28623,6 +28634,7 @@ usden.icloud-content.com
 use-application-dns.net
 use-tor.adsrvr.org
 use1-api.tplinkra.com
+usechimney.com
 usefathom.com
 useg.nextdigital.com.hk
 usehero.com
@@ -29222,6 +29234,7 @@ w3.cdn.anvato.net
 w3.flatex.at
 w3.flatex.de
 w3.flatex.nl
+w3.mp.lura.live
 w3.vitrade.de
 w3apps.co
 w3counter.com
@@ -30631,6 +30644,7 @@ www.context.ly
 www.contextly.com
 www.converge-digital.com
 www.conversantmedia.com
+www.coredna.com
 www.creative-mobile.com
 www.criteo.com
 www.cryptonmobile.com
@@ -31019,6 +31033,7 @@ www.soapcreative.com
 www.socialminer.com
 www.sonobi.com
 www.sortable.com
+www.sovereignman.com
 www.speedshiftmedia.com
 www.spot.im
 www.spotx.tv
@@ -31884,6 +31899,7 @@ zemanta.com
 zementa.com
 zenaps.com
 zencdn.net
+zencity.io
 zencudo.co.uk
 zend-apps.com
 zendapps.in
@@ -32034,22 +32050,3 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
-talk.hyvor.com
-hyvor.com
-reclaimthenet.memberful.com
-memberful.com
-pym.nprapps.org
-nprapps.org
-www.sovereignman.com
-sovereignman.com
-cdn.usechimney.com
-usechimney.com
-msh.amazon.com
-dna.amazon.com
-kptx.amazon.com
-kptx-naws.amazon.com
-wl.amazon-dss.com
-amazon-dss.com
-appleid.cdn-apple.com
-googletagservices.com
-
