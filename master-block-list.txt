@@ -273,6 +273,7 @@
 49.taskassist-pa.clients.google.com
 4affiliate.net
 4am.ch
+4b64d6fa612f.us-east-1.playback.live-video.net
 4d5.net
 4de141c5-7211-4615-be13-b3774dde16f8.legaltile.com
 4dex.io
@@ -9756,6 +9757,7 @@ demandjump.com
 demdex.com
 demdex.net
 demo4.mozilor.com
+den01.hls.live-video.net
 denakop.com
 denis-pj0823031-491201b.com
 dens1raec.com
@@ -12310,6 +12312,8 @@ findcommerce.com
 findgoodfood.co
 findgroupon.com
 finditout-now.com
+findlawimages.com
+findlawresources.com
 findmovies.me
 findmyass.org
 findmyfriendsnow.com
@@ -14301,6 +14305,7 @@ hkqrpk.ozon.ru
 hktracker.hankookilbo.com
 hl.google.com
 hlbs.me
+hls.live-video.net
 hlserve.com
 hlsjel.engelvoelkers.com
 hm.google.com
@@ -14775,6 +14780,7 @@ images-apmex.com
 images-pw.secureserver.net
 images.ctfassets.net
 images.dmca.com
+images.findlawresources.com
 images.outbrain.com
 images.pluto.tv
 images.taboola.com
@@ -16160,6 +16166,7 @@ laurel.macrovision.com
 laurel.rovicorp.com
 lavender64369.com
 lawlowvat.net
+lawyermarketing.com
 laybuy.com
 layer-ad.de
 layer-ads.de
@@ -16508,6 +16515,7 @@ littlebrother.makeplans.net
 littlefrogalarm.com
 live-once.net
 live-patch-fe.pantheonsite.io
+live-video.net
 live.alljobs.co.il
 live.com
 live.cxo.name
@@ -17551,6 +17559,7 @@ marketing2.technologyadvice.com
 marketing6.directimpactinc.com
 marketingautomation.impexium.net
 marketingautomation.services
+marketinghub.opentext.com
 marketingplatform.google.com
 marketingsolutions.yahoo.com
 marketingus.hso.com
@@ -21077,6 +21086,7 @@ play.googleapis.com
 play.mix.kinostuff.com
 play.publicradio.org
 play4traffic.com
+playback.live-video.net
 playbuzz.co
 playbuzz.com
 player-telemetry.vimeo.com
@@ -23485,6 +23495,7 @@ secure.imrworldwide.com.fritz.com
 secure.info.m.seek.co.nz
 secure.insightexpressai.com
 secure.livechatinc.com
+secure.marketinghub.opentext.com
 secure.merchantadvantage.com
 secure.quantserve.com
 secure.stat.canal-plus.net
@@ -28605,6 +28616,7 @@ urtracker.q-sis.de
 us-api.samsungyosemite.com
 us-content.vergic.com
 us-east-1-decisionapi.lift.acquia.com
+us-east-1.playback.live-video.net
 us-east-1.prod.boltdns.net
 us-east-1.wasabisys.com
 us-east-sync.bidswitch.net
@@ -28909,6 +28921,7 @@ video-hkg3-1.xx.fbcdn.net
 video-iad3-1.xx.fbcdn.net
 video-sof1-1.xx.fbcdn.net
 video-stats.video.google.com
+video-weaver.den01.hls.live-video.net
 video.adsafeprotected.com
 video.facc1-1.fna.fbcdn.net
 video.fada1-10.fna.fbcdn.net
@@ -29667,6 +29680,7 @@ widget.intercom.io
 widget.manychat.com
 widget.perfectmarket.com
 widget.quantcast.com
+widget.surveymonkey.com
 widget.whisk.com
 widget.yeps.io
 widgetbot.io
@@ -30701,6 +30715,7 @@ www.fbcdn.com
 www.fbcdn.net
 www.fidelity-media.com
 www.financialjuice.com
+www.findlawimages.com
 www.fluct.jp
 www.fonts.evyy.net
 www.fonts.go2cloud.org
@@ -30813,6 +30828,7 @@ www.kochava.com
 www.krxd.net
 www.kwizzad.com
 www.kymetacorp.com
+www.lawyermarketing.com
 www.leadbit.com
 www.leads.su
 www.letemsvetemapplem.eu

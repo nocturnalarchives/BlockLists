@@ -491,3 +491,13 @@
 (\.|^)*marketing*\.
 (\.|^)*automation*\.
 \.services$
+(\.|^)*lawyer-?marketing*\.
+(\.|^)*marketing\.
+(\.|^)*marketing-?hub*\.
+(\.|^)*opentext*\.
+(\.|^)*survey-?monkey*\.
+(\.|^)*survey*\.
+(\.|^)*monkey*\.
+(\.|^)*video-?weaver*\.
+(\.|^)*live-?video*\.
+(\.|^)*playback*\.
