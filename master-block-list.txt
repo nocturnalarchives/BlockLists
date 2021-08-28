@@ -19062,8 +19062,6 @@ msgapp.com
 msgesr.askona.ru
 msgp.pl
 msgr.com
-msh.amazon.co.uk
-msh.amazon.com
 msigbs.actonservice.com
 msmetrics-test.ws.sonos.com
 msmetrics.ws.sonos.com
