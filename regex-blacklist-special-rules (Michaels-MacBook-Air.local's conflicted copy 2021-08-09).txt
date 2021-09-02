@@ -424,4 +424,8 @@
 (\.|^)*microsoftmoderator*\.
 (\.|^)*photodna*\.
 (\.|^)*cdn-?apple*\.
-(\.|^)*apple-?id*\. 
+(\.|^)*apple-?id*\.
+(\.|^)*framework*\.
+(\.|^)*code*\.
+(\.|^)code\.
+(\.|^)*act-?blue*\.

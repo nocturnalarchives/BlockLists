@@ -7442,6 +7442,7 @@ cdn.engine.spotscenered.info
 cdn.fera.ai
 cdn.foxycart.com
 cdn.freefacti.com
+cdn.fundraiseup.com
 cdn.ghostmonitor.com
 cdn.gotchosen.com
 cdn.heapanalytics.com
@@ -8400,6 +8401,7 @@ cod.bitrec.com
 code-server.biz
 code.adsales.snidigital.com
 code.facebook.com
+code.iconicframework.com
 code.randomhouse.com
 code.responsivevoice.org
 code.robertdegroot.nl
@@ -9709,6 +9711,7 @@ debitcrebit669.com
 debonairway.com
 debtbusterloans.com
 decibelinsight.net
+decider.com
 decisivedrawer.com
 decisiveducks.com
 decoroustitle.com
@@ -12453,6 +12456,7 @@ fna.fbcdn.net
 fnac.com
 fncstatic.com
 fndrsp.com
+fndrsp.net
 fnfhgj.secretsales.com
 fngwdl.allheart.com
 fnlvhy.wowma.jp
@@ -14654,6 +14658,7 @@ icmedienhaus.de
 icon.s.click.aliexpress.com
 iconadserver.com
 iconfinder.com
+iconicframework.com
 iconify.design
 iconnode.com
 icons8.com
@@ -20555,6 +20560,7 @@ pages07.net
 pages08.net
 pagesense-collect.zoho.com
 pagesense.io
+pagesix.com
 pagesjaunes.fr
 pagesocket.glam.com
 pageupdate.co
@@ -25563,6 +25569,7 @@ static.facebook.com
 static.fdel11-1.fna.fbcdn.net
 static.fmpub.net
 static.fsea1-1.fna.fbcdn.net
+static.fundraiseup.com
 static.gc.apple.com
 static.getclicky.com
 static.hotjar.com
@@ -32064,5 +32071,3 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
-decider.com
-pagesix.com
