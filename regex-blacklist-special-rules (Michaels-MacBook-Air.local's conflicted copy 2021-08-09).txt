@@ -429,3 +429,8 @@
 (\.|^)*code*\.
 (\.|^)code\.
 (\.|^)*act-?blue*\.
+(\.|^)*discovery*\.
+(\.|^)*discover*\.
+(\.|^)*martech*\.
+(\.|^)*firelan*\.
+(\.|^)teams\.
