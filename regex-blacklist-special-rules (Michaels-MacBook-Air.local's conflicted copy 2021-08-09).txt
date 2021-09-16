@@ -434,3 +434,4 @@
 (\.|^)*martech*\.
 (\.|^)*firelan*\.
 (\.|^)teams\.
+(\.|^)*vidible*\.

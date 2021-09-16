@@ -1175,6 +1175,7 @@ activities.niagara.comedycentral.com
 activity.asce.org
 activity.frequency.com
 activity.windows.com
+activtrak.com
 acton.marcusevans-events.com
 acton.simpleviewinc.com
 acton.trefis.com
@@ -12348,6 +12349,7 @@ firecall.tv
 firecast.tv
 firefox.dns.nextdns.io
 firefox.settings.services.mozilla.com
+firelan.com
 firepush.net
 fireside.fm
 firestormmedia.tv
@@ -12799,6 +12801,7 @@ g.vev.io
 g.yccdn.com
 g1.nyt.com
 g1thub.com
+g2.com
 g2.gumgum.com
 g2178927685.co
 g2377012020.co
@@ -14803,6 +14806,7 @@ imedia.cz
 imercostatic.dk
 img.prohardver.hu
 img.tpt.cloud
+img.vidible.tv
 img1.wsimg.com
 img3.wikia.nocookie.net
 img4.zergnet.com
@@ -15679,6 +15683,7 @@ jotform.com
 journalmedia.ie
 journey.cisco.com
 journey.newyorker.com
+journey.vanityfair.com
 journity.com
 joy.ochronus.online
 joyreactor.cc
@@ -17585,6 +17590,7 @@ marpu.de
 marsads.com
 marsello.com
 marsflag.com
+martechtoday.com
 martinipicnic.com
 marvellousmachine.net
 maryland.gov
@@ -19749,11 +19755,13 @@ nrw.de
 ns.google.com
 ns.rvmkitt.com
 ns1.facebook.com
+ns1.firelan.com
 ns1.recursive.dnsbycomodo.com
 ns1.uplogon.com
 ns11.whois.co.kr
 ns1p.net
 ns2.facebook.com
+ns2.firelan.com
 ns2.recursive.dnsbycomodo.com
 ns2.uplogon.com
 ns3.facebook.com
@@ -21789,6 +21797,7 @@ ql.google.com
 qlitics.com
 qlzn6i1l.com
 qm.google.com
+qmerce.com
 qn.google.com
 qnsr.com
 qo.google.com
@@ -22273,6 +22282,7 @@ remove-from-mailing-list.com
 remove-from-mailinglist.com
 remove-subscription.com
 remzba.maninstore.co.kr
+renderer.qmerce.com
 renewal-control.net
 renotahoecarson.com
 rentalindustries.com
@@ -29959,6 +29969,7 @@ www.a3cloud.net
 www.abebos.com
 www.aboutamazon.com
 www.acquireweb.com
+www.activtrak.com
 www.acx.com
 www.acxiom.com
 www.ad-balancer.at
@@ -30733,6 +30744,7 @@ www.fractionalmedia.com
 www.frame.ly
 www.fullcircleinsights.com
 www.fwmrm.net
+www.g2.com
 www.game-insight.com
 www.gameanalytics.com
 www.gannettdigital.com
@@ -32071,21 +32083,3 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
-martechtoday.com
-ns2.firelan.com
-ns1.firelan.com
-firelan.com
-journey.vanityfair.com
-www.g2.com
-g2.com
-www.activtrak.com
-activtrak.com
-secure.widget.cloud.opta.net
-widget.cloud.opta.net
-cloud.opta.net
-opta.net
-renderer.qmerce.com
-qmerce.com
-
-
-
