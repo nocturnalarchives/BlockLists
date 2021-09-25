@@ -435,3 +435,6 @@
 (\.|^)*firelan*\.
 (\.|^)teams\.
 (\.|^)*vidible*\.
+(\.|^)*ensighten*\.
+(\.|^)*nexus*\.
+(\.|^)nexus\.
