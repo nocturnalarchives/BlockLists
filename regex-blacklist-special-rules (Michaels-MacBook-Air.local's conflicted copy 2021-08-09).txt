@@ -438,3 +438,4 @@
 (\.|^)*ensighten*\.
 (\.|^)*nexus*\.
 (\.|^)nexus\.
+(\.|^)*queryly*\.
