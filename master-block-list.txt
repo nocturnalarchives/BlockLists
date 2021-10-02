@@ -1175,6 +1175,7 @@ activities.niagara.comedycentral.com
 activity.asce.org
 activity.frequency.com
 activity.windows.com
+activtrak.com
 acton.marcusevans-events.com
 acton.simpleviewinc.com
 acton.trefis.com
@@ -7442,6 +7443,7 @@ cdn.engine.spotscenered.info
 cdn.fera.ai
 cdn.foxycart.com
 cdn.freefacti.com
+cdn.fundraiseup.com
 cdn.ghostmonitor.com
 cdn.gotchosen.com
 cdn.heapanalytics.com
@@ -8400,6 +8402,7 @@ cod.bitrec.com
 code-server.biz
 code.adsales.snidigital.com
 code.facebook.com
+code.iconicframework.com
 code.randomhouse.com
 code.responsivevoice.org
 code.robertdegroot.nl
@@ -9709,6 +9712,7 @@ debitcrebit669.com
 debonairway.com
 debtbusterloans.com
 decibelinsight.net
+decider.com
 decisivedrawer.com
 decisiveducks.com
 decoroustitle.com
@@ -12345,6 +12349,7 @@ firecall.tv
 firecast.tv
 firefox.dns.nextdns.io
 firefox.settings.services.mozilla.com
+firelan.com
 firepush.net
 fireside.fm
 firestormmedia.tv
@@ -12453,6 +12458,7 @@ fna.fbcdn.net
 fnac.com
 fncstatic.com
 fndrsp.com
+fndrsp.net
 fnfhgj.secretsales.com
 fngwdl.allheart.com
 fnlvhy.wowma.jp
@@ -12795,6 +12801,7 @@ g.vev.io
 g.yccdn.com
 g1.nyt.com
 g1thub.com
+g2.com
 g2.gumgum.com
 g2178927685.co
 g2377012020.co
@@ -14654,6 +14661,7 @@ icmedienhaus.de
 icon.s.click.aliexpress.com
 iconadserver.com
 iconfinder.com
+iconicframework.com
 iconify.design
 iconnode.com
 icons8.com
@@ -14798,6 +14806,7 @@ imedia.cz
 imercostatic.dk
 img.prohardver.hu
 img.tpt.cloud
+img.vidible.tv
 img1.wsimg.com
 img3.wikia.nocookie.net
 img4.zergnet.com
@@ -15674,6 +15683,7 @@ jotform.com
 journalmedia.ie
 journey.cisco.com
 journey.newyorker.com
+journey.vanityfair.com
 journity.com
 joy.ochronus.online
 joyreactor.cc
@@ -17580,6 +17590,7 @@ marpu.de
 marsads.com
 marsello.com
 marsflag.com
+martechtoday.com
 martinipicnic.com
 marvellousmachine.net
 maryland.gov
@@ -19062,8 +19073,6 @@ msgapp.com
 msgesr.askona.ru
 msgp.pl
 msgr.com
-msh.amazon.co.uk
-msh.amazon.com
 msigbs.actonservice.com
 msmetrics-test.ws.sonos.com
 msmetrics.ws.sonos.com
@@ -19746,11 +19755,13 @@ nrw.de
 ns.google.com
 ns.rvmkitt.com
 ns1.facebook.com
+ns1.firelan.com
 ns1.recursive.dnsbycomodo.com
 ns1.uplogon.com
 ns11.whois.co.kr
 ns1p.net
 ns2.facebook.com
+ns2.firelan.com
 ns2.recursive.dnsbycomodo.com
 ns2.uplogon.com
 ns3.facebook.com
@@ -20557,6 +20568,7 @@ pages07.net
 pages08.net
 pagesense-collect.zoho.com
 pagesense.io
+pagesix.com
 pagesjaunes.fr
 pagesocket.glam.com
 pageupdate.co
@@ -21785,6 +21797,7 @@ ql.google.com
 qlitics.com
 qlzn6i1l.com
 qm.google.com
+qmerce.com
 qn.google.com
 qnsr.com
 qo.google.com
@@ -22269,6 +22282,7 @@ remove-from-mailing-list.com
 remove-from-mailinglist.com
 remove-subscription.com
 remzba.maninstore.co.kr
+renderer.qmerce.com
 renewal-control.net
 renotahoecarson.com
 rentalindustries.com
@@ -25565,6 +25579,7 @@ static.facebook.com
 static.fdel11-1.fna.fbcdn.net
 static.fmpub.net
 static.fsea1-1.fna.fbcdn.net
+static.fundraiseup.com
 static.gc.apple.com
 static.getclicky.com
 static.hotjar.com
@@ -29954,6 +29969,7 @@ www.a3cloud.net
 www.abebos.com
 www.aboutamazon.com
 www.acquireweb.com
+www.activtrak.com
 www.acx.com
 www.acxiom.com
 www.ad-balancer.at
@@ -30728,6 +30744,7 @@ www.fractionalmedia.com
 www.frame.ly
 www.fullcircleinsights.com
 www.fwmrm.net
+www.g2.com
 www.game-insight.com
 www.gameanalytics.com
 www.gannettdigital.com
@@ -32066,3 +32083,7 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
+nexus.ensighten.com
+ensighten.com
+www.queryly.com
+queryly.com
