@@ -505,3 +505,4 @@
 (\.|^)gateway\.
 (\.|^)devices?\.
 (\.|^)*withgoogle*\.
+(\.|^)aviary\.amazon\.com$
