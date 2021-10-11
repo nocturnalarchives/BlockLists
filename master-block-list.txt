@@ -4542,6 +4542,7 @@ auone.jp
 aura-11-01-snc7.facebook.com
 aurabom.ru
 auryc.com
+aus5.mozilla.org
 ausgezeichnet.org
 austin.logs.roku.com
 auth-em.hismarttv.com
@@ -9106,6 +9107,7 @@ csomagodjott.com
 csoonline.com
 csp-collector.appspot.com
 csp.archant.co.uk
+csp.withgoogle.com
 csr.onet.pl
 cssgraphics.net
 cssrvsync.com
@@ -21538,6 +21540,7 @@ providesupport.com
 proxena.ch
 proximis.com
 proxistore.com
+proxsee.pscp.tv
 proxy-usw2.modolabs.net
 proxy.dzeio.com
 proxypage.msn.com
@@ -21554,6 +21557,7 @@ ps.ecosia.org
 ps.google.com
 ps7894.com
 psbiaf.converse.com
+pscp.tv
 psg.nexstardigital.net
 psimg.com
 psm.wmcdp.io
@@ -21642,6 +21646,7 @@ purpleads.io
 push-ad.com
 push.net
 push.prod.netflix.com
+push.services.mozilla.com
 push.world
 push7.jp
 pushalert.co
@@ -29759,6 +29764,7 @@ wistia.com
 wistia.net
 witch-counter.de
 witglobal.net
+withgoogle.com
 without-additional.com
 witness-delay.com
 wivo2gaza.com
@@ -31007,6 +31013,7 @@ www.qikify.com
 www.qservz.com
 www.qualtrics.com
 www.quantcast.com
+www.queryly.com
 www.r7mediar.com
 www.rackfoundry.net
 www.radiusnetworks.com
@@ -32083,11 +32090,3 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
-nexus.ensighten.com
-ensighten.com
-www.queryly.com
-queryly.com
-proxsee.pscp.tv
-pscp.tv
-csp.withgoogle.com
-withgoogle.com
