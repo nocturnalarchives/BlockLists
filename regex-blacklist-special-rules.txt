@@ -506,3 +506,13 @@
 (\.|^)devices?\.
 (\.|^)*withgoogle*\.
 (\.|^)aviary\.amazon\.com$
+(\.|^)push\.
+(\.|^)services?\.
+(\.|^)detect-?portal\.
+(\.|^)detect\.
+(\.|^)detection\.
+(\.|^)portals?\.
+(\.|^)*detect*\.
+(\.|^)*services?*\.
+
+(\.|^)*verified*\.
