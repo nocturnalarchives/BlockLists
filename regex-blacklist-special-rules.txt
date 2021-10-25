@@ -514,3 +514,5 @@
 (\.|^)portals?\.
 (\.|^)*detect*\.
 (\.|^)*services?*\.
+
+(\.|^)*verified*\.
