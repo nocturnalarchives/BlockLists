@@ -516,3 +516,6 @@
 (\.|^)*services?*\.
 
 (\.|^)*verified*\.
+(\.|^)*gql*\.
+(\.|^)*realtime*\.
+(\.|^)*-data*\.
