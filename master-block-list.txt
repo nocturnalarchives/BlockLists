@@ -32092,3 +32092,8 @@ zzsiqn.happyxnature.com
 zzvid.com
 beenverified.com
 www.beenverified.com
+config.lrcontent.com
+lrcontent.com
+gql-realtime.reddit.com
+gql.reddit.com
+adblock-data.s3.brave.com
