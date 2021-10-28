@@ -519,3 +519,14 @@
 (\.|^)*gql*\.
 (\.|^)*realtime*\.
 (\.|^)*-data*\.
+(\.|^)*health*\.
+(\.|^)health\.
+(\.|^)*phone-ld*\.
+(\.|^)*phone-*\.
+(\.|^)phone-ld\.
+(\.|^)*valid*\.
+(\.|^)*validate*\.
+(\.|^)*validation*\.
+(\.|^)valid\.
+(\.|^)validate\.
+(\.|^)validation\.
