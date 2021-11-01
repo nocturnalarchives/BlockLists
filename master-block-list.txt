@@ -32097,3 +32097,9 @@ lrcontent.com
 gql-realtime.reddit.com
 gql.reddit.com
 adblock-data.s3.brave.com
+
+partnerstack.com
+js.partnerstack.com
+wp-masters.com
+writer-new.wp-masters.com
+

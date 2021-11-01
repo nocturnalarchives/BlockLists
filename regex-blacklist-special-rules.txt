@@ -530,3 +530,7 @@
 (\.|^)valid\.
 (\.|^)validate\.
 (\.|^)validation\.
+(\.|^)*-iad-*\.
+
+(\.|^)*partnerstack*\.
+(\.|^)*wp-?masters*\.
