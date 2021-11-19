@@ -1409,6 +1409,7 @@ adbard.net
 adbecrsl.com
 adbetnetwork.com
 adblade.com
+adblock-data.s3.brave.com
 adblock.any.dns.nixnet.xyz
 adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
@@ -1943,6 +1944,7 @@ adobecqms.net
 adobedc.demdex.net
 adobedc.net
 adobedtm.com
+adobeprimetime.com
 adobes.marugame-seimen.com
 adobes.pmi.org
 adobetag.com
@@ -7490,6 +7492,7 @@ cdn.secondspace.com
 cdn.segment.com
 cdn.shareaholic.net
 cdn.shortpixel.ai
+cdn.siftscience.com
 cdn.smartclip.net
 cdn.sophi.io
 cdn.speedcurve.com
@@ -8333,6 +8336,7 @@ cmp.channelpartner.de
 cmp.dmgmediaprivacy.co.uk
 cmp.dreamlab.pl
 cmp.oath.com
+cmp.osano.com
 cmpnet.com
 cmpstar.com
 cmpv2.csoonline.com
@@ -8399,6 +8403,7 @@ coax7nice.com
 cobalten.com
 cobaltgroup.com
 cobrowser.com
+cobwebs.com
 cod.bitrec.com
 code-server.biz
 code.adsales.snidigital.com
@@ -8506,6 +8511,8 @@ combitly.com
 comboapp.com
 comclick.com
 comdhabitude.net
+comeet.co
+comeet.com
 comelymodel.com
 cometondemand.net
 comfortablecheese.com
@@ -8596,6 +8603,7 @@ confiant.msn.com
 config.emb-api.com
 config.gorgias.io
 config.ioam.de
+config.lrcontent.com
 config.mapbox.com
 config.samsungads.com
 configuration-vending.service.amazonsilk.com
@@ -13426,6 +13434,8 @@ gp.google.com
 gpr.hu
 gpsecureads.com
 gq.google.com
+gql-realtime.reddit.com
+gql.reddit.com
 gr.google.com
 gracefulsock.com
 gracza.pl
@@ -15728,6 +15738,7 @@ js.hsleadflows.net
 js.idio.co
 js.matheranalytics.com
 js.org
+js.partnerstack.com
 js.pelcro.com
 js.pulseinsights.com
 js.pusher.com
@@ -17854,6 +17865,7 @@ mediaset.net
 mediasetplay.mediaset.it
 mediashakers.com
 mediasolutions.netinsight.net
+mediasonar.com
 mediasource.actonservice.com
 mediasquare.fr
 mediatek.com
@@ -20627,6 +20639,7 @@ partnermktg.symantec.com
 partners.badongo.com
 partners.mysavings.com
 partners.priceline.com
+partnerstack.com
 partnersuccess.cisco.com
 partnersuccessmetrics.cisco.com
 partplanes.com
@@ -21958,6 +21971,7 @@ rand.com.ru
 randomhouse.com
 randomlane.net
 randomuser.me
+randomwalker.info
 rank-master.com
 rank-master.de
 rankchamp.de
@@ -26136,6 +26150,7 @@ streaming.split.io
 streamingddigital.com
 streamrail.com
 streamrail.net
+streams.adobeprimetime.com
 streamtheworld.com
 stremanp.com
 striderite.com
@@ -29174,6 +29189,8 @@ vortex.data.microsoft.com
 vortex.hulu.com
 vox-cdn.com
 voxmedia.com
+voyagerlabs.co
+voyagerlabs.com
 voyagetext.com
 voyeur-blog.net
 vp.google.com
@@ -29847,6 +29864,7 @@ wowdpv.orsay.com
 wowhead.com
 wowza.com
 woxcdn.com
+wp-masters.com
 wp.com
 wp.google.com
 wp.pl
@@ -29875,6 +29893,7 @@ wraptext.net
 wrdw.com
 wreckvolcano.com
 wren.condenastdigital.com
+writer-new.wp-masters.com
 wronwaskinthetron.pro
 wrwebinar.com
 wryfinger.com
@@ -30547,6 +30566,7 @@ www.beaconsinspace.com
 www.beaconstreetservices.com
 www.bead-ad.com
 www.beanstalkdata.com
+www.beenverified.com
 www.bhclicks.com
 www.bhyhome.com
 www.biadu.com
@@ -30661,6 +30681,7 @@ www.co.jp
 www.co.kr
 www.co.nz
 www.co.uk
+www.cobwebs.com
 www.codenotary.com
 www.collab.apps.mil
 www.com.br
@@ -30668,6 +30689,8 @@ www.com.cn
 www.com.tr
 www.com.ua
 www.com.vn
+www.comeet.co
+www.comeet.com
 www.commandersact.com
 www.commerce.senate.gov
 www.comscore.com
@@ -30887,6 +30910,7 @@ www.mediamelon.com
 www.mediaset.it
 www.mediaset.net
 www.mediashakers.com
+www.mediasonar.com
 www.mediatek.com
 www.mediawayss.com
 www.mediaz.vn
@@ -31018,6 +31042,7 @@ www.r7mediar.com
 www.rackfoundry.net
 www.radiusnetworks.com
 www.rakutenadvertising.com
+www.randomwalker.info
 www.realitytitbit.com
 www.recreativ.com
 www.redclick.ru
@@ -31059,6 +31084,7 @@ www.shareaholic.net
 www.sharethrough.com
 www.shop.app
 www.shopbop.com
+www.sift.com
 www.silvermob.com
 www.simpleanalytics.com
 www.simplesharebuttons.com
@@ -31178,6 +31204,8 @@ www.vilynx.com
 www.voicesinai.com
 www.voltaiq.com
 www.voodoo-ads.io
+www.voyagerlabs.co
+www.voyagerlabs.com
 www.vrtzads.com
 www.vserv.com
 www.washingtonpost.com
@@ -32090,16 +32118,3 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
-beenverified.com
-www.beenverified.com
-config.lrcontent.com
-lrcontent.com
-gql-realtime.reddit.com
-gql.reddit.com
-adblock-data.s3.brave.com
-
-partnerstack.com
-js.partnerstack.com
-wp-masters.com
-writer-new.wp-masters.com
-
