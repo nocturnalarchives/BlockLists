@@ -511,3 +511,12 @@
 (\.|^)waldo\.
 \.ai$
 \.services$
+(\.|^)*launch*\.
+(\.|^)*launch\.
+(\.|^)launch*\.
+(\.|^)launch\.
+
+(\.|^)*launcher*\.
+(\.|^)*launcher\.
+(\.|^)launcher*\.
+(\.|^)launcher\.
