@@ -511,6 +511,7 @@
 (\.|^)waldo\.
 \.ai$
 \.services$
+<<<<<<< HEAD
 (\.|^)*launch*\.
 (\.|^)*launch\.
 (\.|^)launch*\.
@@ -520,3 +521,5 @@
 (\.|^)*launcher\.
 (\.|^)launcher*\.
 (\.|^)launcher\.
+=======
+>>>>>>> 84e3ba899e07dde1dc940bbc3763d0341f866b01
