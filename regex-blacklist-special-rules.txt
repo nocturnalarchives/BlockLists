@@ -201,7 +201,7 @@
 (\.|^)*killswitch*\.
 (\.|^)*klaviyo*\.
 (\.|^)*krxd*\.
-(\.|^)*labs?*\.
+(\.|^)*lab*\.
 (\.|^)*launch*\.
 (\.|^)*launcher*\.
 (\.|^)*lawyer-?marketing*\.
