@@ -32147,5 +32147,11 @@ zzvid.com
 <<<<<<< HEAD
 wurfl.io
 launcher.spot.im
-=======
->>>>>>> 84e3ba899e07dde1dc940bbc3763d0341f866b01
+hsbc-alerts.com
+www.hsbc-alerts.com
+www.mediapart.fr
+mediapart.fr
+static.mediapart.fr
+cdn.embedly.com
+embedly.com
+www.embedly.com
