@@ -201,7 +201,7 @@
 (\.|^)*killswitch*\.
 (\.|^)*klaviyo*\.
 (\.|^)*krxd*\.
-(\.|^)*labs?*\.
+(\.|^)*lab*\.
 (\.|^)*launch*\.
 (\.|^)*launcher*\.
 (\.|^)*lawyer-?marketing*\.
@@ -511,15 +511,18 @@
 (\.|^)waldo\.
 \.ai$
 \.services$
-<<<<<<< HEAD
 (\.|^)*launch*\.
 (\.|^)*launch\.
 (\.|^)launch*\.
 (\.|^)launch\.
-
 (\.|^)*launcher*\.
 (\.|^)*launcher\.
 (\.|^)launcher*\.
 (\.|^)launcher\.
-=======
->>>>>>> 84e3ba899e07dde1dc940bbc3763d0341f866b01
+(\.|^)*member*\.
+(\.|^)member\.
+(\.|^)*hsbc-*\.
+(\.|^)*-alert*\.
+(\.|^)*-alerts?\.
+(\.|^)alerts?-?*\.
+(\.|^)*embedly*\.

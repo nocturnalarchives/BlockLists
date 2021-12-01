@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 0-courier.push.apple.com
 0-courier.sandbox.push.apple.com
 0-edge-chat.facebook.com
@@ -911,6 +912,7 @@ aas.visitsaudi.com
 aatrk.com
 aax-eu-dub.amazon.com
 aax-eu.amazon-adsystem.com
+aax-us-east-retail-direct.amazon.com
 aax-us-east.amazon-adsystem.com
 aax-us-iad.amazon.com
 aax.amazon-adsystem.com
@@ -4401,6 +4403,7 @@ asrararabiya.co
 asrararablya.com
 asrarrarabiya.com
 assembled-battery.com
+assets-jpcust.jwpsrv.com
 assets.a-mo.net
 assets.adobedtm.com
 assets.apl-alexa.com
@@ -6685,6 +6688,7 @@ blogtoplist.se
 blogtopsites.com
 blok.link
 blotburn.com
+bloximages.newyork1.vip.townnews.com
 blozoo.info
 blubrry.com
 blueadvertise.com
@@ -7189,6 +7193,7 @@ calculatesymbols.com
 calculatingcircle.com
 calculatingtoothbrush.com
 calculatorcamera.com
+calendarapi-cdn.spingo.com
 calendarsapp.com
 calendarsuggest.client6.google.com
 calendly.com
@@ -7444,6 +7449,7 @@ cdn.digitaloceanspaces.com
 cdn.districim.io
 cdn.districtm.io
 cdn.dynamicyield.com
+cdn.embedly.com
 cdn.engine.addroplet.com
 cdn.engine.spotscenered.info
 cdn.fera.ai
@@ -7502,6 +7508,7 @@ cdn.sophi.io
 cdn.speedcurve.com
 cdn.sprintquery.com
 cdn.sstatic.net
+cdn.statcdn.com
 cdn.subscribers.com
 cdn.taboola.com
 cdn.tax
@@ -8857,6 +8864,7 @@ cordial.io
 cordlessmedia.com
 core.bruynzeelkeukens.nl
 core.connatix.com
+core.spreadly.com
 core.unit-sense.net
 core.windows.net
 coredna.com
@@ -9343,6 +9351,7 @@ d3m6sept6cnil5.cloudfront.net
 d3mjsomixevyw7.cloudfront.net
 d3mskfhorhi2fb.cloudfront.net
 d3n6i6eorggdxk.cloudfront.net
+d3p8zr0ffa9t17.cloudfront.net
 d3q7vxy7usqoub.cloudfront.net
 d3qxwzhswv93jk.cloudfront.net
 d3r7h55ola878c.cloudfront.net
@@ -10385,6 +10394,7 @@ ds.haaretz.co.il
 dsa.moatads.com
 dsg.interia.pl
 dspx.tv
+dss-na.amazon.com
 dss.platform.californiatimes.com
 dsspn.com
 dstillery.com
@@ -12275,6 +12285,7 @@ fetchlink.net
 ff.google.com
 ffcdn.streamrail.net
 ffrmwn.musinsa.com
+ffs-provisioner-config.amazon-dss.com
 ffuodj.lanebryant.com
 ffx.io
 ffxcam.fairfax.com.au
@@ -14452,6 +14463,7 @@ hs.google.com
 hsadspixel.net
 hsappstatic.net
 hsasqc.randewoo.ru
+hsbc-alerts.com
 hsbc.co.uk
 hscollectedforms.net
 hscta.net
@@ -16992,6 +17004,7 @@ madfishelements.com
 madisonavenue.com
 mads-eu.amazon.com
 mads.amazon-adsystem.com
+mads.amazon.com
 mads.aol.com
 mads.cnet.com
 madsack-native.de
@@ -17862,6 +17875,7 @@ mediamond.it
 medianet.adlabs.ru
 medianet.adlabsnetworks.com
 mediaonion.org
+mediapart.fr
 mediaplazza.com
 mediaplex.com
 mediapoint.biz
@@ -19305,6 +19319,7 @@ n1topserch.com
 n2.hk
 n69.com
 na.google.com
+na.prism.digital.amazon.dev
 na103.content.force.com
 nadavi.net
 nagich.co.il
@@ -19603,6 +19618,7 @@ nginfo.industrialinfo.com
 ngpvan.com
 ngs.impress.co.jp
 nh.google.com
+nh365.spingo.com
 nhkoze.saneibd.com
 ni.google.com
 nic.facebook.com
@@ -22746,6 +22762,7 @@ s-static.ak.facebook.com.edgekey.net
 s-static.facebook.com
 s-video.innovid.com
 s.360.cn
+s.abcnews.com
 s.adroll.com
 s.agava.ru
 s.allanibutiti.com
@@ -24694,6 +24711,7 @@ softclick.com.br
 softmaker.de
 softtech.m.facebook.com
 softtrack08.com
+softwareupdates.amazon.com
 sofurryfiles.com
 soggysponge.com
 sohatv.vn
@@ -25537,6 +25555,7 @@ stat.zol.com.cn
 stat24.com
 stat24.meta.ua
 statad.ru
+statcdn.com
 statcjs.com
 statcounter.com
 statdb.pressflex.com
@@ -25629,6 +25648,7 @@ static.itools.com
 static.itrack.it
 static.klaviyo.com
 static.kqzyfj.com
+static.mediapart.fr
 static.olark.com
 static.parsely.com
 static.scroll.com
@@ -29479,6 +29499,7 @@ web-z.net
 web.bankofscotland.de
 web.beta.facebook.com
 web.dev
+web.diagnostic.networking.aws.dev
 web.diebayerische.de
 web.easy-ads.com
 web.emails.elc.co.uk
@@ -30763,6 +30784,7 @@ www.eera-ecer.de
 www.eero.com
 www.electronic.us
 www.eloqua.com
+www.embedly.com
 www.emediate.se
 www.emoshape.com
 www.emxdigital.com
@@ -30857,6 +30879,7 @@ www.hgads.net
 www.himediads.com
 www.howdoesin.net
 www.hs-scripts.com
+www.hsbc-alerts.com
 www.hswstatic.com
 www.i.matheranalytics.com
 www.iadvize.com
@@ -30932,6 +30955,7 @@ www.mediad.asia
 www.mediaforce.com
 www.mediaite.com
 www.mediamelon.com
+www.mediapart.fr
 www.mediaset.it
 www.mediaset.net
 www.mediashakers.com
@@ -32144,8 +32168,3 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
-<<<<<<< HEAD
-wurfl.io
-launcher.spot.im
-=======
->>>>>>> 84e3ba899e07dde1dc940bbc3763d0341f866b01
