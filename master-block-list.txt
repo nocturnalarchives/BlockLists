@@ -4774,6 +4774,7 @@ bacon.getcarro.com
 bacon.section.io
 bacontent.de
 badb5refl.com
+badge.dimensions.ai
 badge.facebook.com
 badgerstat.com
 badges.altmetric.com
@@ -9988,6 +9989,7 @@ dii2.zooplus.pt
 dii2.zooplus.ro
 dii2.zooplus.se
 dimelochat.com
+dimensions.ai
 dimml.io
 ding.wix.com
 diningip.com
@@ -16595,6 +16597,7 @@ liveperson.net
 liverail.c10r.facebook.com
 liverail.com
 livesearch-autocomplete.magento-ds.com
+livesearch-metrics.magento-ds.com
 livesession.io
 livesgplive.org
 livestats.kaltura.com
@@ -19694,6 +19697,7 @@ nol.yahoo.com
 nolo.com
 noloveforyou.com
 nom.churchofjesuschrist.org
+nom.telemetrydeck.com
 nomobileads.com
 nomorewarnow.com
 non-hybrid-seeds.com
@@ -23146,6 +23150,7 @@ scially.wpengine.com
 science.schoolspecialtynews.com
 sciencedirect-id.elsevier-ae.com
 sciencex.com
+sciendo-parsed-data-feed.s3.eu-central-1.amazonaws.com
 scientiamobile.com
 scientificsneeze.com
 scintillatingscissors.com
@@ -26909,6 +26914,7 @@ telemetry.soundcloud.com
 telemetry.tableausoftware.com
 telemetry.tradingview.com
 telemetry.urs.microsoft.com
+telemetrydeck.com
 telenor.m.facebook.com
 telephonequality.com
 teleport.media
