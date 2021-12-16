@@ -427,9 +427,9 @@
 (\.|^)*tableausoftware*\.
 (\.|^)*talk*\.
 (\.|^)*target*\.
-(\.|^)*targeted*\
-(\.|^)*targeting*\
-(\.|^)*targets*\
+(\.|^)*targeted*\.
+(\.|^)*targeting*\.
+(\.|^)*targets*\.
 (\.|^)*targetsystem*\.
 (\.|^)*tblsft*\.
 (\.|^)*teads*\.
