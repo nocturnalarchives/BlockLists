@@ -8634,6 +8634,7 @@ conkac.com
 connatix.com
 connct-9.com
 connect.acspubs.org
+connect.adobedc.net
 connect.astrobotanicals.com
 connect.blog.netapp.com
 connect.ciena.com
@@ -23023,6 +23024,7 @@ santuforward.club
 sape.ru
 sappmetrics.boostmobile.com
 sappmetrics.sprint.com
+sars.amazon.com
 sas.com
 sas.nsm-corp.com
 sasc.solidworks.com
@@ -32174,6 +32176,3 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
-sars.amazon.com
-connect.adobedc.net
-adobedc.net
