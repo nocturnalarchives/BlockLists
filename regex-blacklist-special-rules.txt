@@ -573,3 +573,10 @@
 \.ai
 \.ai$
 \.services$
+(\.|^)*confection*\.
+(\.|^)bwbx\.
+(\.|^)*bwbx\.
+(\.|^)bwbx*\.
+(\.|^)go-?traffic\.
+(\.|^)go-?traffic*\.
+(\.|^)*go-?traffic\.

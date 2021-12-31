@@ -32178,3 +32178,12 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
+cdn.affirm.com
+affirm.com
+cdn.botframework.com
+cdn.gotraffic.net
+gotraffic.net
+assets.bwbx.io
+images.bwbx.io
+bwbx.io
+confection.io
