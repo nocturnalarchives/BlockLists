@@ -4497,6 +4497,7 @@ att.com
 att.demdex.net
 attachment.fbsbx.com
 attachments.facebook.com
+attentivemobile.com
 attn.tv
 attorney.findlaw.com
 attracta.com
@@ -22911,6 +22912,7 @@ sales.disneylandparis.com
 salesfire.co.uk
 salesforce.com
 salesforceliveagent.com
+salesiq.zoho.com
 salesloft.com
 salesloft.netdna-cdn.com
 salesmanago.com
@@ -32176,3 +32178,5 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
+cdn.affirm.com
+affirm.com

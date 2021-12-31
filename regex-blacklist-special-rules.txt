@@ -60,6 +60,7 @@
 (\.|^)*apple-resources*\.
 (\.|^)*apps?\.
 (\.|^)*assessment*\.
+(\.|^)*attentive*\.
 (\.|^)*attservice*\.
 (\.|^)*audible*\.
 (\.|^)*audio-articles*\.
@@ -166,6 +167,7 @@
 (\.|^)*dotomi*\.
 (\.|^)*double-?click*\.
 (\.|^)*double-?verify*\.
+(\.|^)*drip\.
 (\.|^)*dss-*\.
 (\.|^)*dynamic*\.
 (\.|^)*embedly*\.
@@ -215,6 +217,7 @@
 (\.|^)*intelligence*\.
 (\.|^)*intent*\.
 (\.|^)*interstitial*\.
+(\.|^)*iq\.
 (\.|^)*killswitch*\.
 (\.|^)*klaviyo*\.
 (\.|^)*krxd*\.
@@ -364,6 +367,8 @@
 (\.|^)*rootca*\.
 (\.|^)*rootca1*\.
 (\.|^)*rubicon-?project*\.
+(\.|^)*sales-?iq*\.
+(\.|^)*sales?\.
 (\.|^)*salsify*\.
 (\.|^)*samsung*\.
 (\.|^)*sandbox*\.
@@ -425,6 +430,7 @@
 (\.|^)*sw-?scan*\.
 (\.|^)*tableau*\.
 (\.|^)*tableausoftware*\.
+(\.|^)*tags?\.
 (\.|^)*talk*\.
 (\.|^)*target*\.
 (\.|^)*targeted*\.
@@ -508,6 +514,10 @@
 (\.|^)detection\.
 (\.|^)devices?\.
 (\.|^)digital\.
+(\.|^)drip*\.
+(\.|^)drip\.
+(\.|^)event\.
+(\.|^)events?\.
 (\.|^)gateway\.
 (\.|^)geo\.
 (\.|^)get\.
@@ -522,6 +532,8 @@
 (\.|^)insight*\.
 (\.|^)insights?\.
 (\.|^)iot\.
+(\.|^)iq*\.
+(\.|^)iq\.
 (\.|^)launch*\.
 (\.|^)launch\.
 (\.|^)launcher*\.
@@ -543,11 +555,13 @@
 (\.|^)query\.
 (\.|^)real-?time*\.
 (\.|^)real-?time\.
+(\.|^)sales*\.
 (\.|^)sdk\.
 (\.|^)sentry\.
 (\.|^)services?\.
 (\.|^)ssc\.
 (\.|^)sync\.
+(\.|^)tags?\.
 (\.|^)valid\.
 (\.|^)validate\.
 (\.|^)validation\.
@@ -559,4 +573,3 @@
 \.ai
 \.ai$
 \.services$
-
