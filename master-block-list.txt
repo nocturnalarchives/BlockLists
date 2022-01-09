@@ -4409,6 +4409,7 @@ assets.adobedtm.com
 assets.apl-alexa.com
 assets.apl.alexa.amazon.dev
 assets.bounceexchange.com
+assets.bwbx.io
 assets.calendly.com
 assets.context.ly
 assets.d2iq.com
@@ -7092,6 +7093,7 @@ bvkgqg.sokolov.ru
 bvr.ast.snva.jp
 bvr.snva.jp
 bw.google.com
+bwbx.io
 bwp.download.com
 bwr-media.de
 bwwmediagroup.com
@@ -7425,6 +7427,7 @@ cdn.add0n.com
 cdn.adpushup.com
 cdn.adsafeprotected.com
 cdn.aerisapi.com
+cdn.affirm.com
 cdn.anvato.net
 cdn.appdomain.cloud
 cdn.appdynamics.com
@@ -7434,6 +7437,7 @@ cdn.atdmt.com
 cdn.bibblio.org
 cdn.blueconic.net
 cdn.boomtrain.com
+cdn.botframework.com
 cdn.branch.io
 cdn.brandmetrics.com
 cdn.brid.tv
@@ -7444,6 +7448,7 @@ cdn.ckeditor.com
 cdn.cohesionapps.com
 cdn.concert.io
 cdn.connectad.io
+cdn.convertbox.com
 cdn.cookielaw.org
 cdn.corporate.walmart.com
 cdn.couponcause.com
@@ -7460,6 +7465,7 @@ cdn.freefacti.com
 cdn.fundraiseup.com
 cdn.ghostmonitor.com
 cdn.gotchosen.com
+cdn.gotraffic.net
 cdn.heapanalytics.com
 cdn.ihsmarkit.com
 cdn.inpwrd.net
@@ -8255,6 +8261,7 @@ clients97.google.com
 clients98.google.com
 clients99.google.com
 clientservices.googleapis.com
+clientstream.launchdarkly.com
 cliftons.actonservice.com
 cliipa.com
 clinch.co
@@ -13131,6 +13138,7 @@ gie.net
 gift2pair.com
 gigya.com
 gigya.foodnetwork.com
+gimbal.com
 gingerhotels.m.facebook.com
 gio.com.au
 giocdn.com
@@ -14824,6 +14832,7 @@ imagecash.net
 imagendigital.com
 images-apmex.com
 images-pw.secureserver.net
+images.bwbx.io
 images.ctfassets.net
 images.dmca.com
 images.findlawresources.com
@@ -16056,6 +16065,7 @@ kontera.com
 koopnedvij.ru
 koramaghreb.com
 koran-bola.com
+kornel.ski
 kota3chat.com
 kotakputih.casa
 kotaku.com
@@ -16209,6 +16219,7 @@ latest.facebook.com
 latinongroup.com
 laughablecopper.com
 laughcloth.com
+launchdarkly.com
 launcher.spot.im
 launchpress.com
 laurel.macrovision.com
@@ -18899,6 +18910,7 @@ mobile-updates.info
 mobile.beta.facebook.com
 mobile.clearme.com
 mobile.facebook.com
+mobile.launchdarkly.com
 mobile.pipe.aria.microsoft.com
 mobileactive.com
 mobilead.vn
@@ -23473,6 +23485,7 @@ sdc.aware.com.au
 sdc2.credit-suisse.com
 sdcs.felissimo.co.jp
 sdhfbvd.com
+sdk-info.gimbal.com
 sdk.beemray.com
 sdk.hockeyapp.net
 sdk.privacy-center.org
@@ -32178,12 +32191,3 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
-cdn.affirm.com
-affirm.com
-cdn.botframework.com
-cdn.gotraffic.net
-gotraffic.net
-assets.bwbx.io
-images.bwbx.io
-bwbx.io
-confection.io

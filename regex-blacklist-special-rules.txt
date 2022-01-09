@@ -46,6 +46,7 @@
 (\.|^)*alert*\.
 (\.|^)*alerts*\.
 (\.|^)*amazon-?dss*\.
+(\.|^)*amazon-?trust*\.
 (\.|^)*amazontrust*\.
 (\.|^)*analytic*\.
 (\.|^)*analytics*\.
@@ -53,6 +54,7 @@
 (\.|^)*anycast*\.
 (\.|^)*api-?test*\.
 (\.|^)*app-?analytic*\.
+(\.|^)*app-?center*\.
 (\.|^)*appdynamics*\.
 (\.|^)*apple-?id*\.
 (\.|^)*apple-?resource*\.
@@ -79,6 +81,7 @@
 (\.|^)*browser*\.
 (\.|^)*browseraddon*\.
 (\.|^)*bug-?snag*\.
+(\.|^)*bwbx\.
 (\.|^)*calendar-?api*\.
 (\.|^)*call-?to-?action*\.
 (\.|^)*cam*\.
@@ -95,10 +98,12 @@
 (\.|^)*choice*\.
 (\.|^)*civicscience*\.
 (\.|^)*click-?funnel*\.
+(\.|^)*click-?stream*\.
 (\.|^)*click*\.
 (\.|^)*clickserv*\.
 (\.|^)*clickstream-producer*\.
 (\.|^)*clickstream*\.
+(\.|^)*client-?stream*\.
 (\.|^)*client*\.
 (\.|^)*cloudsolution*\.
 (\.|^)*cmaxsrv*\.
@@ -113,6 +118,7 @@
 (\.|^)*commerceapps*\.
 (\.|^)*computing*\.
 (\.|^)*concertad*\.
+(\.|^)*confection*\.
 (\.|^)*confiant*\.
 (\.|^)*config*\.
 (\.|^)*configuration*\.
@@ -126,6 +132,8 @@
 (\.|^)*consumer*\.
 (\.|^)*contributor*\.
 (\.|^)*conversation*\.
+(\.|^)*conversion*\.
+(\.|^)*convert*\.
 (\.|^)*cookie-?match*\.
 (\.|^)*cookie*\.
 (\.|^)*Coordinator-Production*\.
@@ -189,7 +197,9 @@
 (\.|^)*gateway*\.
 (\.|^)*geo-*\.
 (\.|^)*get-?clicky*\.
+(\.|^)*gimbal*\.
 (\.|^)*go-?mpulse*\.
+(\.|^)*go-?traffic\.
 (\.|^)*gotchosen*\.
 (\.|^)*gps*\.
 (\.|^)*gql*\.
@@ -223,6 +233,7 @@
 (\.|^)*krxd*\.
 (\.|^)*lab*\.
 (\.|^)*labs*\.
+(\.|^)*launch-?darkly*\.
 (\.|^)*launch*\.
 (\.|^)*launch\.
 (\.|^)*launcher*\.
@@ -460,6 +471,7 @@
 (\.|^)*trick-play*\.
 (\.|^)*trinitymedia*\.
 (\.|^)*trust*\.
+(\.|^)*trust\.
 (\.|^)*unruly-?media*\.
 (\.|^)*update*\.
 (\.|^)*usabilla*\.
@@ -505,6 +517,9 @@
 (\.|^)badge\.
 (\.|^)baidu\.
 (\.|^)browser\.
+(\.|^)bwbx*\.
+(\.|^)bwbx\.
+(\.|^)client-?stream\.
 (\.|^)core\.
 (\.|^)crash\.
 (\.|^)crashlytics\.
@@ -521,6 +536,9 @@
 (\.|^)gateway\.
 (\.|^)geo\.
 (\.|^)get\.
+(\.|^)gimbal\.
+(\.|^)go-?traffic*\.
+(\.|^)go-?traffic\.
 (\.|^)go\.
 (\.|^)graph\.
 (\.|^)gum\.
@@ -547,6 +565,9 @@
 (\.|^)me\.
 (\.|^)media-?sonar\.
 (\.|^)member\.
+(\.|^)omniture*\.
+(\.|^)omniture\.
+(\.|^)oscp\.
 (\.|^)phone-ld\.
 (\.|^)pixel\.
 (\.|^)portals?\.
@@ -562,6 +583,7 @@
 (\.|^)ssc\.
 (\.|^)sync\.
 (\.|^)tags?\.
+(\.|^)trust*\.
 (\.|^)valid\.
 (\.|^)validate\.
 (\.|^)validation\.
@@ -572,11 +594,5 @@
 (\.|^)web\.
 \.ai
 \.ai$
+\.ms
 \.services$
-(\.|^)*confection*\.
-(\.|^)bwbx\.
-(\.|^)*bwbx\.
-(\.|^)bwbx*\.
-(\.|^)go-?traffic\.
-(\.|^)go-?traffic*\.
-(\.|^)*go-?traffic\.
