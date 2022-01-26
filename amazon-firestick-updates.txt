@@ -1,0 +1,15 @@
+#########################################################################################
+##
+##  This list blocks Amazon Firestick Updates.
+##
+##
+##  Upated: Jan 26, 2022
+##
+#########################################################################################
+
+
+d1s31zyz7dcc2d.cloudfront.net
+amzdigital-a.akamaihd.net
+amzdigitaldownloads.edgesuite.net
+softwareupdates.amazon.com
+updates.amazon.com
