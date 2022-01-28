@@ -48,6 +48,8 @@
 (\.|^)*amazon-?dss*\.
 (\.|^)*amazon-?trust*\.
 (\.|^)*amazontrust*\.
+(\.|^)*amzdigital-*\.
+(\.|^)*amzdigitaldownloads*\.
 (\.|^)*analytic*\.
 (\.|^)*analytics*\.
 (\.|^)*analyze*\.
@@ -162,6 +164,7 @@
 (\.|^)*customer-?service*\.
 (\.|^)*data-?wrapper*\.
 (\.|^)*data*\.
+(\.|^)*deck\.
 (\.|^)*demdex*\.
 (\.|^)*detect*\.
 (\.|^)*developer*\.
@@ -451,6 +454,7 @@
 (\.|^)*tblsft*\.
 (\.|^)*teads*\.
 (\.|^)*telemetry-?deck*\.
+(\.|^)*telemetry*\.
 (\.|^)*term*\.
 (\.|^)*terror*\.
 (\.|^)*terrorism*\.

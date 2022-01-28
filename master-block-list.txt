@@ -3451,6 +3451,8 @@ ampry.com
 ampush.io
 amung.us
 amunx.de
+amzdigital-a.akamaihd.net
+amzdigitaldownloads.edgesuite.net
 an.avast.com
 an.facebook.com
 an.google.com
@@ -15805,7 +15807,6 @@ jtvnw.net
 ju.google.com
 judge.me
 judgeauthority.com
-juggler.amazon.com
 juiceadv.com
 juicer.cc
 juicer.io
@@ -16218,7 +16219,6 @@ late6year.com
 latest-songs.com
 latest.facebook.com
 latinongroup.com
-latinum.amazon.com
 laughablecopper.com
 laughcloth.com
 launchdarkly.com
