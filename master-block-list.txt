@@ -3334,7 +3334,6 @@ aliveachiever.com
 alkst.co
 all-cod.com
 all-sales.info
-all-systems.mcast.net
 all4spy.com
 alladvantage.com
 allafricaninfo.com
@@ -9363,7 +9362,6 @@ d3m6sept6cnil5.cloudfront.net
 d3mjsomixevyw7.cloudfront.net
 d3mskfhorhi2fb.cloudfront.net
 d3n6i6eorggdxk.cloudfront.net
-d3p8zr0ffa9t17.cloudfront.net
 d3q7vxy7usqoub.cloudfront.net
 d3qxwzhswv93jk.cloudfront.net
 d3r7h55ola878c.cloudfront.net
@@ -17721,7 +17719,6 @@ mc.google.com
 mc.webvisor.com
 mc.webvisor.org
 mc.yandex.ru
-mcast.net
 mccdn.me
 mcdmetrics.aaa.com
 mcel-update.com
