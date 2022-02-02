@@ -600,3 +600,7 @@
 \.ai$
 \.ms
 \.services$
+(\.|^)*human*\.
+(\.|^)*presence*\.
+(\.|^)*script*\.
+(\.|^)*re-?buy*\.

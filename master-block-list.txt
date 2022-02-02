@@ -3334,7 +3334,6 @@ aliveachiever.com
 alkst.co
 all-cod.com
 all-sales.info
-all-systems.mcast.net
 all4spy.com
 alladvantage.com
 allafricaninfo.com
@@ -17720,7 +17719,6 @@ mc.google.com
 mc.webvisor.com
 mc.webvisor.org
 mc.yandex.ru
-mcast.net
 mccdn.me
 mcdmetrics.aaa.com
 mcel-update.com
@@ -32192,3 +32190,9 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
+protect.humanpresence.io
+humanpresence.io
+sdk.postscript.io
+postscript.io
+cdn.rebuyengine.com
+rebuyengine.com
