@@ -102,6 +102,7 @@
 (\.|^)*click-?funnel*\.
 (\.|^)*click-?stream*\.
 (\.|^)*click*\.
+(\.|^)*clicks?\.
 (\.|^)*clickserv*\.
 (\.|^)*clickstream-producer*\.
 (\.|^)*clickstream*\.
@@ -215,6 +216,7 @@
 (\.|^)*heap-?analytics*\.
 (\.|^)*host*\.
 (\.|^)*hsbc-*\.
+(\.|^)*human*\.
 (\.|^)*i?phone*\.
 (\.|^)*iadsdk*\.
 (\.|^)*identity*\.
@@ -230,6 +232,7 @@
 (\.|^)*intelligence*\.
 (\.|^)*intent*\.
 (\.|^)*interstitial*\.
+(\.|^)*ipv6*\.
 (\.|^)*iq\.
 (\.|^)*killswitch*\.
 (\.|^)*klaviyo*\.
@@ -287,6 +290,9 @@
 (\.|^)*monorail-edge*\.
 (\.|^)*monorail*\.
 (\.|^)*mrworldwide*\.
+(\.|^)*my-?dna*\.
+(\.|^)*my-?photo*\.
+(\.|^)*my-?photos?-?dna*\.
 (\.|^)*mybrowser*\.
 (\.|^)*mybrowseraddon*\.
 (\.|^)*myphotodna*\.
@@ -332,6 +338,7 @@
 (\.|^)*phone-ld*\.
 (\.|^)*photo-?dna*\.
 (\.|^)*photodna*\.
+(\.|^)*photos?-?dna*\.
 (\.|^)*pinpoint*\.
 (\.|^)*pixel*\.
 (\.|^)*platform*\.
@@ -343,6 +350,7 @@
 (\.|^)*pre-?roll*\.
 (\.|^)*prebid-?match*\.
 (\.|^)*premium*\.
+(\.|^)*presence*\.
 (\.|^)*prism*\.
 (\.|^)*prod-*\.
 (\.|^)*producer*\.
@@ -366,6 +374,7 @@
 (\.|^)*query*\.
 (\.|^)*query\.
 (\.|^)*random-?walker*\.
+(\.|^)*re-?buy*\.
 (\.|^)*real-?time*\.
 (\.|^)*real-?time\.
 (\.|^)*realtime*\.
@@ -391,6 +400,7 @@
 (\.|^)*screen-?shot*\.
 (\.|^)*screen*\.
 (\.|^)*scribe*\.
+(\.|^)*script*\.
 (\.|^)*scroll*\.
 (\.|^)*sdk*\.
 (\.|^)*seal-*\.
@@ -484,6 +494,7 @@
 (\.|^)*usage*\.
 (\.|^)*user*\.
 (\.|^)*uspto*\.
+(\.|^)*v6-*\.
 (\.|^)*vaccinate*\.
 (\.|^)*vaccination*\.
 (\.|^)*vaccine*\.
@@ -523,6 +534,7 @@
 (\.|^)browser\.
 (\.|^)bwbx*\.
 (\.|^)bwbx\.
+(\.|^)clicks?\.
 (\.|^)client-?stream\.
 (\.|^)core\.
 (\.|^)crash\.
@@ -554,6 +566,7 @@
 (\.|^)insight*\.
 (\.|^)insights?\.
 (\.|^)iot\.
+(\.|^)ipv6\.
 (\.|^)iq*\.
 (\.|^)iq\.
 (\.|^)launch*\.
@@ -569,9 +582,11 @@
 (\.|^)me\.
 (\.|^)media-?sonar\.
 (\.|^)member\.
+(\.|^)my-?photos?-?dna\.
 (\.|^)omniture*\.
 (\.|^)omniture\.
 (\.|^)oscp\.
+(\.|^)partners?\.
 (\.|^)phone-ld\.
 (\.|^)pixel\.
 (\.|^)portals?\.
@@ -587,7 +602,9 @@
 (\.|^)ssc\.
 (\.|^)sync\.
 (\.|^)tags?\.
+(\.|^)telemetry\.
 (\.|^)trust*\.
+(\.|^)v6\.
 (\.|^)valid\.
 (\.|^)validate\.
 (\.|^)validation\.
@@ -600,7 +617,3 @@
 \.ai$
 \.ms
 \.services$
-(\.|^)*human*\.
-(\.|^)*presence*\.
-(\.|^)*script*\.
-(\.|^)*re-?buy*\.
