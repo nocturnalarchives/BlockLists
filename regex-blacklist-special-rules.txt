@@ -617,3 +617,6 @@
 \.ai$
 \.ms
 \.services$
+(\.|^)*wallet-?connect*\.
+(\.|^)*wallet*\.
+(\.|^)*connect*\.
