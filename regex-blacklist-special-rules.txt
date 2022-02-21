@@ -620,3 +620,12 @@
 (\.|^)*wallet-?connect*\.
 (\.|^)*wallet*\.
 (\.|^)*connect*\.
+(\.|^)*walkme*\.
+(\.|^)*thawte*\.
+(\.|^)*status*\.
+(\.|^)status\.
+(\.|^)*app\.
+(\.|^)app\.
+(\.|^)*status*\.
+(\.|^)*status\.
+(\.|^)status\.
