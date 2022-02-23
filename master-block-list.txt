@@ -32214,3 +32214,8 @@ status.thawte.com
 app.kareo.com
 kareo.com
 mandrillapp.com
+ck.page
+us.data3.mobile.pendo.io
+data3.mobile.pendo.io
+mobile.pendo.io
+pendo.io

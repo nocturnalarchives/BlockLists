@@ -8,6 +8,7 @@
 (\.|^)*-edge*\.
 (\.|^)*-geo*\.
 (\.|^)*-iad-*\.
+(\.|^)*-iot\.
 (\.|^)*-prod*\.
 (\.|^)*-verify*\.
 (\.|^)*\.app$
@@ -57,6 +58,7 @@
 (\.|^)*api-?test*\.
 (\.|^)*app-?analytic*\.
 (\.|^)*app-?center*\.
+(\.|^)*app\.
 (\.|^)*appdynamics*\.
 (\.|^)*apple-?id*\.
 (\.|^)*apple-?resource*\.
@@ -444,6 +446,7 @@
 (\.|^)*stats*\.
 (\.|^)*status-?page*\.
 (\.|^)*status*\.
+(\.|^)*status\.
 (\.|^)*subscribe*\.
 (\.|^)*subscription*\.
 (\.|^)*supremacist*\.
@@ -471,6 +474,7 @@
 (\.|^)*terrorist*\.
 (\.|^)*test*\.
 (\.|^)*testing*\.
+(\.|^)*thawte*\.
 (\.|^)*thecvf*\.
 (\.|^)*threat*\.
 (\.|^)*time-?zone*\.
@@ -511,6 +515,9 @@
 (\.|^)*voyager-?labs*\.
 (\.|^)*waldo*\.
 (\.|^)*waldo\.
+(\.|^)*walkme*\.
+(\.|^)*wallet-?connect*\.
+(\.|^)*wallet*\.
 (\.|^)*wapo-analytic*\.
 (\.|^)*washingtonpost-*\.
 (\.|^)*web-?cam*\.
@@ -527,6 +534,7 @@
 (\.|^)ads\.
 (\.|^)alerts?\.
 (\.|^)api\.
+(\.|^)app\.
 (\.|^)auth\.
 (\.|^)aviary\.amazon\.com$
 (\.|^)badge\.
@@ -565,6 +573,7 @@
 (\.|^)idmsa\.
 (\.|^)insight*\.
 (\.|^)insights?\.
+(\.|^)iot-*\.
 (\.|^)iot\.
 (\.|^)ipv6\.
 (\.|^)iq*\.
@@ -600,6 +609,7 @@
 (\.|^)sentry\.
 (\.|^)services?\.
 (\.|^)ssc\.
+(\.|^)status\.
 (\.|^)sync\.
 (\.|^)tags?\.
 (\.|^)telemetry\.
@@ -617,15 +627,11 @@
 \.ai$
 \.ms
 \.services$
-(\.|^)*wallet-?connect*\.
-(\.|^)*wallet*\.
-(\.|^)*connect*\.
-(\.|^)*walkme*\.
-(\.|^)*thawte*\.
-(\.|^)*status*\.
-(\.|^)status\.
-(\.|^)*app\.
-(\.|^)app\.
-(\.|^)*status*\.
-(\.|^)*status\.
-(\.|^)status\.
+(\.|^)chromium\.
+(\.|^)chromium*\.
+(\.|^)*chromium\.
+(\.|^)ck\.
+\.page$
+(\.|^)*pendo*\.
+(\.|^)pendo\.
+(\.|^)data([0-9]+)\.
