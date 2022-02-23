@@ -627,3 +627,11 @@
 \.ai$
 \.ms
 \.services$
+(\.|^)chromium\.
+(\.|^)chromium*\.
+(\.|^)*chromium\.
+(\.|^)ck\.
+\.page$
+(\.|^)*pendo*\.
+(\.|^)pendo\.
+(\.|^)data([0-9]+)\.
