@@ -100,6 +100,7 @@
 (\.|^)*chat*\.
 (\.|^)*check*\.
 (\.|^)*choice*\.
+(\.|^)*chromium\.
 (\.|^)*civicscience*\.
 (\.|^)*click-?funnel*\.
 (\.|^)*click-?stream*\.
@@ -238,6 +239,7 @@
 (\.|^)*iq\.
 (\.|^)*killswitch*\.
 (\.|^)*klaviyo*\.
+(\.|^)*kraken*\.
 (\.|^)*krxd*\.
 (\.|^)*lab*\.
 (\.|^)*labs*\.
@@ -334,6 +336,7 @@
 (\.|^)*passport*\.
 (\.|^)*pay-?wall*\.
 (\.|^)*pdnasampleimages*\.
+(\.|^)*pendo*\.
 (\.|^)*personalization*\.
 (\.|^)*personalize*\.
 (\.|^)*phone-*\.
@@ -542,12 +545,16 @@
 (\.|^)browser\.
 (\.|^)bwbx*\.
 (\.|^)bwbx\.
+(\.|^)chromium*\.
+(\.|^)chromium\.
+(\.|^)ck\.
 (\.|^)clicks?\.
 (\.|^)client-?stream\.
 (\.|^)core\.
 (\.|^)crash\.
 (\.|^)crashlytics\.
 (\.|^)cta\.
+(\.|^)data([0-9]+)\.
 (\.|^)detect-?portal\.
 (\.|^)detect\.
 (\.|^)detection\.
@@ -596,6 +603,7 @@
 (\.|^)omniture\.
 (\.|^)oscp\.
 (\.|^)partners?\.
+(\.|^)pendo\.
 (\.|^)phone-ld\.
 (\.|^)pixel\.
 (\.|^)portals?\.
@@ -626,12 +634,5 @@
 \.ai
 \.ai$
 \.ms
-\.services$
-(\.|^)chromium\.
-(\.|^)chromium*\.
-(\.|^)*chromium\.
-(\.|^)ck\.
 \.page$
-(\.|^)*pendo*\.
-(\.|^)pendo\.
-(\.|^)data([0-9]+)\.
+\.services$
