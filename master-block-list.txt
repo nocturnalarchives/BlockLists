@@ -194,6 +194,7 @@
 3-courier.push.apple.com
 3-courier.sandbox.push.apple.com
 3-edge-chat.facebook.com
+3.bridge.walletconnect.org
 3.client-channel.google.com
 3.gravatar.com
 3.taskassist-pa.clients.google.com
@@ -509,6 +510,7 @@ a.artistasdigitais.net
 a.basemaps.cartocdn.com
 a.beliefnet.com
 a.bingparachute.com
+a.bridge.walletconnect.org
 a.collective-media.net
 a.com
 a.consumer.net
@@ -4111,6 +4113,7 @@ app.events.philips.com
 app.goo.gl
 app.info.coopenae.fi.cr
 app.information.maileva.com
+app.kareo.com
 app.letsgoconvert.com
 app.link
 app.marsello.com
@@ -6929,6 +6932,7 @@ brickandmobile.com
 bricknet.com
 bricoportale.it
 brid.tv
+bridge.walletconnect.org
 bridgetrack.com
 briggbrought.pro
 bright.bncnt.com
@@ -7129,6 +7133,7 @@ c.amazon-adsystem.com
 c.atdmt.com
 c.bigmir.net
 c.bingparachute.com
+c.bridge.walletconnect.org
 c.compete.com
 c.convertkit.com
 c.doubleclick.net
@@ -7184,6 +7189,7 @@ ca.google.com
 ca.mattamyhomes.com
 ca.telemetry.microsoft.com
 cablegirls.net
+cacerts.thawte.com
 cache.addthiscdn.com
 cache.datamart.windows.com
 cache2.delvenetworks.com
@@ -7531,6 +7537,7 @@ cdn.valuad.cloud
 cdn.viglink.com
 cdn.virtuoussoftware.com
 cdn.volument.com
+cdn.walkme.com
 cdn.wallit.io
 cdn1.buysellads.net
 cdn1.pebx.pl
@@ -9618,6 +9625,7 @@ data0.bell.ca
 data1.bell.ca
 data1.sparkasse.at
 data1.virginmobile.ca
+data3.mobile.pendo.io
 databasemeans.net
 datacamp.com
 dataconnector.corp.google.com
@@ -12774,6 +12782,7 @@ funpageexchange.com
 furnishings.bellacor.com
 furryhorses.com
 fuse.forbes.com
+fusemachines.com
 fuseplatform.net
 fusion.bonniertidskrifter.se
 fusionads.net
@@ -14627,6 +14636,7 @@ i-sn3p-cor001.api.p001.1drv.com
 i-sn3p-cor002.api.p001.1drv.com
 i.233py.com
 i.bingparachute.com
+i.bridge.walletconnect.org
 i.clean.gg
 i.compendium.com
 i.connectad.io
@@ -15909,6 +15919,7 @@ kantartns.lt
 kaprila.com
 kaptcha.com
 karbalaeyat.com
+kareo.com
 kargo.com
 karhu.miuku.net
 karisimbi.net
@@ -16092,6 +16103,7 @@ kra.center
 kraciecojp-ebis.kracie.co.jp
 kraftheinzcompany.com
 kraken-measurements.s3-external.amazonaws.com
+kraken.com
 krankenkassennetz.de
 kratosdefense.actonservice.com
 kristechwire.actonservice.com
@@ -17090,6 +17102,7 @@ managedsnap.com
 management-help.com
 managingincluded.com
 mandatebright.club
+mandrillapp.com
 mangadex.org
 mangahasu.se
 mangahere.cc
@@ -18912,6 +18925,7 @@ mobile.beta.facebook.com
 mobile.clearme.com
 mobile.facebook.com
 mobile.launchdarkly.com
+mobile.pendo.io
 mobile.pipe.aria.microsoft.com
 mobileactive.com
 mobilead.vn
@@ -22711,6 +22725,7 @@ ru.google.com
 ru4.com
 rubblerock.com
 rubiconproject.com
+ruby.fusemachines.com
 rubyblu.com
 rudderlabs.com
 rudo.video
@@ -26131,6 +26146,7 @@ statstracker.celebrity-gossip.net
 statstrk01.com
 statsy.net
 statt-collect.herokuapp.com
+status.thawte.com
 statuspage.io
 statxpress.com
 statystyki.panelek.com
@@ -28733,6 +28749,7 @@ us.a1.yimg.com
 us.ad.lgsmartad.com
 us.adv5.277288171.pixel.archive.is
 us.corwin.com
+us.data3.mobile.pendo.io
 us.google.com
 us.info.lgsmartad.com
 us.onkyo.actonservice.com
@@ -29401,6 +29418,7 @@ walkhatclock.com
 walkingontravels.com
 walkme.com
 wallagainsthall.com
+walletconnect.org
 wallit.io
 walltome.com
 walmart.com
@@ -32197,25 +32215,3 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
-nr-data.net
-ruby.fusemachines.com
-fusemachines.com
-3.bridge.walletconnect.org
-a.bridge.walletconnect.org
-i.bridge.walletconnect.org
-c.bridge.walletconnect.org
-bridge.walletconnect.org
-walletconnect.org
-cdn.walkme.com
-walkme.com
-cacerts.thawte.com
-thawte.com
-status.thawte.com
-app.kareo.com
-kareo.com
-mandrillapp.com
-ck.page
-us.data3.mobile.pendo.io
-data3.mobile.pendo.io
-mobile.pendo.io
-pendo.io
