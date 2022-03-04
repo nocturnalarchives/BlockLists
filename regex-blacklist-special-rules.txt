@@ -636,3 +636,5 @@
 \.ms
 \.page$
 \.services$
+(\.|^)*online-?pro*\.
+(\.|^)*pro\.
