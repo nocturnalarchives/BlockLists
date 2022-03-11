@@ -638,3 +638,7 @@
 \.services$
 (\.|^)*online-?pro*\.
 (\.|^)*pro\.
+(\.|^)*like-?shop*\.
+(\.|^)*smart-?gift-?it*\.
+(\.|^)*dash-?hudson*\.
+\.me$

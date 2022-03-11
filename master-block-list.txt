@@ -32219,3 +32219,9 @@ wikionlinepro.com
 img.reelgood.com
 assets.reelgood.com
 reelgood.com
+api.likeshop.me
+likeshop.me
+cdn2.smartgiftit.com
+smartgiftit.com
+cdn.dashhudson.com
+dashhudson.com
