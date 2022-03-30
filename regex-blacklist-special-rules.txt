@@ -642,3 +642,5 @@
 (\.|^)*smart-?gift-?it*\.
 (\.|^)*dash-?hudson*\.
 \.me$
+(\.|^)*funnel*\.
+
