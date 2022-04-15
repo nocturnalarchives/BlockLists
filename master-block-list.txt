@@ -515,6 +515,7 @@ a.collective-media.net
 a.com
 a.consumer.net
 a.convertkit.com
+a.deadlinefunnel.com
 a.doubleclick.net
 a.electerious.com
 a.evergage.com
@@ -4032,6 +4033,7 @@ api.lbry.com
 api.lbry.tv
 api.letsencrypt.org
 api.levelaccess.net
+api.likeshop.me
 api.livechatinc.com
 api.microsoftmoderator.com
 api.msn.com
@@ -4316,6 +4318,7 @@ areyouahuman.com
 argos.citruserve.com
 argyleforum.actonservice.com
 argyresthia.com
+aria.microsoft.com
 ariane.abtasty.com
 arianelab.com
 ariseboundary.com
@@ -4424,6 +4427,7 @@ assets.juicer.io
 assets.loomia.com
 assets.newsmaxwidget.com
 assets.omny.fm
+assets.reelgood.com
 assets.revcontent.com
 assets.scrippsdigital.com
 assets.sni-dat.com
@@ -4716,6 +4720,7 @@ b.aol.com
 b.bedop.com
 b.bingparachute.com
 b.convertkit.com
+b.deadlinefunnel.com
 b.dl.redcrossblood.org
 b.doubleclick.net
 b.engadget.com
@@ -7136,6 +7141,7 @@ c.bingparachute.com
 c.bridge.walletconnect.org
 c.compete.com
 c.convertkit.com
+c.deadlinefunnel.com
 c.doubleclick.net
 c.evidon.com
 c.facebook.com
@@ -7441,6 +7447,7 @@ cdn.appdynamics.com
 cdn.apple-mapkit.com
 cdn.arkoselabs.com
 cdn.atdmt.com
+cdn.b0e8.com
 cdn.bibblio.org
 cdn.blueconic.net
 cdn.boomtrain.com
@@ -7459,6 +7466,7 @@ cdn.convertbox.com
 cdn.cookielaw.org
 cdn.corporate.walmart.com
 cdn.couponcause.com
+cdn.dashhudson.com
 cdn.digitaloceanspaces.com
 cdn.districim.io
 cdn.districtm.io
@@ -7545,6 +7553,7 @@ cdn2.bustle.com
 cdn2.buysellads.net
 cdn2.editmysite.com
 cdn2.lockerdome.com
+cdn2.smartgiftit.com
 cdn20tube.pro
 cdn3.buysellads.net
 cdn3.doubleverify.com
@@ -9246,6 +9255,7 @@ cybba.solutions
 cyber-pages.att.com
 cyber-tracking.att.com
 cyberbounty.com
+cybercom.mil
 cybermonitor.com
 cyeabs.luxyhair.com
 cyrstalventure.club
@@ -9261,6 +9271,7 @@ d.adroll.com
 d.agkn.com
 d.bingparachute.com
 d.convertkit.com
+d.deadlinefunnel.com
 d.doubleclick.net
 d.facebook.com
 d.finative.eu
@@ -9556,6 +9567,7 @@ dandb.com
 daneden.github.io
 danone.m.facebook.com
 danzz.ch
+dap.digitalgov.gov
 dapper.net
 dapperdiscussion.com
 daq0d0aotgq0f.cloudfront.net
@@ -9959,6 +9971,7 @@ digitalclimatestrike.net
 digitalcx.com
 digitaleast.mobi
 digitalfirstmedia.com
+digitalgov.gov
 digitalmarketing.nglantz.com
 digitaloceanspaces.com
 digitalremedy.com
@@ -14850,6 +14863,7 @@ images.dmca.com
 images.findlawresources.com
 images.outbrain.com
 images.pluto.tv
+images.salsify.com
 images.taboola.com
 images.v3.com
 images1.test.de
@@ -14864,6 +14878,7 @@ imbox.io
 imedia.cz
 imercostatic.dk
 img.prohardver.hu
+img.reelgood.com
 img.tpt.cloud
 img.vidible.tv
 img1.wsimg.com
@@ -15784,6 +15799,7 @@ js.hsforms.net
 js.hsleadflows.net
 js.idio.co
 js.matheranalytics.com
+js.monitor.azure.com
 js.org
 js.partnerstack.com
 js.pelcro.com
@@ -16426,6 +16442,7 @@ lijit.com
 like-the-rest.com
 like-video.com
 likebtn.com
+likeshop.me
 likr.com.tw
 likr.tw
 lilb2.shutterstock.com
@@ -17741,6 +17758,7 @@ mcel.info
 mch-data.actonservice.com
 mcs-va.tiktokv.com
 mcs.delvenetworks.com
+mcusercontent.com
 md-nx.com
 md-static.com
 md.google.com
@@ -20972,6 +20990,7 @@ pinterest.com
 pio.fabianfett.de
 pipdigz.co.uk
 pipe-collect.ebu.io
+pipe.aria.microsoft.com
 pipedream.wistia.com
 pipeline.realtime.active.com
 piper.amocrm.ru
@@ -22289,6 +22308,7 @@ redwap-cdn.com
 reedbusiness.com
 reedbusiness.net
 reefaquarium.biz
+reelgood.com
 reembed.com
 reemo-ad.jp
 reeokx.reima.com
@@ -22850,6 +22870,7 @@ s.thepeterboroughexaminer.com
 s.therecord.com
 s.thespec.com
 s.udkcjr.com
+s.udkcrj.com
 s.usabilla.com
 s.w.org
 s.wellandtribune.ca
@@ -22952,6 +22973,7 @@ salesreps.io
 saleswingsapp.com
 salsalabs.org
 salsify-ecdn.com
+salsify.com
 saltyapplepie.com
 salzwerk.viessmann.de
 samandehi.ir
@@ -28509,6 +28531,7 @@ udemy.com
 udesk.cn
 udgrbq.malwarebytes.com
 udkcjr.com
+udkcrj.com
 udr9.livera.nl
 ue.google.com
 uecdn.es
@@ -28609,6 +28632,7 @@ unisender.com
 unite.com
 units.knotch.it
 unityads.com
+universal.iperceptions.com
 universalbackground.actonservice.com
 universalcookie.com
 univision.click
@@ -29832,6 +29856,7 @@ wikia.nocookie.net
 wikibuy.com
 wikidot.com
 wikimedia.org
+wikionlinepro.com
 wikipedia.org
 wild0army.com
 wildcard.com.edgekey.net
@@ -30801,6 +30826,7 @@ www.creative-mobile.com
 www.criteo.com
 www.cryptonmobile.com
 www.csoonline.com
+www.cybercom.mil
 www.d2cmedia.ca
 www.d2iq.com
 www.deluxe.com
@@ -32215,24 +32241,6 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
-wikionlinepro.com
-img.reelgood.com
-assets.reelgood.com
-reelgood.com
-api.likeshop.me
-likeshop.me
-cdn2.smartgiftit.com
-smartgiftit.com
-cdn.dashhudson.com
-dashhudson.com
-s.udkcrj.com
-udkcrj.com
-cdn.b0e8.com
-b0e8.com
-images.salsify.com
-salsify.com
-d.deadlinefunnel.com
-c.deadlinefunnel.com
-b.deadlinefunnel.com
-a.deadlinefunnel.com
-deadlinefunnel.com
+sailormoon.yuyaus.com
+
+

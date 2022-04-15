@@ -643,4 +643,13 @@
 (\.|^)*dash-?hudson*\.
 \.me$
 (\.|^)*funnel*\.
+(\.|^)*mpulse*\.
+(\.|^)*audioeye*\.
+(\.|^)*improve*\.
+(\.|^)*foresee*\.
+(\.|^)*perception*\.
+(\.|^)*universal*\.
+(\.|^)*olark*\.
+(\.|^)*airtake*\.
+(\.|^)*private*\.
 
