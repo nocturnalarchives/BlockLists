@@ -654,3 +654,8 @@
 (\.|^)*private*\.
 (\.|^)*evidence*\.
 (\.|^)*achieve*\.
+(\.|^)*safe-?link*\.
+(\.|^)*link*\.
+(\.|^)*safe*\.
+(\.|^)*protection*\.
+(\.|^)*protect*\.
