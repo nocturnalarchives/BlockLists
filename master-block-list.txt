@@ -2028,6 +2028,7 @@ adrttt.com
 adrtx.net
 adrunnr.com
 ads-4u.com
+ads-api.ft.com
 ads-click.com
 ads-doh.securedns.eu
 ads-e-darwin.hulustream.com
@@ -11644,6 +11645,7 @@ ent-d.xx.fbcdn.net
 ent-e.xx.fbcdn.net
 ent.sdy.ai
 entercasino.com
+enterprise-flags-client-api.ft.com
 entertainmentinat.com
 entertainow.com
 enthusiast.gg
@@ -12486,6 +12488,7 @@ flocktory.com
 flodesk.com
 floodprincipal.com
 floorforce.actonservice.com
+flourish.studio
 flourish.studio
 flow.io
 flow8free.com
@@ -21713,6 +21716,7 @@ pubguru.com
 public-api.wordpress.com
 public-dns-a.baidu.com
 public.dns.iij.jp
+public.flourish.studio
 public.tableau.com
 public.tockify.com
 public.vilynx.com
@@ -23863,6 +23867,7 @@ servingshade.com
 servmetric.com
 sesaab.it
 sesameworkshop.org
+session-next.ft.com
 session-tracker.badcreditloans.com
 session.timecommerce.net
 sessioncam.com

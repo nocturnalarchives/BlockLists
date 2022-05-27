@@ -659,3 +659,8 @@
 \.ms
 \.page$
 \.services$
+(\.|^)*client*\.
+(\.|^)*public*\.
+(\.|^)*api\.
+(\.|^)api\.
+(\.|^)*session*\.
