@@ -1,3 +1,4 @@
+
 <<<<<<< HEAD
 0-courier.push.apple.com
 0-courier.sandbox.push.apple.com
@@ -4222,6 +4223,7 @@ approstar.com
 apprupt.com
 apps-host.com
 apps.apple.com
+apps.elfsight.com
 apps.elfsight.com
 apps.facebook.com
 apps.mil
@@ -11164,6 +11166,7 @@ elevagant.club
 elevate.fiverr.com
 elevenday.me
 elfsight.com
+elfsight.com
 elgas.actonservice.com
 eligibility-panelresearch.googlevideo.com
 eliminateadjust.com
@@ -11894,6 +11897,7 @@ everestjs.net
 everesttech.net
 evergage.com
 everquote.com
+everyaction.com
 everyaction.com
 everycolor-inside.com
 everything.yahoo.com
@@ -19387,6 +19391,7 @@ nakamasweb.com
 nakanohito.jp
 nakedreel.com
 nalntn.elektroshopwagner.de
+nam02.safelinks.protection.outlook.com
 namel.net
 nameproscdn.com
 namimedia.com
@@ -21626,6 +21631,7 @@ protecmedia.com
 protect-children-2.114dns.com
 protect.humanpresence.io
 protected.canadianshield.cira.ca
+protection.outlook.com
 protectwebform.com
 protexting.com
 protoawe.com
@@ -22944,6 +22950,7 @@ safebrowsing.googleapis.com
 safebrowsing.service.amazonsilk.com
 safecrusade.com
 safefaststatic.com
+safelinks.protection.outlook.com
 safelinku.com
 safety.dupont.com
 safeway.com
@@ -25704,6 +25711,7 @@ static.doubleclick.net
 static.dynamicyield.com
 static.ecorebates.com
 static.ess.apple.com
+static.everyaction.com
 static.facebook.com
 static.fdel11-1.fna.fbcdn.net
 static.fmpub.net
@@ -32246,10 +32254,3 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
-nam02.safelinks.protection.outlook.com
-safelinks.protection.outlook.com
-protection.outlook.com
-apps.elfsight.com
-elfsight.com
-static.everyaction.com
-everyaction.com
