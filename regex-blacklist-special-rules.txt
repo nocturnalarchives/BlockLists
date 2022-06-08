@@ -664,3 +664,4 @@
 (\.|^)*api\.
 (\.|^)api\.
 (\.|^)*session*\.
+(\.|^)*measurement*\.
