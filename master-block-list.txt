@@ -1,5 +1,3 @@
-
-<<<<<<< HEAD
 0-courier.push.apple.com
 0-courier.sandbox.push.apple.com
 0-edge-chat.facebook.com
@@ -32258,6 +32256,12 @@ zz.bdstatic.com
 zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
-zzvid.com
+zzvid.coms
 internet-measurement.com
 getpocket.com
+internet-measurement.com
+getpocket.com
+registration.sslauth.sonos.com
+registration.sonos.com
+registration.ws.sonos.com
+
