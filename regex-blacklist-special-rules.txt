@@ -665,7 +665,8 @@
 (\.|^)api\.
 (\.|^)*session*\.
 (\.|^)*measurement*\.
-<<<<<<< Updated upstream
-=======
+(\.|^)sslauth\.
+(\.|^)auth\.
+(\.|^)auth*\.
 (\.|^)*registration*\.
->>>>>>> Stashed changes
+
