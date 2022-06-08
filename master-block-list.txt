@@ -32256,12 +32256,19 @@ zz.bdstatic.com
 zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
+<<<<<<< Updated upstream
 zzvid.coms
 internet-measurement.com
 getpocket.com
+=======
+zzvid.com
+>>>>>>> Stashed changes
 internet-measurement.com
 getpocket.com
 registration.sslauth.sonos.com
 registration.sonos.com
 registration.ws.sonos.com
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
