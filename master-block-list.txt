@@ -32268,7 +32268,3 @@ getpocket.com
 registration.sslauth.sonos.com
 registration.sonos.com
 registration.ws.sonos.com
-<<<<<<< Updated upstream
-
-=======
->>>>>>> Stashed changes
