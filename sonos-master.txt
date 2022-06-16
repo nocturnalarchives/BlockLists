@@ -32,6 +32,9 @@ dcapps.ws.sonos.com
 keys.ws.sonos.com
 msmetrics-test.ws.sonos.com
 msmetrics.ws.sonos.com
+registration.sslauth.sonos.com
+registration.sonos.com
+registration.ws.sonos.com
 sonar.ws.sonos.com
 update-firmware.sonos.com
 update-firmware.sslauth.sonos.com
@@ -60,4 +63,6 @@ conn-i-08dcdc76a339be04a-us-east-1.lechmere.prod.ws.sonos.com
 ##
 ##
 #########################################################################################
+
+
 

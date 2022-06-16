@@ -665,3 +665,8 @@
 (\.|^)api\.
 (\.|^)*session*\.
 (\.|^)*measurement*\.
+(\.|^)sslauth\.
+(\.|^)auth\.
+(\.|^)auth*\.
+(\.|^)*registration*\.
+
