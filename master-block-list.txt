@@ -4065,6 +4065,7 @@ api.userleap.com
 api.verizon.com
 api.vungle.com
 api.vuukle.com
+api.vytal.io
 api.weather.com
 api.weforum.org
 api.weltevree.eu
@@ -13126,6 +13127,8 @@ getmdl.io
 getmetrical.com
 getoutofyourmind.com
 getphotosinstant.net
+getpocket.com
+getpocket.com
 getpoints.net
 getpushmonkey.com
 getresponse.com
@@ -15393,6 +15396,8 @@ intermarkets.net
 intern.facebook.com
 internalforms.legalsolutions.thomsonreuters.co.uk
 internationalfactoring-temp.wf.com
+internet-measurement.com
+internet-measurement.com
 internet.org
 internetat.tv
 internetbrands.com
@@ -22349,6 +22354,9 @@ reginapps.com
 regionews.net
 register.facebook.com
 registerdisney.go.com
+registration.sonos.com
+registration.sslauth.sonos.com
+registration.ws.sonos.com
 registry.api.cnn.io
 registry.npmjs.org
 regmedia.co.uk
@@ -29391,6 +29399,7 @@ vybbem.mk.ru
 vybbem.womanhit.ru
 vybkhr.careerjunction.co.za
 vyrl.co
+vytal.io
 vz-atom-service.integration-services.redventures.io
 vz.google.com
 vzew.net
@@ -29656,6 +29665,7 @@ weborama.com
 weborama.fr
 webpageupdate.co
 webpixel.smartmeapp.com
+webpkgcache.com
 webpower.com
 webprotector.co
 webprotocol.net
@@ -32256,12 +32266,5 @@ zz.bdstatic.com
 zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
-zzvid.coms
-internet-measurement.com
-getpocket.com
 zzvid.com
-internet-measurement.com
-getpocket.com
-registration.sslauth.sonos.com
-registration.sonos.com
-registration.ws.sonos.com
+zzvid.coms

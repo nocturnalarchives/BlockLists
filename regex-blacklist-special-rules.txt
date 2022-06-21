@@ -1,3 +1,5 @@
+
+
 (\.|^)*-alert*\.
 (\.|^)*-alerts?\.
 (\.|^)*-analytic*\.
@@ -58,6 +60,7 @@
 (\.|^)*analyze*\.
 (\.|^)*anycast*\.
 (\.|^)*api-?test*\.
+(\.|^)*api\.
 (\.|^)*app-?analytic*\.
 (\.|^)*app-?center*\.
 (\.|^)*app\.
@@ -113,6 +116,7 @@
 (\.|^)*clickstream-producer*\.
 (\.|^)*clickstream*\.
 (\.|^)*client-?stream*\.
+(\.|^)*client*\.
 (\.|^)*client*\.
 (\.|^)*cloudsolution*\.
 (\.|^)*cmaxsrv*\.
@@ -290,6 +294,7 @@
 (\.|^)*match*\.
 (\.|^)*matchedimages*\.
 (\.|^)*math-?tag*\.
+(\.|^)*measurement*\.
 (\.|^)*media-?service*\.
 (\.|^)*media-?sonar*\.
 (\.|^)*member*\.
@@ -386,6 +391,7 @@
 (\.|^)*provisioning*\.
 (\.|^)*pub-?ads*\.
 (\.|^)*public*\.
+(\.|^)*public*\.
 (\.|^)*pubmatic*\.
 (\.|^)*push*\.
 (\.|^)*pusher*\.
@@ -403,6 +409,7 @@
 (\.|^)*realtime*\.
 (\.|^)*redirect*\.
 (\.|^)*register*\.
+(\.|^)*registration*\.
 (\.|^)*report*\.
 (\.|^)*report*$
 (\.|^)*reporting*\.
@@ -437,6 +444,7 @@
 (\.|^)*sentry*\.
 (\.|^)*serice*\.
 (\.|^)*service*\.
+(\.|^)*session*\.
 (\.|^)*setting*\.
 (\.|^)*share-?through*\.
 (\.|^)*shopify-?order-?limit*\.
@@ -538,6 +546,7 @@
 (\.|^)*video-?weaver*\.
 (\.|^)*voice*\.
 (\.|^)*voyager-?labs*\.
+(\.|^)*vytal*\.
 (\.|^)*waldo*\.
 (\.|^)*waldo\.
 (\.|^)*walkme*\.
@@ -546,6 +555,7 @@
 (\.|^)*wapo-analytic*\.
 (\.|^)*washingtonpost-*\.
 (\.|^)*web-?cam*\.
+(\.|^)*webpkgcache*\.
 (\.|^)*webpurify*\.
 (\.|^)*withgoogle*\.
 (\.|^)*wp-?masters*\.
@@ -559,7 +569,10 @@
 (\.|^)ads\.
 (\.|^)alerts?\.
 (\.|^)api\.
+(\.|^)api\.
 (\.|^)app\.
+(\.|^)auth*\.
+(\.|^)auth\.
 (\.|^)auth\.
 (\.|^)aviary\.amazon\.com$
 (\.|^)badge\.
@@ -639,6 +652,7 @@
 (\.|^)sentry\.
 (\.|^)services?\.
 (\.|^)ssc\.
+(\.|^)sslauth\.
 (\.|^)status\.
 (\.|^)sync\.
 (\.|^)tags?\.
@@ -659,14 +673,3 @@
 \.ms
 \.page$
 \.services$
-(\.|^)*client*\.
-(\.|^)*public*\.
-(\.|^)*api\.
-(\.|^)api\.
-(\.|^)*session*\.
-(\.|^)*measurement*\.
-(\.|^)sslauth\.
-(\.|^)auth\.
-(\.|^)auth*\.
-(\.|^)*registration*\.
-
