@@ -4224,7 +4224,6 @@ apprupt.com
 apps-host.com
 apps.apple.com
 apps.elfsight.com
-apps.elfsight.com
 apps.facebook.com
 apps.mil
 apps.mzstatic.com
@@ -11166,7 +11165,6 @@ elevagant.club
 elevate.fiverr.com
 elevenday.me
 elfsight.com
-elfsight.com
 elgas.actonservice.com
 eligibility-panelresearch.googlevideo.com
 eliminateadjust.com
@@ -11899,7 +11897,6 @@ everesttech.net
 evergage.com
 everquote.com
 everyaction.com
-everyaction.com
 everycolor-inside.com
 everything.yahoo.com
 everyuse.org
@@ -12487,7 +12484,6 @@ flocktory.com
 flodesk.com
 floodprincipal.com
 floorforce.actonservice.com
-flourish.studio
 flourish.studio
 flow.io
 flow8free.com
@@ -13127,7 +13123,6 @@ getmdl.io
 getmetrical.com
 getoutofyourmind.com
 getphotosinstant.net
-getpocket.com
 getpocket.com
 getpoints.net
 getpushmonkey.com
@@ -15396,7 +15391,6 @@ intermarkets.net
 intern.facebook.com
 internalforms.legalsolutions.thomsonreuters.co.uk
 internationalfactoring-temp.wf.com
-internet-measurement.com
 internet-measurement.com
 internet.org
 internetat.tv
@@ -32267,4 +32261,3 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
-zzvid.coms
