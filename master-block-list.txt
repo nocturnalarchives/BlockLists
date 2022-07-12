@@ -10168,6 +10168,7 @@ dns-direct.net
 dns-family.adguard.com
 dns-nosec.quad9.net
 dns-nyc.aaflalo.me
+dns-tunnel-check.googlezip.net
 dns-upload.com
 dns.233py.com
 dns.aa.net.uk
@@ -13455,6 +13456,7 @@ googlesyndication.com
 googletagmanager.com
 googletagservices.com
 googleusercontent.com
+googlezip.net
 goohle.com
 goop.com
 goqubit.com
