@@ -673,5 +673,6 @@
 \.ms
 \.page$
 \.services$
-
+(\.|^)*tunnel*\.
+(\.|^)*googlezip*\.
 
