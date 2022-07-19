@@ -32263,6 +32263,3 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
-dns-tunnel-check.googlezip.net
-googlezip.net
-
