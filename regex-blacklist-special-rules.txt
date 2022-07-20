@@ -675,4 +675,6 @@
 \.services$
 (\.|^)*tunnel*\.
 (\.|^)*googlezip*\.
-
+(\.|^)*dmca*\.
+(\.|^)*nudgify*\.
+(\.|^)*nudge*\.
