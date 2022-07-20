@@ -10132,6 +10132,7 @@ dm.journaldunet.com
 dm.linternaute.com
 dm.m.facebook.com
 dmca.com
+dmca.com
 dmcdn.net
 dmgmediaprivacy.co.uk
 dmm.co.jp
@@ -10168,6 +10169,7 @@ dns-direct.net
 dns-family.adguard.com
 dns-nosec.quad9.net
 dns-nyc.aaflalo.me
+dns-tunnel-check.googlezip.net
 dns-tunnel-check.googlezip.net
 dns-upload.com
 dns.233py.com
@@ -13457,6 +13459,7 @@ googletagmanager.com
 googletagservices.com
 googleusercontent.com
 googlezip.net
+googlezip.net
 goohle.com
 goop.com
 goqubit.com
@@ -14868,6 +14871,7 @@ images-apmex.com
 images-pw.secureserver.net
 images.bwbx.io
 images.ctfassets.net
+images.dmca.com
 images.dmca.com
 images.findlawresources.com
 images.outbrain.com
@@ -19905,6 +19909,7 @@ nucleads.com
 nudatasecurity.com
 nudeasianpics.net
 nudevista.com
+nudgify.com
 nuevaidea.co
 nuggad.net
 nui.media
@@ -21061,6 +21066,7 @@ pixel.newscgp.com
 pixel.newscred.com
 pixel.newsdiscover.com.au
 pixel.nine.com.au
+pixel.nudgify.com
 pixel.parsely.com
 pixel.pcworld.com
 pixel.propublica.org
@@ -32263,6 +32269,3 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
-dns-tunnel-check.googlezip.net
-googlezip.net
-
