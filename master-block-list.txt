@@ -8072,6 +8072,7 @@ clickbooth.com
 clickboothlnk.com
 clickbrokers.com
 clickcease.com
+clickcease.com
 clickcertain.com
 clickclicknetwork.com
 clickcompare.co.uk
@@ -10132,7 +10133,6 @@ dm.journaldunet.com
 dm.linternaute.com
 dm.m.facebook.com
 dmca.com
-dmca.com
 dmcdn.net
 dmgmediaprivacy.co.uk
 dmm.co.jp
@@ -10169,7 +10169,6 @@ dns-direct.net
 dns-family.adguard.com
 dns-nosec.quad9.net
 dns-nyc.aaflalo.me
-dns-tunnel-check.googlezip.net
 dns-tunnel-check.googlezip.net
 dns-upload.com
 dns.233py.com
@@ -13459,7 +13458,6 @@ googletagmanager.com
 googletagservices.com
 googleusercontent.com
 googlezip.net
-googlezip.net
 goohle.com
 goop.com
 goqubit.com
@@ -14871,7 +14869,6 @@ images-apmex.com
 images-pw.secureserver.net
 images.bwbx.io
 images.ctfassets.net
-images.dmca.com
 images.dmca.com
 images.findlawresources.com
 images.outbrain.com
@@ -19222,6 +19219,7 @@ multiscreensite.com
 multiview.com
 multiwork.org
 munchkin.marketo.net
+mundusinternational.com
 muppvq.cocooncenter.co.uk
 murdoog.com
 music-electric.org
@@ -30807,6 +30805,7 @@ www.clearvoice.com
 www.cleverads.vn
 www.clickability.com
 www.clickagy.com
+www.clickcease.com
 www.clickdimensions.com
 www.clickfuse.com
 www.clickhubs.com
@@ -31088,6 +31087,7 @@ www.mopub.com
 www.motiveinteractive.com
 www.mrctv.org
 www.msgr.com
+www.mundusinternational.com
 www.mxtads.com
 www.myregistry.com
 www.myswitchads.com
@@ -32269,6 +32269,3 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
-actionnetwork.org
-mundusinternational.com
-www.mundusinternational.com

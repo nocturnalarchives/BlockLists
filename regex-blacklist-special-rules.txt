@@ -1,5 +1,3 @@
-
-
 (\.|^)*-alert*\.
 (\.|^)*-alerts?\.
 (\.|^)*-analytic*\.
@@ -24,6 +22,7 @@
 (\.|^)*access*\.
 (\.|^)*achieve*\.
 (\.|^)*action*\.
+(\.|^)*actionnetwork*\.
 (\.|^)*ad-?block*\.
 (\.|^)*ad-?blocker*\.
 (\.|^)*ad-?engine*\.
@@ -111,12 +110,12 @@
 (\.|^)*click-?funnel*\.
 (\.|^)*click-?stream*\.
 (\.|^)*click*\.
+(\.|^)*clickcease*\.
 (\.|^)*clicks?\.
 (\.|^)*clickserv*\.
 (\.|^)*clickstream-producer*\.
 (\.|^)*clickstream*\.
 (\.|^)*client-?stream*\.
-(\.|^)*client*\.
 (\.|^)*client*\.
 (\.|^)*cloudsolution*\.
 (\.|^)*cmaxsrv*\.
@@ -184,6 +183,7 @@
 (\.|^)*diagnostic*\.
 (\.|^)*dimension*\.
 (\.|^)*direct-events-collector*\.
+(\.|^)*dmca*\.
 (\.|^)*dns*\.
 (\.|^)*doh*\.
 (\.|^)*dot*\.
@@ -211,13 +211,13 @@
 (\.|^)*free*\.
 (\.|^)*funding*\.
 (\.|^)*funnel*\.
-(\.|^)*funnel*\.
 (\.|^)*gateway*\.
 (\.|^)*geo-*\.
 (\.|^)*get-?clicky*\.
 (\.|^)*gimbal*\.
 (\.|^)*go-?mpulse*\.
 (\.|^)*go-?traffic\.
+(\.|^)*googlezip*\.
 (\.|^)*gotchosen*\.
 (\.|^)*gps*\.
 (\.|^)*gql*\.
@@ -238,6 +238,7 @@
 (\.|^)*improve*\.
 (\.|^)*imrworldwide*\.
 (\.|^)*indexww*\.
+(\.|^)*info*\.
 (\.|^)*infura*\.
 (\.|^)*insight*\.
 (\.|^)*insights?\.
@@ -329,6 +330,8 @@
 (\.|^)*notice*\.
 (\.|^)*notification*\.
 (\.|^)*notify*\.
+(\.|^)*nudge*\.
+(\.|^)*nudgify*\.
 (\.|^)*ocsp*\.
 (\.|^)*offer*\.
 (\.|^)*olark*\.
@@ -390,7 +393,6 @@
 (\.|^)*provisioner*\.
 (\.|^)*provisioning*\.
 (\.|^)*pub-?ads*\.
-(\.|^)*public*\.
 (\.|^)*public*\.
 (\.|^)*pubmatic*\.
 (\.|^)*push*\.
@@ -522,6 +524,7 @@
 (\.|^)*trinitymedia*\.
 (\.|^)*trust*\.
 (\.|^)*trust\.
+(\.|^)*tunnel*\.
 (\.|^)*universal*\.
 (\.|^)*unruly-?media*\.
 (\.|^)*update*\.
@@ -561,6 +564,8 @@
 (\.|^)*wp-?masters*\.
 (\.|^)*youmaker*\.
 (\.|^)*zeustechnology*\.
+(\.|^)*zoom*\.
+(\.|^)*zoominfo*\.
 (\.|^)*zooom*\.
 (\.|^)*zooomyapps*\.
 (\.|^)aax\.
@@ -569,10 +574,8 @@
 (\.|^)ads\.
 (\.|^)alerts?\.
 (\.|^)api\.
-(\.|^)api\.
 (\.|^)app\.
 (\.|^)auth*\.
-(\.|^)auth\.
 (\.|^)auth\.
 (\.|^)aviary\.amazon\.com$
 (\.|^)badge\.
@@ -633,6 +636,7 @@
 (\.|^)me\.
 (\.|^)media-?sonar\.
 (\.|^)member\.
+(\.|^)metrics?\.
 (\.|^)my-?photos?-?dna\.
 (\.|^)omniture*\.
 (\.|^)omniture\.
@@ -653,6 +657,7 @@
 (\.|^)services?\.
 (\.|^)ssc\.
 (\.|^)sslauth\.
+(\.|^)stats?\.
 (\.|^)status\.
 (\.|^)sync\.
 (\.|^)tags?\.
@@ -673,11 +678,3 @@
 \.ms
 \.page$
 \.services$
-(\.|^)*tunnel*\.
-(\.|^)*googlezip*\.
-(\.|^)*dmca*\.
-(\.|^)*nudgify*\.
-(\.|^)*nudge*\.
-(\.|^)*actionnetwork*\.
-(\.|^)*action*\.
-(\.|^)*network*\.
