@@ -103,6 +103,7 @@
 (\.|^)*challenge*\.
 (\.|^)*chat-?id*\.
 (\.|^)*chat*\.
+(\.|^)*check-?online*\.
 (\.|^)*check*\.
 (\.|^)*choice*\.
 (\.|^)*chromium\.
@@ -341,6 +342,7 @@
 (\.|^)*onecount*\.
 (\.|^)*onetag-?sys*\.
 (\.|^)*online-?pro*\.
+(\.|^)*online*\.
 (\.|^)*open-?bid*\.
 (\.|^)*opentext*\.
 (\.|^)*openx*\.
@@ -583,6 +585,7 @@
 (\.|^)browser\.
 (\.|^)bwbx*\.
 (\.|^)bwbx\.
+(\.|^)check-?online\.
 (\.|^)chromium*\.
 (\.|^)chromium\.
 (\.|^)ck\.
@@ -678,3 +681,11 @@
 \.ms
 \.page$
 \.services$
+(\.|^)*w3-reporting*\.
+(\.|^)*reporting*\.
+(\.|^)*reporting\.
+(\.|^)*appassets*\.
+(\.|^)*androidplatform*\.
+(\.|^)*android*\.
+(\.|^)*platform*\.
+(\.|^)*sgizmo*\.
