@@ -689,3 +689,5 @@
 (\.|^)*android*\.
 (\.|^)*platform*\.
 (\.|^)*sgizmo*\.
+(\.|^)*mundus-?international*\.
+(\.|^)*mundus*\.
