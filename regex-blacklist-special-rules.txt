@@ -57,12 +57,15 @@
 (\.|^)*analytic*\.
 (\.|^)*analytics*\.
 (\.|^)*analyze*\.
+(\.|^)*android*\.
+(\.|^)*androidplatform*\.
 (\.|^)*anycast*\.
 (\.|^)*api-?test*\.
 (\.|^)*api\.
 (\.|^)*app-?analytic*\.
 (\.|^)*app-?center*\.
 (\.|^)*app\.
+(\.|^)*appassets*\.
 (\.|^)*appdynamics*\.
 (\.|^)*apple-?id*\.
 (\.|^)*apple-?resource*\.
@@ -108,6 +111,7 @@
 (\.|^)*choice*\.
 (\.|^)*chromium\.
 (\.|^)*civicscience*\.
+(\.|^)*clarity*\.
 (\.|^)*click-?funnel*\.
 (\.|^)*click-?stream*\.
 (\.|^)*click*\.
@@ -174,6 +178,7 @@
 (\.|^)*ctctcdn*\.
 (\.|^)*customer-?service*\.
 (\.|^)*dash-?hudson*\.
+(\.|^)*data-?processing*\.
 (\.|^)*data-?wrapper*\.
 (\.|^)*data*\.
 (\.|^)*deck\.
@@ -312,6 +317,8 @@
 (\.|^)*monorail*\.
 (\.|^)*mpulse*\.
 (\.|^)*mrworldwide*\.
+(\.|^)*mundus-?international*\.
+(\.|^)*mundus*\.
 (\.|^)*my-?dna*\.
 (\.|^)*my-?photo*\.
 (\.|^)*my-?photos?-?dna*\.
@@ -417,6 +424,7 @@
 (\.|^)*report*\.
 (\.|^)*report*$
 (\.|^)*reporting*\.
+(\.|^)*reporting\.
 (\.|^)*resource*\.
 (\.|^)*retail*\.
 (\.|^)*roll*\.
@@ -450,10 +458,13 @@
 (\.|^)*service*\.
 (\.|^)*session*\.
 (\.|^)*setting*\.
+(\.|^)*sgizmo*\.
 (\.|^)*share-?through*\.
 (\.|^)*shopify-?order-?limit*\.
 (\.|^)*shopify-?order*\.
 (\.|^)*shopifysvc*\.
+(\.|^)*site-?data-?processing*\.
+(\.|^)*site-?data*\.
 (\.|^)*site-?intercept*\.
 (\.|^)*smart-?ad-?server*\.
 (\.|^)*smart-?ad*\.
@@ -552,6 +563,7 @@
 (\.|^)*voice*\.
 (\.|^)*voyager-?labs*\.
 (\.|^)*vytal*\.
+(\.|^)*w3-reporting*\.
 (\.|^)*waldo*\.
 (\.|^)*waldo\.
 (\.|^)*walkme*\.
@@ -681,13 +693,3 @@
 \.ms
 \.page$
 \.services$
-(\.|^)*w3-reporting*\.
-(\.|^)*reporting*\.
-(\.|^)*reporting\.
-(\.|^)*appassets*\.
-(\.|^)*androidplatform*\.
-(\.|^)*android*\.
-(\.|^)*platform*\.
-(\.|^)*sgizmo*\.
-(\.|^)*mundus-?international*\.
-(\.|^)*mundus*\.

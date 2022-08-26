@@ -7967,6 +7967,7 @@ claria.com
 clario.us
 clarip.com
 clarity.ms
+clarity.ms
 clarium.global.ssl.fastly.net
 clarium.io
 clarivoy.com
@@ -12281,6 +12282,7 @@ fd.google.com
 fdda274d380ki4frcgi-rumjfjai1460158783-sonar.xx.fbcdn.net
 fdnyib.biketiresdirect.com
 fe.google.com
+fe.sitedataprocessing.com
 fe.sitedataprocessing.com
 fear7calk.com
 fearfulfish.com
@@ -24243,6 +24245,7 @@ sitecampaign.com
 sitecatalyst.newsamerica.com
 sitecatalyst.work.shiseido.co.jp
 sitedataprocessing.com
+sitedataprocessing.com
 siteimprove.com
 siteimproveanalytics.com
 siteimproveanalytics.io
@@ -30802,6 +30805,7 @@ www.cityads.com
 www.cityads.ru
 www.civicscience.com
 www.ckeditor.com
+www.clarity.ms
 www.clarity.ms
 www.clearista.com
 www.clearme.com
