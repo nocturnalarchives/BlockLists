@@ -693,5 +693,5 @@
 \.ms
 \.page$
 \.services$
-
+(\.|^)*adobe*\.
 
