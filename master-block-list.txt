@@ -526,6 +526,7 @@ a.gedidigital.it
 a.getaawp.com
 a.hellonext.co
 a.jaz-hotel.com
+a.klavio.com
 a.klaviyo.com
 a.mailmunch.co
 a.mhthemes.com
@@ -12182,6 +12183,7 @@ fashioncontainer.net
 fashionpark.info
 fast-adv.it
 fast-hunter.com
+fast.a.klavio.com
 fast.co
 fast.fonts.net
 fast.forbes.com
@@ -16056,6 +16058,7 @@ klarnacdn.net
 klarnaservices.com
 klarnauserservices.com
 klart.se
+klavio.com
 klaviyo.com
 klevu.com
 klick2contact.com
@@ -25698,6 +25701,7 @@ static-8.sinclairstoryline.com
 static-9.sinclairstoryline.com
 static-assets.coinbase.com
 static-bluray.com
+static-forms.klavio.com
 static-fra.de
 static-immobilienscout24.de
 static-nk11-a.gc.apple.com
@@ -25707,6 +25711,7 @@ static-prod.uberall.com
 static-sb.com
 static-st11-a.gc.apple.com
 static-st11-b.gc.apple.com
+static-tracking.klavio.com
 static.ad.atdmt.com
 static.addtoany.com
 static.ads-twitter.com
@@ -25737,6 +25742,7 @@ static.hotjar.com
 static.ips.apple.com
 static.itools.com
 static.itrack.it
+static.klavio.com
 static.klaviyo.com
 static.kqzyfj.com
 static.mediapart.fr
@@ -26747,6 +26753,7 @@ tagan.adlightning.com
 tagboard.com
 tagcommander.com
 tagcommander.laredoute.co.uk
+tagembed.com
 tagger.ope.scmp.com
 tagger.opecloud.com
 taggstar.com
@@ -29867,6 +29874,7 @@ widget.manychat.com
 widget.perfectmarket.com
 widget.quantcast.com
 widget.surveymonkey.com
+widget.tagembed.com
 widget.whisk.com
 widget.yeps.io
 widgetbot.io
@@ -31022,6 +31030,7 @@ www.keymedia.com
 www.keyssa.com
 www.kingoapp.com
 www.kissmetrics.com
+www.klavio.com
 www.klaviyo.com
 www.knotch-cdn.com
 www.kochava.com
@@ -31282,6 +31291,7 @@ www.surveygizmo.com
 www.swpsvc.com
 www.sync.tv
 www.taboola.com
+www.tagembed.com
 www.taggstar.com
 www.tagsrvcs.com
 www.tankless.best
@@ -32276,5 +32286,3 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
-api.auth.adobe.com
-auth.adobe.com
