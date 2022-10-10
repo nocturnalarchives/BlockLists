@@ -1,4 +1,3 @@
-
 (\.|^)*-alert*\.
 (\.|^)*-alerts?\.
 (\.|^)*-analytic*\.
@@ -35,7 +34,6 @@
 (\.|^)*adaptv*\.
 (\.|^)*addtoany*\.
 (\.|^)*adnxs*\.
-(\.|^)*adobe*\.
 (\.|^)*adobe*\.
 (\.|^)*adobeprimetime*\.
 (\.|^)*adroll*\.
@@ -193,8 +191,11 @@
 (\.|^)*direct-events-collector*\.
 (\.|^)*dmca*\.
 (\.|^)*dns*\.
+(\.|^)*dns\.
 (\.|^)*doh*\.
+(\.|^)*doh\.
 (\.|^)*dot*\.
+(\.|^)*dot\.
 (\.|^)*dotomi*\.
 (\.|^)*double-?click*\.
 (\.|^)*double-?verify*\.
@@ -257,6 +258,7 @@
 (\.|^)*intelligence*\.
 (\.|^)*intent*\.
 (\.|^)*interstitial*\.
+(\.|^)*iot\.
 (\.|^)*ipv6*\.
 (\.|^)*iq\.
 (\.|^)*killswitch*\.
@@ -459,6 +461,7 @@
 (\.|^)*segment*\.
 (\.|^)*sentry*\.
 (\.|^)*serice*\.
+(\.|^)*servers\.
 (\.|^)*service*\.
 (\.|^)*session*\.
 (\.|^)*setting*\.
@@ -621,6 +624,10 @@
 (\.|^)detection\.
 (\.|^)devices?\.
 (\.|^)digital\.
+(\.|^)dns*\.
+(\.|^)doh*\.
+(\.|^)domain*\.
+(\.|^)dot*\.
 (\.|^)drip*\.
 (\.|^)drip\.
 (\.|^)event\.
@@ -642,6 +649,7 @@
 (\.|^)insight*\.
 (\.|^)insights?\.
 (\.|^)iot-*\.
+(\.|^)iot*\.
 (\.|^)iot\.
 (\.|^)ipv6\.
 (\.|^)iq*\.
@@ -701,3 +709,4 @@
 \.ms
 \.page$
 \.services$
+\.us
