@@ -15,6 +15,7 @@
 (\.|^)*33-?across*\.
 (\.|^)*3lift*\.
 (\.|^)*4dex*\.
+(\.|^)*aaplimg*\.
 (\.|^)*aaxads*\.
 (\.|^)*aboutads*\.
 (\.|^)*accept*\.
@@ -93,6 +94,7 @@
 (\.|^)*browser*\.
 (\.|^)*browseraddon*\.
 (\.|^)*bug-?snag*\.
+(\.|^)*bwbx*\.
 (\.|^)*bwbx\.
 (\.|^)*calendar-?api*\.
 (\.|^)*call-?to-?action*\.
@@ -124,6 +126,8 @@
 (\.|^)*client*\.
 (\.|^)*cloudsolution*\.
 (\.|^)*cmaxsrv*\.
+(\.|^)*cmp*\.
+(\.|^)*cmp\.
 (\.|^)*cob-?webs*\.
 (\.|^)*cognito*\.
 (\.|^)*collect-eu*\.
@@ -229,6 +233,7 @@
 (\.|^)*go-?traffic\.
 (\.|^)*googlezip*\.
 (\.|^)*gotchosen*\.
+(\.|^)*gotraffic*\.
 (\.|^)*gps*\.
 (\.|^)*gql*\.
 (\.|^)*gvt1*\.
@@ -449,6 +454,7 @@
 (\.|^)*screen-?caps*\.
 (\.|^)*screen-?shot*\.
 (\.|^)*screen*\.
+(\.|^)*scribdassets*\.
 (\.|^)*scribe*\.
 (\.|^)*script*\.
 (\.|^)*scroll*\.
@@ -492,6 +498,8 @@
 (\.|^)*software*\.
 (\.|^)*sonar*\.
 (\.|^)*sonobi*\.
+(\.|^)*source-?point-?cmp*\.
+(\.|^)*source-?point*\.
 (\.|^)*spingo*\.
 (\.|^)*spotxchange*\.
 (\.|^)*ssc-?cms*\.
@@ -499,6 +507,7 @@
 (\.|^)*stat*\.
 (\.|^)*static-?forms*\.
 (\.|^)*static-?tracking*\.
+(\.|^)*stats?\.
 (\.|^)*stats*\.
 (\.|^)*status-?page*\.
 (\.|^)*status*\.
@@ -513,6 +522,7 @@
 (\.|^)*sw-?scan*\.
 (\.|^)*tableau*\.
 (\.|^)*tableausoftware*\.
+(\.|^)*taboola*\.
 (\.|^)*tagembed*\.
 (\.|^)*tags?\.
 (\.|^)*talk*\.
@@ -543,6 +553,8 @@
 (\.|^)*track*\.
 (\.|^)*tracker*\.
 (\.|^)*tracking*\.
+(\.|^)*traffic*\.
+(\.|^)*traffic\.
 (\.|^)*trick-play*\.
 (\.|^)*trinitymedia*\.
 (\.|^)*trust*\.
@@ -614,6 +626,7 @@
 (\.|^)ck\.
 (\.|^)clicks?\.
 (\.|^)client-?stream\.
+(\.|^)cmp*\.
 (\.|^)core\.
 (\.|^)crash\.
 (\.|^)crashlytics\.
@@ -688,11 +701,13 @@
 (\.|^)services?\.
 (\.|^)ssc\.
 (\.|^)sslauth\.
+(\.|^)stat*\.
 (\.|^)stats?\.
 (\.|^)status\.
 (\.|^)sync\.
 (\.|^)tags?\.
 (\.|^)telemetry\.
+(\.|^)traffic*\.
 (\.|^)trust*\.
 (\.|^)v6\.
 (\.|^)valid\.

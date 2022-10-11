@@ -7361,6 +7361,7 @@ casper.iloveadeal.com
 caspionlog.appspot.com
 cast.ra.icast.cn
 castbox.fm
+castos.com
 castplatform.com
 casualportals.com
 catalog-retail.amazon.com
@@ -11675,6 +11676,7 @@ epiccash.com
 epimg.net
 epiqsolutions.com
 episerver.net
+episodes.castos.com
 epnclick.ru
 epoch.cloud
 epoq.de
@@ -14531,6 +14533,7 @@ htdvt.com
 htlb.casalemedia.com
 htlbid.com
 html.it
+html.scribdassets.com
 htmlhubing.xyz
 htmlmetrics.com
 htmlstats.net
@@ -22836,6 +22839,7 @@ ryzeo.com
 rz.google.com
 rzwhxy.urco.cl
 s-cloud.fi
+s-f.scribdassets.com
 s-i-r.de
 s-img.de
 s-jsonp.moatads.com
@@ -24939,6 +24943,7 @@ sourcepoint.dexerto.com
 sourcepoint.theguardian.com
 sourcepoint.theroot.com
 sourcepoint.vice.com
+sourcepointcmp.bloomberg.com
 southfront.org
 southpointcasino.com
 southwest.com
@@ -25652,6 +25657,7 @@ stat.zol.com.cn
 stat24.com
 stat24.meta.ua
 statad.ru
+statcdn.com
 statcdn.com
 statcjs.com
 statcounter.com
@@ -26724,6 +26730,7 @@ tabarn.app
 tableau.com
 tableausoftware.com
 tablereservation.info
+taboola.com
 taboola.com
 tac1.disqus.com
 tacoda.net
@@ -30011,6 +30018,7 @@ working-online.net
 workoperation.com
 workshopmanager.net
 workwonders.hallstar.com
+world-gen.g.aaplimg.com
 worldnow.com
 worldpay.com
 worldssl.net
@@ -32291,4 +32299,3 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
-hacs.xyz
