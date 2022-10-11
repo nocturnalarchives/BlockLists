@@ -710,3 +710,4 @@
 \.page$
 \.services$
 \.us
+\.xyz
