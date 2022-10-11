@@ -259,11 +259,13 @@ freedns.controld.com
 getdnsapi.net
 google-public-dns-a.google.com
 google-public-dns-b.google.com
+h1-us.iot-dns.com
 i.233py.com
 i.233py.com.a.bdydns.com
 i.passcloud.xyz
 ibksturm.synology.me
 ibuki.cgnat.net
+iot-dns.com
 jarjar.meganerd.nl
 jcdns.fun
 jit.ddns.net

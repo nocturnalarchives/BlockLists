@@ -1,3 +1,4 @@
+_checkdns.home-assistant.io
 0-courier.push.apple.com
 0-courier.sandbox.push.apple.com
 0-edge-chat.facebook.com
@@ -14041,6 +14042,7 @@ h.skimresources.com
 h.teads.tv
 h.udkcjr.com
 h.usabilla.com
+h1-us.iot-dns.com
 h1.msn.com
 h12-media.com
 h2.msn.com
@@ -15449,6 +15451,7 @@ ionicframework.com
 iono.fm
 iop4.aireuropa.com
 iosapps.itunes.g.aaplimg.com
+iot-dns.com
 iot.us-east-1.amazonaws.com
 iowa.gov
 ip-185-177-93-166.ah-server.com
@@ -25275,6 +25278,7 @@ srvtrck.com
 srwww1.com
 srzyqu.inov-8.com
 ss.google.com
+ss2.us
 ssa.asianfoodnetwork.com
 ssa.cookingchanneltv.com
 ssa.discovery.com
@@ -31465,6 +31469,7 @@ x.o0bc.com
 x.optmnstr.com
 x.optmstr.com
 x.skimresources.com
+x.ss2.us
 x.teads.tv
 x.udkcjr.com
 x.usabilla.com
@@ -32286,3 +32291,4 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
+hacs.xyz
