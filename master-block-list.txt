@@ -3112,6 +3112,7 @@ aem-collector.daumkakao.io
 aemet.es
 aeplcdn.com
 aerisapi.com
+aeroleads.com
 aerserv.com
 aestivator.com
 aesus.so-net.ne.jp
@@ -3449,6 +3450,7 @@ amplify.outbrain.com
 amplify.strategic-i.com
 amplifypixel.outbrain.com
 amplitude.com
+ampliz.com
 ampproject.net
 ampproject.org
 ampry.com
@@ -9248,6 +9250,7 @@ cw.google.com
 cw98228.com
 cweazb.abbonamenti.it
 cwgwgo.ecanta.com.tr
+cwi.re
 cworks.cloud
 cws.conviva.com
 cx.atdmt.com
@@ -9658,6 +9661,7 @@ datadoghq-browser-agent.com
 datadome.co
 datafeedfile.com
 datafront.co
+datagrail.io
 datagroup-reporting.shopeemobile.com
 datalinedata.com
 datamind.ru
@@ -11317,6 +11321,7 @@ embed-fastly.wistia.com
 embed-ssl.wistia.com
 embed.acuityscheduling.com
 embed.air.tv
+embed.cwi.re
 embed.ly
 embed.tawk.to
 embed.wistia.com
@@ -25658,7 +25663,6 @@ stat24.com
 stat24.meta.ua
 statad.ru
 statcdn.com
-statcdn.com
 statcjs.com
 statcounter.com
 statdb.pressflex.com
@@ -26730,7 +26734,6 @@ tabarn.app
 tableau.com
 tableausoftware.com
 tablereservation.info
-taboola.com
 taboola.com
 tac1.disqus.com
 tacoda.net
@@ -30585,6 +30588,7 @@ www.ambientplatform.vn
 www.ambimob.com
 www.amcdn.vn
 www.amplitude.com
+www.ampliz.com
 www.amung.us
 www.anagog.com
 www.analysys.cn
@@ -32299,3 +32303,5 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
+livesearch-autocomplete.magento-ds.com
+magento-ds.com

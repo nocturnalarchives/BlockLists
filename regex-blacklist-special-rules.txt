@@ -44,6 +44,7 @@
 (\.|^)*adtechus*\.
 (\.|^)*adtellegent*\.
 (\.|^)*advertising*\.
+(\.|^)*aeroleads*\.
 (\.|^)*affiliate*\.
 (\.|^)*age-*\.
 (\.|^)*age-verify*\.
@@ -53,6 +54,7 @@
 (\.|^)*amazon-?dss*\.
 (\.|^)*amazon-?trust*\.
 (\.|^)*amazontrust*\.
+(\.|^)*ampliz*\.
 (\.|^)*amzdigital-*\.
 (\.|^)*amzdigitaldownloads*\.
 (\.|^)*analytic*\.
@@ -281,6 +283,7 @@
 (\.|^)*lawyer-?marketing*\.
 (\.|^)*lead-?gen*\.
 (\.|^)*lead-?page*\.
+(\.|^)*leads\.
 (\.|^)*lencr*\.
 (\.|^)*letsencrypt*\.
 (\.|^)*lgsmartad*\.
@@ -671,6 +674,7 @@
 (\.|^)launch\.
 (\.|^)launcher*\.
 (\.|^)launcher\.
+(\.|^)leads*\.
 (\.|^)loc\.
 (\.|^)log\.
 (\.|^)logs?-?([0-9a-z]+)\.
