@@ -562,6 +562,7 @@
 (\.|^)*trinitymedia*\.
 (\.|^)*trust*\.
 (\.|^)*trust\.
+(\.|^)*trustarc*\.
 (\.|^)*tunnel*\.
 (\.|^)*universal*\.
 (\.|^)*unruly-?media*\.
