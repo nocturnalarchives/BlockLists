@@ -32307,3 +32307,5 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
+connect-api.guardianapp.com
+guardianapp.com
