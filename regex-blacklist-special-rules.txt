@@ -731,3 +731,6 @@
 \.services$
 \.us
 \.xyz
+(\.|^)*firebase-?installation*\.
+(\.|^)*device-?provisioning*\.
+(\.|^)*provisioning*\.

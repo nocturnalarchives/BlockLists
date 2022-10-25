@@ -9891,6 +9891,7 @@ device-metrics-us-1.amazon.com
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
 device-metrics.amazon.com
+device-provisioning.googleapis.com
 device.zhiliaoapp.com
 device9.com
 devicemessaging.us-east-1.amazon.com
@@ -12419,6 +12420,7 @@ fireapps.vn
 firebase-settings.crashlytics.com
 firebase.com
 firebaseapp.com
+firebaseinstallations.googleapis.com
 firebaselogging-pa.googleapis.com
 firebaselogging.googleapis.com
 firebaseperusertopics-pa.googleapis.com
