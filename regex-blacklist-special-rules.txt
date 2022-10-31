@@ -41,6 +41,7 @@
 (\.|^)*ads?-?server*\.
 (\.|^)*adsafeprotected*\.
 (\.|^)*adserver*\.
+(\.|^)*adsrvr*\.
 (\.|^)*adtechus*\.
 (\.|^)*adtellegent*\.
 (\.|^)*advertising*\.
@@ -191,6 +192,7 @@
 (\.|^)*data-?wrapper*\.
 (\.|^)*data*\.
 (\.|^)*deck\.
+(\.|^)*demand*\.
 (\.|^)*demdex*\.
 (\.|^)*detect*\.
 (\.|^)*developer*\.
@@ -204,6 +206,7 @@
 (\.|^)*dns\.
 (\.|^)*doh*\.
 (\.|^)*doh\.
+(\.|^)*domain*\.
 (\.|^)*dot*\.
 (\.|^)*dot\.
 (\.|^)*dotomi*\.
@@ -236,6 +239,7 @@
 (\.|^)*geo-*\.
 (\.|^)*get-?clicky*\.
 (\.|^)*gimbal*\.
+(\.|^)*gmpg*\.
 (\.|^)*go-?mpulse*\.
 (\.|^)*go-?traffic\.
 (\.|^)*googlezip*\.
@@ -357,6 +361,7 @@
 (\.|^)*notice*\.
 (\.|^)*notification*\.
 (\.|^)*notify*\.
+(\.|^)*nuance*\.
 (\.|^)*nudge*\.
 (\.|^)*nudgify*\.
 (\.|^)*ocsp*\.
@@ -736,6 +741,7 @@
 (\.|^)web\.
 \.ai
 \.ai$
+\.glass$
 \.me$
 \.ms
 \.page$
