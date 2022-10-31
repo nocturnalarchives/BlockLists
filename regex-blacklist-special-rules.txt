@@ -67,6 +67,7 @@
 (\.|^)*api\.
 (\.|^)*app-?analytic*\.
 (\.|^)*app-?center*\.
+(\.|^)*app-?spot*\.
 (\.|^)*app\.
 (\.|^)*appassets*\.
 (\.|^)*appdynamics*\.
@@ -95,6 +96,7 @@
 (\.|^)*brealtime*\.
 (\.|^)*browser*\.
 (\.|^)*browseraddon*\.
+(\.|^)*browsing*\.
 (\.|^)*bug-?snag*\.
 (\.|^)*bwbx*\.
 (\.|^)*bwbx\.
@@ -153,6 +155,7 @@
 (\.|^)*consent*\.
 (\.|^)*constant-?contact*\.
 (\.|^)*consumer*\.
+(\.|^)*content*\.
 (\.|^)*contributor*\.
 (\.|^)*conversation*\.
 (\.|^)*conversion*\.
@@ -191,6 +194,7 @@
 (\.|^)*demdex*\.
 (\.|^)*detect*\.
 (\.|^)*developer*\.
+(\.|^)*device-?provisioning*\.
 (\.|^)*device*\.
 (\.|^)*diagnostic*\.
 (\.|^)*dimension*\.
@@ -221,6 +225,7 @@
 (\.|^)*fact-?check*\.
 (\.|^)*fastlane-?adv*\.
 (\.|^)*filesusr*\.
+(\.|^)*firebase-?installation*\.
 (\.|^)*firmware-?update*\.
 (\.|^)*firmware*\.
 (\.|^)*foresee*\.
@@ -402,6 +407,7 @@
 (\.|^)*premium*\.
 (\.|^)*presence*\.
 (\.|^)*prism*\.
+(\.|^)*privacy*\.
 (\.|^)*private*\.
 (\.|^)*pro\.
 (\.|^)*prod-*\.
@@ -429,6 +435,7 @@
 (\.|^)*query\.
 (\.|^)*random-?walker*\.
 (\.|^)*re-?buy*\.
+(\.|^)*re-?director*\.
 (\.|^)*real-?time*\.
 (\.|^)*real-?time\.
 (\.|^)*realtime*\.
@@ -446,8 +453,10 @@
 (\.|^)*rootca*\.
 (\.|^)*rootca1*\.
 (\.|^)*rubicon-?project*\.
+(\.|^)*safe-?browsing*\.
 (\.|^)*safe-?link*\.
 (\.|^)*safe*\.
+(\.|^)*safety*\.
 (\.|^)*sales-?iq*\.
 (\.|^)*sales?\.
 (\.|^)*salsify*\.
@@ -558,6 +567,8 @@
 (\.|^)*tracking*\.
 (\.|^)*traffic*\.
 (\.|^)*traffic\.
+(\.|^)*trend*\.
+(\.|^)*trending*\.
 (\.|^)*trick-play*\.
 (\.|^)*trinitymedia*\.
 (\.|^)*trust*\.
@@ -731,6 +742,3 @@
 \.services$
 \.us
 \.xyz
-(\.|^)*firebase-?installation*\.
-(\.|^)*device-?provisioning*\.
-(\.|^)*provisioning*\.

@@ -8670,6 +8670,7 @@ conjured.co
 conkac.com
 connatix.com
 connct-9.com
+connect-api.guardianapp.com
 connect.acspubs.org
 connect.adobedc.net
 connect.astrobotanicals.com
@@ -13171,6 +13172,7 @@ gg.google.com
 ggpht.com
 gh.google.com
 ghbtns.com
+ghostery.net
 ghostmonitor.com
 ghostmonitor.net
 ghradioplayer.com
@@ -13967,6 +13969,7 @@ gu.google.com
 guarantee-cdn.com
 guardedgovernor.com
 guardedschool.com
+guardianapp.com
 guardiancu.actonservice.com
 guardnotes.com
 guce.adtechjp.com
@@ -15671,6 +15674,7 @@ janrain.com
 janrainsso.com
 janus.r.jakuli.com
 japanesebeauties.net
+japfg-trending-content.appspot.com
 jas.indeednps.com
 jatflh.pharmamarket.be
 jatxt.com
@@ -21527,6 +21531,7 @@ privacy-center.org
 privacy-mgmt.com
 privacy-policy.truste.com
 privacy.britepool.com
+privacy.ghostery.net
 privacy.outdoorsg.com
 privacyfriendly.brainbits.in
 privacygenerator.com
@@ -22324,6 +22329,7 @@ redirectmail.majelan.com
 redirectmotion.org
 redirectnet.net
 redirectool.com
+redirector.brave.com
 redirectprotocol.net
 redirectshare.com
 redirectweburl.com
@@ -22975,6 +22981,7 @@ sadmin.brightcove.com
 sadobe.homecenter.com.co
 sadobe.mercuryinsurance.com
 sadobemetrics.la-z-boy.com
+safe-browsing-quorum.privacy.ghostery.net
 safe-mondays.net
 safebrowsing.googleapis.com
 safebrowsing.service.amazonsilk.com
@@ -32307,5 +32314,3 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
-connect-api.guardianapp.com
-guardianapp.com
