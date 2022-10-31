@@ -9977,6 +9977,7 @@ digital-cloud.medallia.com
 digital-metric.com
 digital.anicom-sompo.co.jp
 digital.att.com
+digital.nuance.com
 digital.opsbase.com
 digital.setpointis.com
 digitalaudienz.com
@@ -10322,6 +10323,7 @@ domain-redirect.com
 domain-resolver.net
 domain-routing.com
 domain-security.org
+domain.glass
 domaining.in
 domainloading.net
 domainport.net
@@ -13269,6 +13271,7 @@ gmailo.co
 gmg.io
 gmonitor.aliimg.com
 gmossp-sp.jp
+gmpg.org
 gmufag.74.ru
 gmufag.e1.ru
 gmufag.elle.ru
@@ -15816,6 +15819,7 @@ js-agent.newrelic.com
 js-bn.com
 js-sec.indexww.com
 js.ad-score.com
+js.adsrvr.org
 js.agkn.com
 js.appboycdn.com
 js.braintreegateway.com
@@ -17903,6 +17907,7 @@ media-b.jp
 media-imdb.com
 media-match.com
 media-servers.net
+media-us1.digital.nuance.com
 media-verizon-dev.inq.com
 media.ftv-publicite.fr
 media.funpic.de
