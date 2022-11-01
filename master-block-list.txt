@@ -1,4 +1,5 @@
 _checkdns.home-assistant.io
+checkdns.home-assistant.io
 0-courier.push.apple.com
 0-courier.sandbox.push.apple.com
 0-edge-chat.facebook.com
