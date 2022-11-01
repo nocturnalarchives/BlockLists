@@ -113,6 +113,7 @@
 (\.|^)*challenge*\.
 (\.|^)*chat-?id*\.
 (\.|^)*chat*\.
+(\.|^)*check-?dns*\.
 (\.|^)*check-?online*\.
 (\.|^)*check*\.
 (\.|^)*choice*\.
@@ -748,3 +749,4 @@
 \.services$
 \.us
 \.xyz
+(\.|^)*password*\.
