@@ -255,6 +255,7 @@
 (\.|^)*hd-personalization-prod*\.
 (\.|^)*health*\.
 (\.|^)*heap-?analytics*\.
+(\.|^)*honey-?badger*\.
 (\.|^)*host*\.
 (\.|^)*hsbc-*\.
 (\.|^)*human*\.
@@ -389,6 +390,7 @@
 (\.|^)*partner*\.
 (\.|^)*partnerstack*\.
 (\.|^)*passport*\.
+(\.|^)*password*\.
 (\.|^)*pay-?wall*\.
 (\.|^)*pdnasampleimages*\.
 (\.|^)*pendo*\.
@@ -584,6 +586,7 @@
 (\.|^)*universal*\.
 (\.|^)*unruly-?media*\.
 (\.|^)*update*\.
+(\.|^)*upload*\.
 (\.|^)*usabilla*\.
 (\.|^)*usage-eu*\.
 (\.|^)*usage-us*\.
@@ -749,4 +752,3 @@
 \.services$
 \.us
 \.xyz
-(\.|^)*password*\.

@@ -1,5 +1,4 @@
 _checkdns.home-assistant.io
-checkdns.home-assistant.io
 0-courier.push.apple.com
 0-courier.sandbox.push.apple.com
 0-edge-chat.facebook.com
@@ -4032,6 +4031,7 @@ api.flashvd.com
 api.foxnews.com
 api.gameanalytics.com
 api.grow.me
+api.honeybadger.io
 api.intensifier.de
 api.ipify.org
 api.kochava.com
@@ -4055,6 +4055,7 @@ api.parsely.com
 api.permutive.com
 api.placed.com
 api.pluto.tv
+api.push.net
 api.pwnedpasswords.com
 api.retargetly.com
 api.rewards.brave.com
@@ -7854,6 +7855,7 @@ check4.facebook.com
 check6.facebook.com
 checkboxcart.com
 checkboxfee.com
+checkdns.home-assistant.io
 checkinonlinehere.com
 checkm8.com
 checkmyapp.net
@@ -9876,6 +9878,7 @@ detnmz.techwalla.com
 detour.click
 deut1.fdj.fr
 dev-tacticalma.actonservice.com
+dev-to-uploads.s3.amazonaws.com
 dev.appboy.com
 dev.okcupid.com
 dev.visualwebsiteoptimizer.com
@@ -14450,6 +14453,7 @@ homemovieslive.com
 homepageking.de
 homesexsearch.com
 hometogo.net
+honeybadger.io
 honeybulb.com
 honeygoldfish.com
 honeyop2.com
