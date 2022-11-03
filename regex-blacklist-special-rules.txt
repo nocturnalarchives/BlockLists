@@ -172,6 +172,7 @@
 (\.|^)*corporate*\.
 (\.|^)*cortana*\.
 (\.|^)*counter*\.
+(\.|^)*coveo*\.
 (\.|^)*covid*\.
 (\.|^)*crash-?log*\.
 (\.|^)*crashlytics*\.
@@ -226,6 +227,7 @@
 (\.|^)*event*\.
 (\.|^)*every-?action*\.
 (\.|^)*evidence*\.
+(\.|^)*evidon*\.
 (\.|^)*fact-?check*\.
 (\.|^)*fastlane-?adv*\.
 (\.|^)*filesusr*\.
@@ -279,6 +281,7 @@
 (\.|^)*iot\.
 (\.|^)*ipv6*\.
 (\.|^)*iq\.
+(\.|^)*jeeng*\.
 (\.|^)*killswitch*\.
 (\.|^)*klavio*\.
 (\.|^)*klaviyo*\.
@@ -301,6 +304,7 @@
 (\.|^)*lijit*\.
 (\.|^)*like-?shop*\.
 (\.|^)*link*\.
+(\.|^)*lithium*\.
 (\.|^)*live-?chat*\.
 (\.|^)*live-?search*\.
 (\.|^)*live-?video*\.
@@ -651,6 +655,7 @@
 (\.|^)clicks?\.
 (\.|^)client-?stream\.
 (\.|^)cmp*\.
+(\.|^)consent\.
 (\.|^)core\.
 (\.|^)crash\.
 (\.|^)crashlytics\.
@@ -707,6 +712,7 @@
 (\.|^)member\.
 (\.|^)metrics?\.
 (\.|^)my-?photos?-?dna\.
+(\.|^)notifications?\.
 (\.|^)omniture*\.
 (\.|^)omniture\.
 (\.|^)oscp\.
@@ -745,6 +751,7 @@
 (\.|^)web\.
 \.ai
 \.ai$
+\.app
 \.glass$
 \.me$
 \.ms

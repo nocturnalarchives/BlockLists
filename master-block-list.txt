@@ -8330,6 +8330,7 @@ cloud-miner.eu
 cloud.adobe.io
 cloud.arqiva.tv
 cloud.aspiresys.com
+cloud.coveo.com
 cloud.kargo.com
 cloud.opta.net
 cloudads.net
@@ -8737,6 +8738,7 @@ consensu.org
 consent.api.osano.com
 consent.cmp.oath.com
 consent.cookiebot.com
+consent.dropbox.com
 consent.google.com
 consent.inm.ie
 consent.is
@@ -15730,6 +15732,7 @@ je.google.com
 jeccmq.wehkamp.nl
 jedonkey.cjt1.net
 jeedmact.sc.com
+jeeng.app
 jeeng.com
 jeeyarworld.com
 jelly.mdhv.io
@@ -16493,6 +16496,8 @@ limelight.com
 limitedfeature.com
 limone.iltrovatore.it
 limpingline.com
+limuirs-assets.lithium.com
+limuirs-cloudfront-live.prod.lia.aws.lcloud.com
 line-cdn.net
 line-scdn.net
 line.me
@@ -18993,6 +18998,7 @@ mobileactive.com
 mobilead.vn
 mobileadtrading.com
 mobileadvertisinghub.com
+mobileanalytics.us-east-1.amazonaws.com
 mobileapptracking.com
 mobilebrowsing.net
 mobilefuse.nu
@@ -19834,6 +19840,7 @@ noticecdn.samsungcloudsolution.com
 noticefile.samsungcloudsolution.com
 notifia.io
 notification.adblockplus.org
+notification.jeeng.app
 notification.services
 notification.viktvaktarna.se
 notificationsneeded.com
@@ -23613,6 +23620,7 @@ seamus.amazon.co.uk
 seamus.amazon.com
 seamus.amazon.de
 seaofads.com
+search.cloud.coveo.com
 search.spotxchange.com
 searchanise.com
 searchfeast.com
@@ -25757,6 +25765,7 @@ static.ak.facebook.com.edgesuite.net
 static.ak.fbcdn.net
 static.cdn.prismic.io
 static.chartbeat.com
+static.cloud.coveo.com
 static.cloudflareinsights.com
 static.criteo.net
 static.ctctcdn.com
@@ -31057,6 +31066,7 @@ www.ipstack.com
 www.itracker360.com
 www.ivi.ru
 www.iwf.co.uk
+www.jeeng.app
 www.js.sentry-cdn.com
 www.jsonline.com
 www.juiceadv.com
