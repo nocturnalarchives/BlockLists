@@ -19503,6 +19503,7 @@ nch.com.au
 nclick.ru
 ncontent.xx.fbcdn.net
 ncoqsj.dr.com.tr
+ncsc.gov.uk
 nctrk.abmail.com.br
 ncx2.voyage-prive.it
 nd.google.com
@@ -23243,7 +23244,9 @@ scaledrone.com
 scaleflex.it
 scambiobanner.aruba.it
 scan6show.com
+scanner.scanning.service.ncsc.gov.uk
 scannerservices.net
+scanning.service.ncsc.gov.uk
 scanscout.com
 scarabresearch.com
 scarcesign.com
@@ -23898,6 +23901,7 @@ service.frankwatching.com
 service.gc.apple.com
 service.maxymiser.net
 service.minerva.devices.a2z.com
+service.ncsc.gov.uk
 service.seamlessaccess.org
 service.signalr.net
 service1.adten.de

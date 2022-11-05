@@ -216,6 +216,7 @@
 (\.|^)*dotomi*\.
 (\.|^)*double-?click*\.
 (\.|^)*double-?verify*\.
+(\.|^)*download*\.
 (\.|^)*drip\.
 (\.|^)*dss-*\.
 (\.|^)*dynamic*\.
@@ -230,6 +231,7 @@
 (\.|^)*every-?action*\.
 (\.|^)*evidence*\.
 (\.|^)*evidon*\.
+(\.|^)*exploit*\.
 (\.|^)*fact-?check*\.
 (\.|^)*fastlane-?adv*\.
 (\.|^)*filesusr*\.
@@ -254,6 +256,9 @@
 (\.|^)*gql*\.
 (\.|^)*gvt1*\.
 (\.|^)*gvt2*\.
+(\.|^)*hack*\.
+(\.|^)*hacked*\.
+(\.|^)*hacking*\.
 (\.|^)*hardware-?update*\.
 (\.|^)*hash*\.
 (\.|^)*hd-personalization-prod*\.
@@ -281,6 +286,7 @@
 (\.|^)*intent*\.
 (\.|^)*interstitial*\.
 (\.|^)*iot\.
+(\.|^)*ip-*\.
 (\.|^)*ipv6*\.
 (\.|^)*iq\.
 (\.|^)*jeeng*\.
@@ -322,6 +328,7 @@
 (\.|^)*logs-?([0-9a-z]+)*\.
 (\.|^)*logs*\.
 (\.|^)*lookup*\.
+(\.|^)*malware*\.
 (\.|^)*manage*\.
 (\.|^)*map-box*\.
 (\.|^)*map*\.
@@ -450,6 +457,8 @@
 (\.|^)*query\.
 (\.|^)*queryly*\.
 (\.|^)*random-?walker*\.
+(\.|^)*ransom-?ware*\.
+(\.|^)*ransom*\.
 (\.|^)*re-?buy*\.
 (\.|^)*re-?director*\.
 (\.|^)*real-?time*\.
@@ -553,6 +562,7 @@
 (\.|^)*taboola*\.
 (\.|^)*tagembed*\.
 (\.|^)*tags?\.
+(\.|^)*take-?over*\.
 (\.|^)*talk*\.
 (\.|^)*target*\.
 (\.|^)*targeted*\.
@@ -615,6 +625,7 @@
 (\.|^)*video-?direct*\.
 (\.|^)*video-?roll*\.
 (\.|^)*video-?weaver*\.
+(\.|^)*virus*\.
 (\.|^)*voice*\.
 (\.|^)*voyager-?labs*\.
 (\.|^)*vytal*\.
@@ -733,6 +744,9 @@
 (\.|^)real-?time*\.
 (\.|^)real-?time\.
 (\.|^)sales*\.
+(\.|^)scaning?\.
+(\.|^)scanners?\.
+(\.|^)scans?\.
 (\.|^)sdk\.
 (\.|^)sentry\.
 (\.|^)services?\.
@@ -759,6 +773,8 @@
 \.ai$
 \.app
 \.glass$
+\.gov\.uk$
+\.gov$
 \.me$
 \.ms
 \.page$
