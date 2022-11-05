@@ -8794,6 +8794,7 @@ content.enlightiumacademy.com
 content.familyfeatures.com
 content.force.com
 content.formalifesciencemarketing.com
+content.fortune.com
 content.freeconference.com
 content.harrisproductsgroup.com
 content.hydraulicsproducts.com
@@ -15830,6 +15831,7 @@ js.ad-score.com
 js.adsrvr.org
 js.agkn.com
 js.appboycdn.com
+js.arcgis.com
 js.braintreegateway.com
 js.chargebee.com
 js.createsend1.com
@@ -19557,6 +19559,7 @@ netclickstats.com
 netcommunities.com
 netcore.co.in
 netcoresmartech.com
+netcts.cdn-apple.com
 netdirect.nl
 netdna-cdn.com
 netdna-ssl.com

@@ -38,6 +38,7 @@
 (\.|^)*adobe*\.
 (\.|^)*adobeprimetime*\.
 (\.|^)*adroll*\.
+(\.|^)*ads-*\.
 (\.|^)*ads?-?server*\.
 (\.|^)*adsafeprotected*\.
 (\.|^)*adserver*\.
@@ -77,6 +78,7 @@
 (\.|^)*apple-*\.
 (\.|^)*apple-resources*\.
 (\.|^)*apps?\.
+(\.|^)*arcgis*\.
 (\.|^)*assessment*\.
 (\.|^)*attentive*\.
 (\.|^)*attservice*\.
@@ -385,6 +387,7 @@
 (\.|^)*openx*\.
 (\.|^)*opt-?in*\.
 (\.|^)*opt-?out*\.
+(\.|^)*optimize*\.
 (\.|^)*order-?limit*\.
 (\.|^)*osano*\.
 (\.|^)*outbrain*\.
@@ -445,6 +448,7 @@
 (\.|^)*quantummetric*\.
 (\.|^)*query*\.
 (\.|^)*query\.
+(\.|^)*queryly*\.
 (\.|^)*random-?walker*\.
 (\.|^)*re-?buy*\.
 (\.|^)*re-?director*\.
@@ -570,6 +574,7 @@
 (\.|^)*threat*\.
 (\.|^)*time-?zone*\.
 (\.|^)*timed-?text*\.
+(\.|^)*tiny-?pass*\.
 (\.|^)*tinypass*\.
 (\.|^)*tockify*\.
 (\.|^)*tool*\.
@@ -674,6 +679,7 @@
 (\.|^)drip\.
 (\.|^)event\.
 (\.|^)events?\.
+(\.|^)fonts?\.
 (\.|^)gateway\.
 (\.|^)geo\.
 (\.|^)get\.
