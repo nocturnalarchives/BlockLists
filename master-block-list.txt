@@ -3993,6 +3993,7 @@ api-glb-dub.smoot.apple.com
 api-gps-em.hismarttv.com
 api-gps-na.hismarttv.com
 api-hub.samsungyosemite.com
+api-js.datadome.co
 api-launcher-em.hismarttv.com
 api-launcher-na.hismarttv.com
 api-mg2.db-ip.com
@@ -7760,6 +7761,7 @@ ceskydomov.alias.ngs.modry.cz
 cetrk.com
 ceuswatcab01.blob.core.windows.net
 ceuswatcab02.blob.core.windows.net
+cf-assets.hcaptcha.com
 cf-cpc-worker.pub-ocean-cloudflare-account.workers.dev
 cf-images.us-east-1.prod.boltdns.net
 cf-trickplay.aux.pv-cdn.net
@@ -8343,6 +8345,7 @@ cloudembed.net
 clouderrorreporting.googleapis.com
 cloudflare-dns.com
 cloudflare.com
+cloudflare.tv
 cloudflareinsights.com
 cloudfront-labs.amazonaws.com
 cloudfront.net
@@ -9389,6 +9392,7 @@ d32hwlnfiv2gyn.cloudfront.net
 d34ko97cxuv4p7.cloudfront.net
 d34qb8suadcc4g.cloudfront.net
 d35u1vg1q28b3w.cloudfront.net
+d35xxde4fgg0cx.cloudfront.net
 d39yds8oe4n4jq.cloudfront.net
 d3cgm8py10hi0z.cloudfront.net
 d3cxv97fi8q177.cloudfront.net
@@ -11179,6 +11183,7 @@ elderlyscissors.com
 elderlytown.com
 election.nw18.com
 electronic.us
+elements.widget.shopbonsai.ca
 elementscart.com
 elephantqueue.com
 elev.io
@@ -17151,6 +17156,7 @@ maingreatessay.com
 mainredirecter.com
 makaira.io
 make.cohesionapps.com
+make.wordpress.org
 make6pain.com
 makedosupport.club
 makemewell.pro
@@ -22011,6 +22017,7 @@ qubitanalytics.appspot.com
 querecetas.com
 query.fqtag.com
 queryly.com
+querymonitor.com
 questaffiliates.net
 questions.theanswerco.com
 queue-it.net
@@ -24048,6 +24055,7 @@ shop.app
 shop.iwantclips.com
 shop.pe
 shopback.net
+shopbonsai.ca
 shopbop.com
 shopbreakfast.com
 shopconvert.com.br
@@ -26288,6 +26296,7 @@ stilyoapps.com
 stimg.co
 stitcher.com
 stms.53.com
+stocks-analytics-events.apple.com
 stopmysms.com
 stopsms.biz
 storage.cloud.kargo.com
@@ -28399,6 +28408,8 @@ trustarc.com
 trustarc.mgr.consensu.org
 trustb.org
 trustc.org
+trustcor.co
+trustcor.com
 trustd.org
 truste.com
 truste.org
@@ -29927,6 +29938,7 @@ widget.intercom.io
 widget.manychat.com
 widget.perfectmarket.com
 widget.quantcast.com
+widget.shopbonsai.ca
 widget.surveymonkey.com
 widget.tagembed.com
 widget.whisk.com
@@ -31404,6 +31416,7 @@ www.trendage.com
 www.trenddigital.vn
 www.trendmd.com
 www.tribl.io
+www.trustcor.com
 www.trxsystems.com
 www.u-ad.info
 www.uberads.com
@@ -32345,17 +32358,3 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
-www.trustcor.com
-trustcor.com
-trustcor.co
-stocks-analytics-events.apple.com
-cf-assets.hcaptcha.com
-cloudflare.tv
-querymonitor.com
-make.wordpress.org
-c.go-mpulse.net
-s.go-mpulse.net
-go-mpulse.net
-d35xxde4fgg0cx.cloudfront.net
-
-

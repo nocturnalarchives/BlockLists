@@ -192,6 +192,7 @@
 (\.|^)*ctctcdn*\.
 (\.|^)*customer-?service*\.
 (\.|^)*dash-?hudson*\.
+(\.|^)*data-?dome*\.
 (\.|^)*data-?processing*\.
 (\.|^)*data-?wrapper*\.
 (\.|^)*data*\.
@@ -406,6 +407,7 @@
 (\.|^)*partnerstack*\.
 (\.|^)*passport*\.
 (\.|^)*password*\.
+(\.|^)*patreon*\.
 (\.|^)*pay-?wall*\.
 (\.|^)*pdnasampleimages*\.
 (\.|^)*pendo*\.
@@ -511,6 +513,7 @@
 (\.|^)*setting*\.
 (\.|^)*sgizmo*\.
 (\.|^)*share-?through*\.
+(\.|^)*shop-?bonsai*\.
 (\.|^)*shopify-?order-?limit*\.
 (\.|^)*shopify-?order*\.
 (\.|^)*shopifysvc*\.
@@ -689,6 +692,7 @@
 (\.|^)dot*\.
 (\.|^)drip*\.
 (\.|^)drip\.
+(\.|^)elements?\.
 (\.|^)event\.
 (\.|^)events?\.
 (\.|^)fonts?\.
@@ -782,4 +786,3 @@
 \.services$
 \.us
 \.xyz
-(\.|^)*go-?mpulse*\.
