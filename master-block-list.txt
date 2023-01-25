@@ -4005,6 +4005,7 @@ api.21ninety.com
 api.actionbutton.co
 api.addthis.com
 api.altmetric.com
+api.amplitude.com
 api.atlassian.com
 api.auth.adobe.com
 api.bibblio.org
@@ -4036,6 +4037,7 @@ api.honeybadger.io
 api.intensifier.de
 api.ipify.org
 api.kochava.com
+api.lab.amplitude.com
 api.lbry.com
 api.lbry.tv
 api.letsencrypt.org
@@ -8706,6 +8708,7 @@ connect.netapp.co.il
 connect.netapp.co.kr
 connect.netapp.com
 connect.partner-connect.netapp.com
+connect.podium.com
 connect.prowareness.nl
 connect.radianttech.net
 connect.rallypoint.com
@@ -16259,6 +16262,7 @@ la.google.com
 la4-c2-ia2.salesforceliveagent.com
 laas-api.phunware.com
 laas.americanexpress.com
+lab.amplitude.com
 labeldollars.com
 labocleo.org
 labonneforme.net
@@ -18831,6 +18835,7 @@ milovana.com
 mimakiusa.actonservice.com
 mimosamajor.com
 min-api.cryptocompare.com
+mind-flayer.podium.com
 mindbox.ru
 mindmemobile.com
 mindtake.com
@@ -23946,6 +23951,8 @@ settings-sandbox.data.microsoft.com
 settings-win-ppe.data.microsoft.com
 settings.crashlytics.com
 settings.data.glbdns2.microsoft.com
+settings.luckyorange.com
+settings.luckyorange.net
 settings.services.mozilla.com
 settingsfd-geo.trafficmanager.net
 setupad.com
@@ -31251,6 +31258,7 @@ www.pixel.watch
 www.pluto.tv
 www.pmc.com
 www.podbean.com
+www.podium.com
 www.popads.com
 www.popads.net
 www.popcash.net

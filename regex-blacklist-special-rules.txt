@@ -56,6 +56,8 @@
 (\.|^)*amazon-?dss*\.
 (\.|^)*amazon-?trust*\.
 (\.|^)*amazontrust*\.
+(\.|^)*amplify*\.
+(\.|^)*amplitude*\.
 (\.|^)*ampliz*\.
 (\.|^)*amzdigital-*\.
 (\.|^)*amzdigitaldownloads*\.
@@ -330,6 +332,7 @@
 (\.|^)*logs-?([0-9a-z]+)*\.
 (\.|^)*logs*\.
 (\.|^)*lookup*\.
+(\.|^)*lucky-?orange*\.
 (\.|^)*malware*\.
 (\.|^)*manage*\.
 (\.|^)*map-box*\.
@@ -424,6 +427,7 @@
 (\.|^)*platform*\.
 (\.|^)*playback*\.
 (\.|^)*podcast*\.
+(\.|^)*podium*\.
 (\.|^)*polyfill*\.
 (\.|^)*polyfill\.io*\.
 (\.|^)*pre-?bid*\.
@@ -511,6 +515,7 @@
 (\.|^)*service*\.
 (\.|^)*session*\.
 (\.|^)*setting*\.
+(\.|^)*settings*\.
 (\.|^)*sgizmo*\.
 (\.|^)*share-?through*\.
 (\.|^)*shop-?bonsai*\.
@@ -675,6 +680,7 @@
 (\.|^)clicks?\.
 (\.|^)client-?stream\.
 (\.|^)cmp*\.
+(\.|^)connect\.
 (\.|^)consent\.
 (\.|^)core\.
 (\.|^)crash\.
@@ -718,6 +724,7 @@
 (\.|^)ipv6\.
 (\.|^)iq*\.
 (\.|^)iq\.
+(\.|^)labs?\.
 (\.|^)launch*\.
 (\.|^)launch\.
 (\.|^)launcher*\.
@@ -755,6 +762,7 @@
 (\.|^)sdk\.
 (\.|^)sentry\.
 (\.|^)services?\.
+(\.|^)settings\.
 (\.|^)ssc\.
 (\.|^)sslauth\.
 (\.|^)stat*\.
