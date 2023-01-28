@@ -7298,6 +7298,7 @@ captcha-delivery.com
 capterra-static.com
 capterra.com
 captnemo.in
+capture-api.reachlocalservices.com
 capture.condenastdigital.com
 capture.crutchfield.com
 capturehighered.net
@@ -22216,6 +22217,7 @@ re.google.com
 reachandrich.antevenio.com
 reachcomputer.com
 reachjunction.com
+reachlocalservices.com
 reachms.bfmio.com
 reachms.com
 reachoutmedia.com
@@ -22497,6 +22499,7 @@ reporting.theonion.com
 reports-api.sqreen.io
 reports.pagesuite-professional.co.uk
 reports.wes.df.telemetry.microsoft.com
+reports.yellowbook.com
 reproio.com
 repstatic.it
 republer.com
