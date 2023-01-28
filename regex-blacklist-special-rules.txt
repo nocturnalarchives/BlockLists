@@ -109,6 +109,7 @@
 (\.|^)*call-?to-?action*\.
 (\.|^)*cam*\.
 (\.|^)*camera*\.
+(\.|^)*capture-?api*\.
 (\.|^)*capture*\.
 (\.|^)*casale-?media*\.
 (\.|^)*casalemedia*\.
@@ -323,6 +324,7 @@
 (\.|^)*live-*\.
 (\.|^)*live*\.
 (\.|^)*liveperson*\.
+(\.|^)*local-?services*\.
 (\.|^)*localization*\.
 (\.|^)*locate*\.
 (\.|^)*location*\.
@@ -468,6 +470,8 @@
 (\.|^)*ransom*\.
 (\.|^)*re-?buy*\.
 (\.|^)*re-?director*\.
+(\.|^)*reach-?local-?services*\.
+(\.|^)*reach-?local*\.
 (\.|^)*real-?time*\.
 (\.|^)*real-?time\.
 (\.|^)*realtime*\.
@@ -755,6 +759,8 @@
 (\.|^)query\.
 (\.|^)real-?time*\.
 (\.|^)real-?time\.
+(\.|^)report(ing)?\.
+(\.|^)reports?\.
 (\.|^)sales*\.
 (\.|^)scaning?\.
 (\.|^)scanners?\.
