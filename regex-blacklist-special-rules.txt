@@ -800,8 +800,3 @@
 \.services$
 \.us
 \.xyz
-(\.|^)*reach-?local-?services*\.
-(\.|^)*reach-?local*\.
-(\.|^)*local-?services*\.
-(\.|^)*capture-?api*\.
-(\.|^)*capture*\.
