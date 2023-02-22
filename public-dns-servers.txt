@@ -336,3 +336,7 @@ use-application-dns.net
 uw-dns.rubyfish.cn
 wdns.233py.com
 www.digitale-gesellschaft.ch
+www.dns0.eu
+dns0.eu
+doh.dns0.eu
+dot.dns0.eu

@@ -1,13 +1,4 @@
-# hpHosts - Ad and Tracking servers only
-#
-# The following are hosts in the hpHosts database with the ATS classification ONLY.
-# This file will NOT protect you against malicious domains
-#
-127.0.0.1 localhost #IPv4 localhost
-::1 localhost #IPv6 localhost
-#
-# AD SERVERS START HERE
-#
+_thums.ero-advertising.com
 005.free-counter.co.uk
 006.free-adult-counters.x-xtra.com
 006.free-counter.co.uk
@@ -315,6 +306,7 @@
 126.6.87.194.dynamic.dol.ru
 126.xg4ken.com
 1268402.fls.doubleclick.net
+127.0.0.1 localhost #IPv4 localhost
 127.6.87.194.dynamic.dol.ru
 128.6.87.194.dynamic.dol.ru
 129.6.87.194.dynamic.dol.ru
@@ -4292,7 +4284,6 @@ ad.doubleclick.net.23557.9075.302br.net
 ad.doubleclick.net.23559.9075.302br.net
 ad.doubleclick.net.23563.9075.302br.net
 ad.doubleclick.net.23565.9075.302br.net
-ad.doubleclick.net.23569.9075.302br.net
 ad.doubleclick.net.23569.9075.302br.net
 ad.doubleclick.net.23571.9075.302br.net
 ad.doubleclick.net.23572.9075.302br.net
@@ -16228,13 +16219,13 @@ adm.shinobi.jp
 admagnet.go2cloud.org
 admagnet.net
 admailtiser.com
+adman_test.go2cloud.org
 adman.gr
 admanage.com
 admanagement.ch
 admanager.btopenworld.com
 admanager.persianblog.com
 admantic.ru
-adman_test.go2cloud.org
 admarket.entireweb.com
 admarketplace.com
 admarketplace.net
@@ -16417,6 +16408,7 @@ adrspain.go2cloud.org
 adrtrklnk.com
 adrunner.superstats.com
 adrunnr.com
+ads_ad_center.s3.amazonaws.com
 ads-03.tor.focusin.ads.targetnet.com
 ads-au.onelouder.com
 ads-b.focalink.com
@@ -18244,7 +18236,6 @@ adsweb.tiscali.de
 adsweb.tiscali.it
 adswizz.com
 adsx.greystripe.com
-adsx.greystripe.com
 adsxgm.com
 adsxxxtraff.com
 adsymptotic.com
@@ -18253,7 +18244,6 @@ adsynergy.com
 adsys.townnews.com
 adsyst.biz
 adsytipl.indiatimes.com
-ads_ad_center.s3.amazonaws.com
 adtackmedia.go2cloud.org
 adtag.msn.ca
 adtag.sympatico.ca
@@ -32313,6 +32303,7 @@ nytrwilmington.112.2o7.net
 nyttechnology.112.2o7.net
 nztv.prod.untd.com
 nzujq.voluumtrk.com
+o_thus.ero-advertising.com
 o.addthis.com
 o.leadbolt.com
 o.sa.aol.com
@@ -32869,7 +32860,7 @@ oxs1.selsin.net
 oylkc.voluumtrk.com
 oyvir.voluumtrk.com
 ozzhf.voluumtrk.com
-o_thus.ero-advertising.com
+p_en.popunder.net
 p-bandai-hk.b.appier.net
 p.ace.advertising.com
 p.adpdx.com
@@ -33862,7 +33853,6 @@ pyzct.voluumtrk.com
 pyzou.voluumtrk.com
 pztqt.voluumtrk.com
 pzxld.voluumtrk.com
-p_en.popunder.net
 q-mobi.go2affise.com
 q.addthis.com
 q.azcentral.com
@@ -38476,7 +38466,6 @@ view.atdmt.com.25205.9185.302br.net
 view.atdmt.com.25208.9185.302br.net
 view.atdmt.com.25211.9185.302br.net
 view.atdmt.com.25214.9185.302br.net
-view.atdmt.com.25217.9185.302br.net
 view.atdmt.com.25217.9185.302br.net
 view.atdmt.com.26099.9201.302br.net
 view.atdmt.com.26102.9201.302br.net
@@ -45700,13 +45689,13 @@ zk9.zeroredirect1.com
 zl.zeroredirect1.com
 zm.zeroredirect1.com
 zmedia.com
-zn.zeroredirect1.com
-zn0cjgsju6439lcsd-microsoft.siteintercept.qualtrics.com
-zn87b2gchqlbyp0jn-viacom.siteintercept.qualtrics.com
 zn_0xssfnnsxmogd01-cbs.siteintercept.qualtrics.com
 zn_9nquvazst1xipkt-cbs.siteintercept.qualtrics.com
 zn_b4q1adq70amqdth-citrix.siteintercept.qualtrics.com
 zn_brp7urzdaj4xmxn-edhealth.siteintercept.qualtrics.com
+zn.zeroredirect1.com
+zn0cjgsju6439lcsd-microsoft.siteintercept.qualtrics.com
+zn87b2gchqlbyp0jn-viacom.siteintercept.qualtrics.com
 zo.zeroredirect1.com
 zokidif.com
 zokjlyraphide.review
@@ -45747,4 +45736,3 @@ zz.cqcounter.com
 zz.zeroredirect1.com
 zzptzdhugavot.review
 zzz.clickbank.net
-_thums.ero-advertising.com

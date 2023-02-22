@@ -4122,7 +4122,9 @@ app.cookieyes.com
 app.demand.ptc.com
 app.donaldjtrump.com
 app.ecwid.com
+app.elfsight.com
 app.events.philips.com
+app.getmyid.com
 app.goo.gl
 app.info.coopenae.fi.cr
 app.information.maileva.com
@@ -7541,6 +7543,7 @@ cdn.segment.com
 cdn.shareaholic.net
 cdn.shortpixel.ai
 cdn.siftscience.com
+cdn.simpshopifyapps.com
 cdn.smartclip.net
 cdn.snigelweb.com
 cdn.sophi.io
@@ -13156,6 +13159,7 @@ getletterpress.com
 getlighthouse.io
 getmdl.io
 getmetrical.com
+getmyid.com
 getoutofyourmind.com
 getphotosinstant.net
 getpocket.com
@@ -13555,6 +13559,8 @@ graph.bustle.com
 graph.facebook.com
 graph.Facebook.com
 graph.Facebook.net
+graph.hinge.com
+graph.match.com
 graphly.io
 gratis-fickfilme.net
 gravatar.com
@@ -15662,6 +15668,7 @@ j.doubleclick.net
 j.image-ad.jp
 j.moatads.com
 j.newssuite.sony.net
+j.northbeam.io
 j.ntv.io
 j.o0bc.com
 j.ophan.co.uk
@@ -15863,6 +15870,7 @@ js.pelcro.com
 js.pulseinsights.com
 js.pusher.com
 js.sentry-cdn.com
+js.smile.co
 js.smile.io
 js.stripe.comp
 js.trendmd.com
@@ -16028,6 +16036,7 @@ keet1liod.com
 kegfkm.cloud-managed-networking.com
 kenh11.com
 kenilworth.com
+kenwheeler.github.io
 kenyasms.org
 keoofp.gulfnews.com
 kepler-37b.com
@@ -16310,6 +16319,7 @@ laughablecopper.com
 laughcloth.com
 launchdarkly.com
 launcher.spot.im
+launchpad-wrapper.privacymanager.io
 launchpress.com
 laurel.macrovision.com
 laurel.rovicorp.com
@@ -17172,6 +17182,7 @@ maling.dn.no
 maling.ue.dn.no
 mall.tv
 malokacha.club
+malsup.github.io
 malware-scan.com
 mamba-live.com
 mamydirect.com
@@ -17940,6 +17951,7 @@ media.msg.dotomi.com
 media.net
 media.pirtek.co.uk
 media.pirtek.nl
+media.psg.nextstardigital.com
 media.rocketreach.co
 media.weather.com
 media01.eu
@@ -18045,6 +18057,7 @@ megastats.com
 megaticket.info
 megawerbung.de
 megaxt.com
+megpxs.com
 mein-schoener-garten.de
 meinsol.de
 meli.m.facebook.com
@@ -19720,6 +19733,7 @@ nextdns.io
 nextgen.guardianapps.co.uk
 nextinsure.com
 nextopia.net
+nextstardigital.com
 nexus.ensighten.com
 nexus.officeapps.live.com
 nexusmedia-ua.com
@@ -19836,6 +19850,7 @@ normal-strength.com
 normalseason.com
 normandy.cdn.mozilla.net
 noroestecom.m.facebook.com
+northbeam.io
 norton.com
 nosalternatives.com
 nosemorningnine.com
@@ -19992,6 +20007,7 @@ nx.google.com
 nxakpj4ac8gkd53.info
 nxcli.net
 nxnszu.ettoday.net
+nxst.megpxs.com
 nxstrib.com
 nxsttv.com
 nxtck.com
@@ -23841,6 +23857,7 @@ selfpua.com
 sell.amazon.com
 sellercentral.amazon.com
 sellpoint.net
+sellup.herokuapp.com
 selz.com
 selzstatic.com
 sem.triboomedia.it
@@ -24073,7 +24090,9 @@ shopeemobile.com
 shopiapps.in
 shopify-simplemaps.s3.amazonaws.com
 shopify.com
+shopifyapp.rontar.com
 shopifyapps.com
+shopifyassets.freshchat.com
 shopifycdn.com
 shopifyorderlimits.s3.amazonaws.com
 shopifysvc.com
@@ -24281,6 +24300,7 @@ simply.lucanet.com
 simplycast.com
 simplycode.co
 simpo.io
+simpshopifyapps.com
 sinajs.cn
 sincerebuffalo.com
 sinceresofa.com
@@ -24751,6 +24771,7 @@ smi2.net
 smi2.ru
 smil.hrzn-nxt.com
 smile-ui.smilecdn.co
+smile.co
 smile.io
 smilecdn.co
 smilee.io
@@ -28309,6 +28330,7 @@ trinitymedia.ai
 triodos.com
 tripadvisor.com
 tripleclickpays.com
+triplewhale-pixel.web.app
 tritetongue.com
 tritondigital.com
 triumphmotorcycles.co.uk
@@ -29657,6 +29679,7 @@ wearehearken.com
 weather-lakana.lakana-prod.com
 weather-perf.akadns.net
 weather.com
+weather.psg.nextstardigital.com
 weather4free.com
 weatherapi.co
 weatherforyou.net
@@ -29680,6 +29703,7 @@ web-track.telekom-dienste.de
 web-url.net
 web-viewer.online
 web-z.net
+web.app
 web.bankofscotland.de
 web.beta.facebook.com
 web.dev
@@ -29754,6 +29778,7 @@ weborama.fr
 webpageupdate.co
 webpixel.smartmeapp.com
 webpkgcache.com
+webpopular.net
 webpower.com
 webprotector.co
 webprotocol.net
@@ -31469,6 +31494,7 @@ www.wistia.com
 www.wonderlandads.com
 www.wshifen.com
 www.xapads.com
+www.xg4ken.com
 www.yahoo.com
 www.yeahmobi.com
 www.yoads.net
