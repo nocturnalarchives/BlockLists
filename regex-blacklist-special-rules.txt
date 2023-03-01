@@ -818,3 +818,7 @@
 \.services$
 \.us
 \.xyz
+(\.|^)*http-?tool-?kit*\.
+(\.|^)*http-?tool*\.
+(\.|^)*tool-?kit*\.
+(\.|^)*frida*\.
