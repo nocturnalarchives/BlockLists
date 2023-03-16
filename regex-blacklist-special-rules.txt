@@ -1,4 +1,3 @@
-
 (\.|^)*-alert*\.
 (\.|^)*-alerts?\.
 (\.|^)*-analytic*\.
@@ -125,6 +124,7 @@
 (\.|^)*chimp*\.
 (\.|^)*choice*\.
 (\.|^)*chromium\.
+(\.|^)*cisco*\.
 (\.|^)*civicscience*\.
 (\.|^)*clarity*\.
 (\.|^)*click-?funnel*\.
@@ -246,6 +246,7 @@
 (\.|^)*firmware*\.
 (\.|^)*foresee*\.
 (\.|^)*free*\.
+(\.|^)*frida*\.
 (\.|^)*funding*\.
 (\.|^)*funnel*\.
 (\.|^)*gateway*\.
@@ -278,6 +279,8 @@
 (\.|^)*honey-?badger*\.
 (\.|^)*host*\.
 (\.|^)*hsbc-*\.
+(\.|^)*http-?tool-?kit*\.
+(\.|^)*http-?tool*\.
 (\.|^)*human*\.
 (\.|^)*i?phone*\.
 (\.|^)*iadsdk*\.
@@ -576,6 +579,7 @@
 (\.|^)*status-?page*\.
 (\.|^)*status*\.
 (\.|^)*status\.
+(\.|^)*strln*\.
 (\.|^)*subscribe*\.
 (\.|^)*subscription*\.
 (\.|^)*supremacist*\.
@@ -614,6 +618,7 @@
 (\.|^)*tiny-?pass*\.
 (\.|^)*tinypass*\.
 (\.|^)*tockify*\.
+(\.|^)*tool-?kit*\.
 (\.|^)*tool*\.
 (\.|^)*town-?news*\.
 (\.|^)*track*\.
@@ -695,6 +700,7 @@
 (\.|^)browser\.
 (\.|^)bwbx*\.
 (\.|^)bwbx\.
+(\.|^)cagenerator\.
 (\.|^)check-?online\.
 (\.|^)chromium*\.
 (\.|^)chromium\.
@@ -707,6 +713,7 @@
 (\.|^)core\.
 (\.|^)crash\.
 (\.|^)crashlytics\.
+(\.|^)crl\.
 (\.|^)cta\.
 (\.|^)data([0-9]+)\.
 (\.|^)detect-?portal\.
@@ -771,7 +778,9 @@
 (\.|^)pendo\.
 (\.|^)phone-ld\.
 (\.|^)pixel\.
+(\.|^)pki\.
 (\.|^)portals?\.
+(\.|^)prod\.
 (\.|^)push\.
 (\.|^)query*\.
 (\.|^)query\.
@@ -818,8 +827,3 @@
 \.services$
 \.us
 \.xyz
-(\.|^)*http-?tool-?kit*\.
-(\.|^)*http-?tool*\.
-(\.|^)*tool-?kit*\.
-(\.|^)*frida*\.
-(\.|^)*heroku*\.

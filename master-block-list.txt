@@ -1112,6 +1112,8 @@ accountcanceled.com
 accountkit.com
 accountnotify.com
 accounts.google.com
+accounts.httptoolkit.com
+accounts.httptoolkit.tech
 accounts.livechatinc.com
 accounts.mx
 accounts.pkr.com.invalid
@@ -3899,6 +3901,7 @@ android-core.org
 android-root-tool.com
 android-updates.net
 android.clients.google.com
+android.googlesource.com
 android.prod.cloud.netflix.com
 androidpit.info
 androidplatform.net
@@ -4564,6 +4567,7 @@ audit.pcadvisor.co.uk
 audit.shaa.it
 audit.webinform.hu
 auditorcast.com
+audm.herokuapp.com
 audrte.com
 audw.net
 aufp.io
@@ -7219,6 +7223,7 @@ cackle.me
 cacrc.org
 cadreon.com
 cadreon.s3.amazonaws.com
+cagenerator.pki.strln.net
 cahf4eed.mooo.com
 calconic.com
 calculatesymbols.com
@@ -7870,6 +7875,7 @@ checkm8.com
 checkmyapp.net
 checkout-sdk.bigcommerce.com
 checkout.com
+checkout.freemius.com
 checkstat.nl
 cheerfulrange.com
 chemicalcoach.com
@@ -7941,6 +7947,7 @@ ciksolre.net
 cil.isotope.com
 circularhub.com
 cisco-eagle.actonservice.com
+cisco.com
 ciszhp.gesundheitsfrage.net
 ciszhp.gutefrage.net
 ciszhp.motorradfrage.net
@@ -9131,6 +9138,7 @@ critictruck.com
 crittercism.com
 crkrce.growfood.pro
 crkrjb.naturativ.pl
+crl.prod.cagenerator.pki.strln.net
 crm-analytics.imweb.ru
 crm.childrens.com
 crm4d.com
@@ -9901,6 +9909,7 @@ dev.vvv.facebook.com
 devaltitude.com
 devcloudsoftware.com
 developer.amazon.com
+developer.android.com
 developer.microsoftmoderator.com
 developermedia.com
 developers.facebook.com
@@ -11890,6 +11899,8 @@ events.cid.samba.tv
 events.demoup.com
 events.fiverr.com
 events.guesttoguest.com
+events.httptoolkit.com
+events.httptoolkit.tech
 events.il.fi
 events.ingatlan.com
 events.jokerly.com
@@ -12738,6 +12749,7 @@ freegeoip.net
 freehostedscripts.net
 freelancers-team.org
 freelogs.com
+freemius.com
 freemyapps.com
 freeonline.it
 freeonlineusers.com
@@ -12769,6 +12781,7 @@ freshworks.com
 freshworksapi.com
 fresnel-events.vimeocdn.com
 fretfulfurniture.com
+frida.re
 friend.gc.apple.com
 friendbuy.com
 friends2follow.com
@@ -13493,6 +13506,7 @@ googleapi.club
 googlehosted.l.googleusercontent.com
 googleoptimize.com
 googleplay-store.com
+googlesource.com
 googlesyndication.com
 googletagmanager.com
 googletagservices.com
@@ -14578,6 +14592,8 @@ htmlstats.net
 http-inputs.clear.splunkcloudgc.com
 httpaccess.com
 httpool.com
+httptoolkit.com
+httptoolkit.tech
 htvapps.com
 hu-hu.facebook.com
 hu.google.com
@@ -15708,6 +15724,7 @@ jas.indeednps.com
 jatflh.pharmamarket.be
 jatxt.com
 jav789.com
+java.io
 javascriptcounter.appspot.com
 javbebe.com
 javbest.co
@@ -17736,6 +17753,7 @@ marketnewsvideo.com
 marketo.com
 marketo.net
 marketron.com
+markets.moneymade.io
 marketshot.com
 markitondemand.com
 marktjagd.de
@@ -19092,6 +19110,7 @@ moneycheesecolor.com
 moneycoincurrency.com
 moneydigitalcurrency.com
 moneyexpert.com
+moneymade.io
 moneymakercdn.com
 moneyxchanges.com
 mongoosemetrics.com
@@ -21190,6 +21209,7 @@ pkbefa.krc.com.tr
 pkc5.hardrockhoteltenerife.com
 pki-goog.l.google.com
 pki.goog
+pki.strln.net
 pkqeg5z3xffs.info
 pkwteile.de
 pl-pl.facebook.com
@@ -21613,6 +21633,7 @@ prod.benchmarkemail.com
 prod.bidr.io
 prod.boltdns.net
 prod.bugs.firebat.prime-video.amazon.dev
+prod.cagenerator.pki.strln.net
 prod.experiment.routing.cloudfront.aws.a2z.com
 prod.facebook.com
 prod.mozaws.net
@@ -26396,6 +26417,7 @@ stripecdn.map.fastly.net
 stripedburst.com
 stripst.com
 strivesidewalk.com
+strln.net
 stroeerdigitalgroup.de
 stroeerdp.de
 stroeermediabrands.de
@@ -30911,6 +30933,7 @@ www.cheap-ads.net
 www.chick-fil-astage.com
 www.chitika.com
 www.cibleclick.com
+www.cisco.com
 www.cityads.com
 www.cityads.ru
 www.civicscience.com
@@ -32395,24 +32418,3 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
-checkout.freemius.com
-freemius.com
-markets.moneymade.io
-moneymade.io
-accounts.httptoolkit.tech
-events.httptoolkit.tech
-httptoolkit.tech
-accounts.httptoolkit.com
-events.httptoolkit.com
-httptoolkit.com
-android.googlesource.com
-googlesource.com
-java.io
-developer.android.com
-frida.re
-cdn.botframework.com
-botframework.com
-appleid.cdn-apple.com
-cdn-apple.com
-audm.herokuapp.com
-herokuapp.com
