@@ -4024,6 +4024,7 @@ api.cnevids.com
 api.cnn.io
 api.codenotary.io
 api.condenast.io
+api.connectedcommunity.org
 api.content-ad.net
 api.convergepay.com
 api.cortana.ai
@@ -4052,6 +4053,7 @@ api.msn.com
 api.nextgen.guardianapps.co.uk
 api.no
 api.nobeta.com.br
+api.nypddev.com
 api.nytimes.com
 api.oadoi.org
 api.oadoi.org.herokudns.com
@@ -4585,6 +4587,8 @@ auth-launcher-em.hismarttv.com
 auth-launcher-na.hismarttv.com
 auth-na.hismarttv.com
 auth.adobe.com
+auth.lrcontent.com
+auth.lrcontent2.com
 auth.qat2.vigilantesdopeso.com.br
 auth.qat2.weightwatchers.ch
 auth.samsungosp.com
@@ -7551,6 +7555,7 @@ cdn.siftscience.com
 cdn.simpshopifyapps.com
 cdn.smartclip.net
 cdn.snigelweb.com
+cdn.social9.com
 cdn.sophi.io
 cdn.speedcurve.com
 cdn.sprintquery.com
@@ -8733,6 +8738,7 @@ connect.tghgo.org
 connect.uofuhealth.org
 connect.zebra.com
 connectad.io
+connectedcommunity.org
 connectfpc.zebra.com
 connectif.cloud
 connecting-to.com
@@ -10114,6 +10120,7 @@ discoveryeducation.com
 discreetfield.com
 diskpart.com
 disney.io
+disney.my.sentry.io
 disneyinternational.com
 dispensablestranger.com
 display.ravm.tv
@@ -17005,6 +17012,7 @@ lqpzdi.coppel.com
 lr-ingest.io
 lr.google.com
 lrcontent.com
+lrcontent2.com
 lrdnuu.shopee.co.th
 lrtzrm.aufsafari.de
 ls-apple.com
@@ -19353,6 +19361,7 @@ my.iheartradio.com
 my.jst.ai
 my.justuno.com
 my.salesforce.com
+my.sentry.io
 myaffiliateprogram.com
 myalphaspace1.com
 myamateurclips.com
@@ -19366,6 +19375,7 @@ mybuys.com
 mycdn.co
 mycliplister.com
 mycomm2.hackensackmeridian.org
+myconnectedcommunity.org
 mycounter.ua
 mydailycooking.net
 mydarkarms.com
@@ -20041,6 +20051,7 @@ nyltx.com
 nym1-ib.adnxs.com
 nym5c.bonlook.com
 nym5c.laura.ca
+nypddev.com
 nytimes.commdn.net
 nz.google.com
 nzmkzl.mytheresa.com
@@ -28775,6 +28786,7 @@ undrininvereb.info
 unequalbrake.com
 unevenstring.com
 unicast.uncensoreddns.org
+unicons.iconscout.com
 uniconsent.com
 unified-ter-na.hismarttv.com
 unifilabs.actonservice.com
@@ -31232,6 +31244,7 @@ www.mrctv.org
 www.msgr.com
 www.mundusinternational.com
 www.mxtads.com
+www.myconnectedcommunity.org
 www.myregistry.com
 www.myswitchads.com
 www.n176adserv.com
