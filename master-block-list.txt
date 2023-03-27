@@ -25494,6 +25494,7 @@ ssmr2.so-net.ne.jp
 sso-service.de
 sso.internetat.tv
 ssor.platform.californiatimes.com
+ssor.tribdss.com
 ssp.behave.com
 ssp.hinet.net
 ssp.rambler.ru
@@ -26898,6 +26899,7 @@ tags.msnbc.com
 tags.newscgp.com
 tags.op-palvelut.fi
 tags.refinery89.com
+tags.remixd.com
 tags.tiqcdn.com
 tagsrvcs.com
 tagtool.de
@@ -28352,6 +28354,7 @@ trialvariable.net
 trianglerank.net
 trib.al
 tribalfusion.com
+tribdss.com
 tribl.io
 triboomedia.it
 tricksinswiss.com
@@ -28509,6 +28512,7 @@ trustwave.blob.core.windows.net
 trustx.org
 trusty.org
 trustz.org
+truthsocial.com
 trvdp.com
 trvl-px.com
 trw12.com
@@ -31487,6 +31491,7 @@ www.transvoyant.com
 www.trendage.com
 www.trenddigital.vn
 www.trendmd.com
+www.tribdss.com
 www.tribl.io
 www.trustcor.com
 www.trxsystems.com
@@ -32431,8 +32436,3 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
-tags.remixd.com
-remixd.com
-ssor.tribdss.com
-tribdss.com
-www.tribdss.com
