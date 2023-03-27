@@ -497,6 +497,7 @@
 (\.|^)*reporting\.
 (\.|^)*resource*\.
 (\.|^)*retail*\.
+(\.|^)*rmbl*\.
 (\.|^)*roll*\.
 (\.|^)*rontar*\.
 (\.|^)*root*\.
@@ -633,6 +634,7 @@
 (\.|^)*trust*\.
 (\.|^)*trust\.
 (\.|^)*trustarc*\.
+(\.|^)*truth*\.
 (\.|^)*tunnel*\.
 (\.|^)*universal*\.
 (\.|^)*unruly-?media*\.
