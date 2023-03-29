@@ -6869,6 +6869,7 @@ boostcom.m.facebook.com
 boostingads.com
 boostmobile.com
 bootcss.com
+bootstrap.smartsuppchat.com
 bootstrapcdn.com
 borderfree.com
 bordertraffic.com
@@ -7473,6 +7474,7 @@ cdn.appdynamics.com
 cdn.apple-mapkit.com
 cdn.arkoselabs.com
 cdn.atdmt.com
+cdn.attn.tv
 cdn.b0e8.com
 cdn.bibblio.org
 cdn.blueconic.net
@@ -7513,6 +7515,7 @@ cdn.inpwrd.net
 cdn.instapagemetrics.com
 cdn.irsdn.net
 cdn.iubenda.com
+cdn.judge.me
 cdn.keywee.co
 cdn.krxd.net
 cdn.kustomerapp.com
@@ -7526,6 +7529,7 @@ cdn.mojoreporter.com
 cdn.mozilla.net
 cdn.mylo.id
 cdn.net.elogia.net
+cdn.nfcube.com
 cdn.omnivirt.com
 cdn.onesignal.com
 cdn.onthe.io
@@ -9117,6 +9121,7 @@ createsend1.com
 creative-mobile.com
 creative-serving.com
 creative.ak.facebook.com
+creative.attn.tv
 creative.whi.co.nz
 creativecdn.com
 creativecirclemedia.com
@@ -9626,6 +9631,8 @@ dashhudson.com
 dashingdirt.com
 dashingsweater.com
 dashjs.org
+data-analytics.com
+data-analytics.top
 data-dynamic.net
 data-formula.com
 data-ssl.pnet.co.za
@@ -9683,7 +9690,10 @@ data1.bell.ca
 data1.sparkasse.at
 data1.virginmobile.ca
 data3.mobile.pendo.io
+dataanalytics.com
+dataanalytics.top
 databasemeans.net
+databrain.com
 datacamp.com
 dataconnector.corp.google.com
 dataconnector.google.com
@@ -10455,6 +10465,7 @@ drct2u.com
 drdxnk.aformula.co.kr
 dream.co.id
 dreamdata.cloud
+dreamdata.io
 dreamlab.pl
 drift.com
 driftt.com
@@ -10501,6 +10512,7 @@ dtprofit.com
 dts.innovid.com
 dtscout.com
 dtstmio.com
+dttrk.com
 dtxngr.com
 du.google.com
 du2k.bhv.fr
@@ -15481,6 +15493,7 @@ intim-media.net
 intljs.rmtag.com
 intouch.schlesingergroup.com
 intrado.com
+intstafeed.nfcube.com
 intuitext.ro
 intuitsolutions-apps.net
 intuitvisitorid.api.intuit.com
@@ -15920,6 +15933,7 @@ jsuol.com.br
 jt.google.com
 jtvnw.net
 ju.google.com
+judge.me
 judge.me
 judgeauthority.com
 juiceadv.com
@@ -23666,6 +23680,7 @@ sdhfbvd.com
 sdk-info.gimbal.com
 sdk.beemray.com
 sdk.hockeyapp.net
+sdk.mrf.io
 sdk.postscript.io
 sdk.privacy-center.org
 sdk.sharethrough.com
@@ -27946,6 +27961,7 @@ tracker.cdnbye.com
 tracker.cds-tracking.com
 tracker.cpapath.com
 tracker.data-vp.com
+tracker.databrain.com
 tracker.downdetector.com
 tracker.esputnik.com
 tracker.euroweb.net
@@ -30005,6 +30021,7 @@ widengle.com
 wideopenmediagroup.com
 widerplanet.com
 widespace.com
+widget-v2.smartsuppcdn.com
 widget.cloud.opta.net
 widget.engageya.com
 widget.intercom.io
@@ -31029,6 +31046,7 @@ www.doubleverify.com
 www.draze.com
 www.drip.com
 www.dstillery.com
+www.dwin1.com
 www.dwin2.com
 www.dynad.net
 www.ea.com
@@ -31407,6 +31425,7 @@ www.smart4ads.com
 www.smartadserver.com
 www.smartclip.net
 www.smartstream.tv
+www.smartsuppchat.com
 www.soapcreative.com
 www.socialminer.com
 www.sonobi.com
