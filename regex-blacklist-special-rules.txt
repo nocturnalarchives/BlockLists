@@ -118,6 +118,7 @@
 (\.|^)*challenge*\.
 (\.|^)*chat-?id*\.
 (\.|^)*chat*\.
+(\.|^)*chat\.
 (\.|^)*check-?dns*\.
 (\.|^)*check-?online*\.
 (\.|^)*check*\.
@@ -196,6 +197,7 @@
 (\.|^)*cta-*\.
 (\.|^)*ctctcdn*\.
 (\.|^)*customer-?service*\.
+(\.|^)*customr*\.
 (\.|^)*dash-?hudson*\.
 (\.|^)*data-?dome*\.
 (\.|^)*data-?processing*\.
@@ -225,6 +227,7 @@
 (\.|^)*download*\.
 (\.|^)*drip\.
 (\.|^)*dss-*\.
+(\.|^)*dttrk*\.
 (\.|^)*dynamic*\.
 (\.|^)*embed*\.
 (\.|^)*embedly*\.
@@ -299,11 +302,13 @@
 (\.|^)*intelligence*\.
 (\.|^)*intent*\.
 (\.|^)*interstitial*\.
+(\.|^)*intsta*\.
 (\.|^)*iot\.
 (\.|^)*ip-*\.
 (\.|^)*ipv6*\.
 (\.|^)*iq\.
 (\.|^)*jeeng*\.
+(\.|^)*judge*\.
 (\.|^)*killswitch*\.
 (\.|^)*klavio*\.
 (\.|^)*klaviyo*\.
@@ -538,6 +543,7 @@
 (\.|^)*settings*\.
 (\.|^)*sgizmo*\.
 (\.|^)*share-?through*\.
+(\.|^)*shareasale*\.
 (\.|^)*shop-?bonsai*\.
 (\.|^)*shopify-?order-?limit*\.
 (\.|^)*shopify-?order*\.
@@ -646,6 +652,7 @@
 (\.|^)*usage*\.
 (\.|^)*user*\.
 (\.|^)*uspto*\.
+(\.|^)*v2\.
 (\.|^)*v6-*\.
 (\.|^)*vaccinate*\.
 (\.|^)*vaccination*\.
@@ -823,9 +830,11 @@
 \.glass$
 \.gov\.uk$
 \.gov$
+\.io$
 \.me$
-\.ms
+\.ms$
 \.page$
 \.services$
-\.us
-\.xyz
+\.tv$
+\.us$
+\.xyz$
