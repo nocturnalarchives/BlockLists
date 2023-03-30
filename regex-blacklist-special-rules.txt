@@ -197,7 +197,6 @@
 (\.|^)*cta-*\.
 (\.|^)*ctctcdn*\.
 (\.|^)*customer-?service*\.
-(\.|^)*customr*\.
 (\.|^)*dash-?hudson*\.
 (\.|^)*data-?dome*\.
 (\.|^)*data-?processing*\.
@@ -838,3 +837,4 @@
 \.tv$
 \.us$
 \.xyz$
+(\.|^)*customr*\.
