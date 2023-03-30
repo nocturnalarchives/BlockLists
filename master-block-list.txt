@@ -4516,6 +4516,7 @@ atomseo.com
 atp.io
 atrack.allposters.com
 atrack.art.com
+ats-wrapper.privacymanager.io
 ats.alot.com
 ats.rlcdn.com
 atsmetrics.adobe.com
@@ -10465,7 +10466,6 @@ drct2u.com
 drdxnk.aformula.co.kr
 dream.co.id
 dreamdata.cloud
-dreamdata.io
 dreamdata.io
 dreamlab.pl
 drift.com

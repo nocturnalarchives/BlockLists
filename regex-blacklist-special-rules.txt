@@ -456,6 +456,7 @@
 (\.|^)*premium*\.
 (\.|^)*presence*\.
 (\.|^)*prism*\.
+(\.|^)*privacy-?manager*\.
 (\.|^)*privacy*\.
 (\.|^)*private*\.
 (\.|^)*pro\.
@@ -563,6 +564,7 @@
 (\.|^)*smart-ad*\.
 (\.|^)*smartclip*\.
 (\.|^)*smile*\.
+(\.|^)*snap-?kit*\.
 (\.|^)*snare*\.
 (\.|^)*snigel-?web*\.
 (\.|^)*snippet*\.
