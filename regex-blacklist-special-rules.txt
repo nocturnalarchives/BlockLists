@@ -840,4 +840,6 @@
 \.tv$
 \.us$
 \.xyz$
-
+(\.|^)*contributor*\.
+(\.|^)*contribute*\.
+(\.|^)*sefaria*\.

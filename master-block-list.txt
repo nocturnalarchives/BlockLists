@@ -32453,4 +32453,9 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
+spot.im
+launcher.spot.im
+contributor.google.com
+www.sefaria.org
+sefaria.org
 
