@@ -843,3 +843,5 @@
 (\.|^)*contributor*\.
 (\.|^)*contribute*\.
 (\.|^)*sefaria*\.
+(\.|^)apps?\.
+
