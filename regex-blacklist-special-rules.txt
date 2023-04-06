@@ -166,6 +166,7 @@
 (\.|^)*constant-?contact*\.
 (\.|^)*consumer*\.
 (\.|^)*content*\.
+(\.|^)*contribute*\.
 (\.|^)*contributor*\.
 (\.|^)*conversation*\.
 (\.|^)*conversion*\.
@@ -532,6 +533,7 @@
 (\.|^)*search*\.
 (\.|^)*secure-?pubads*\.
 (\.|^)*secure*\.
+(\.|^)*sefaria*\.
 (\.|^)*segment-?data*\.
 (\.|^)*segment*\.
 (\.|^)*sellup*\.
@@ -700,9 +702,11 @@
 (\.|^)ad\.
 (\.|^)ads?\.
 (\.|^)ads\.
+(\.|^)aidc\.
 (\.|^)alerts?\.
 (\.|^)api\.
 (\.|^)app\.
+(\.|^)apps?\.
 (\.|^)auth*\.
 (\.|^)auth\.
 (\.|^)aviary\.amazon\.com$
@@ -840,6 +844,3 @@
 \.tv$
 \.us$
 \.xyz$
-(\.|^)*contributor*\.
-(\.|^)*contribute*\.
-(\.|^)*sefaria*\.

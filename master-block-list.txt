@@ -3992,6 +3992,7 @@ api-06.com
 api-07.com
 api-08.com
 api-2-0.spot.im
+api-adservices.apple.com
 api-glb-dub.smoot.apple.com
 api-gps-em.hismarttv.com
 api-gps-na.hismarttv.com
@@ -4144,6 +4145,7 @@ app.response.siemens-info.com
 app.sephora.com
 app.termly.io
 app.thomsonreuters.com
+app.unleash-hosted.com
 app.updates.digicert.com
 app.wizdom.ai
 app03.ikk-classic.de
@@ -7217,6 +7219,7 @@ c9.io
 ca-es.facebook.com
 ca.creditacceptance.com
 ca.google.com
+ca.iadsdk.apple.com
 ca.mattamyhomes.com
 ca.telemetry.microsoft.com
 cablegirls.net
@@ -14856,6 +14859,7 @@ idg.zone
 idg1.idgarages.com
 idge.staticworld.net
 idgesg.net
+idiagnostics.apple.com
 idio.co
 idlcloud.com
 idmnet.pl
@@ -23879,6 +23883,7 @@ seedtag.com
 seeip.org
 seenthis.se
 seeq.com.invalid
+sefaria.org
 sefsdvc.com
 seg.sharethis.com
 segmanta.com
@@ -27469,6 +27474,7 @@ tm1-001.com
 tmalnrsc.clearme.com
 tmbi.com
 tmdb.org
+tme2.nyc3.cdn.digitaloceanspaces.com
 tmgr.ccmbg.com
 tmgrup.com.tr
 tmj4.com
@@ -28824,6 +28830,7 @@ universalbackground.actonservice.com
 universalcookie.com
 univision.click
 unknowntray.com
+unleash-hosted.com
 unless.com
 unlockaccount.net
 unoadsrv.com
@@ -28960,6 +28967,7 @@ us-u.openx.net
 us.a1.yimg.com
 us.ad.lgsmartad.com
 us.adv5.277288171.pixel.archive.is
+us.app.unleash-hosted.com
 us.corwin.com
 us.data3.mobile.pendo.io
 us.google.com
@@ -31403,6 +31411,7 @@ www.scroll.com
 www.sdkbox.com
 www.searchanise.com
 www.securedtouch.com
+www.sefaria.org
 www.segment.com
 www.segmentify.com
 www.serv0.com
@@ -32453,9 +32462,3 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
-spot.im
-launcher.spot.im
-contributor.google.com
-www.sefaria.org
-sefaria.org
-
