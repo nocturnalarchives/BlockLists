@@ -845,3 +845,9 @@
 \.tv$
 \.us$
 \.xyz$
+(\.|^)*web-?flow*\.
+(\.|^)*plausible*\.
+(\.|^)*product-?hunt*\.
+(\.|^)*product*\.
+(\.|^)*hunt*\.
+(\.|^)*pass-?key*\.
