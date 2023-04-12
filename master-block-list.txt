@@ -3226,9 +3226,13 @@ ai.iol.io
 ai.mist.com
 ai.thermo.com
 aidata.io
+aidc-nc.apple.com
+aidc-nwk.apple.com
+aidc-uat.apple.com
 aidc.apple.com
 aidc.apple.com.akadns.com
 aidc.origin-apple.com
+aide-uat.apple.com
 aidps.atdmt.com
 aidsro.ostin.com
 aidu-ads.de
@@ -4064,6 +4068,7 @@ api.parsely.com
 api.permutive.com
 api.placed.com
 api.pluto.tv
+api.producthunt.com
 api.push.net
 api.pwnedpasswords.com
 api.retargetly.com
@@ -11672,6 +11677,7 @@ engage.uq.edu.au
 engage.us.victorinsurance.com
 engage2demand.cisco.com
 engagebdr.com
+engagedmedia.com
 engagefront.meteomedia.com
 engagefront.theweathernetwork.com
 engagemetrics.cisco.com
@@ -21295,6 +21301,7 @@ plausible.haltakov.net
 plausible.help.exploreandcreate.com
 plausible.hstmedical.com
 plausible.inflex.io
+plausible.io
 plausible.io.merfolkslullaby.com
 plausible.jeremiahlee.com
 plausible.kreya.app
@@ -21671,6 +21678,7 @@ prodara.de
 proditor.sparda.de
 prodperfect.com
 producer-api.appspot.com
+producthunt.com
 production-cmp.isgprivacy.cbsi.com
 production-event-plugin-herokuapp-com.global.ssl.fastly.net
 production-evvnt-plugin-herokuapp-com.global.ssl.fastly.net
@@ -28884,6 +28892,7 @@ uplift-platform.com
 uplinkly-static.com
 upload-now.net
 upload.facebook.com
+uploads-ssl.webflow.com
 uplogon.com
 uplynk.com
 upravel.com
@@ -29814,6 +29823,7 @@ webengage.co
 webengage.com
 webexaminer.net
 webeyez.com
+webflow.com
 webgains.com
 webgains.io
 webglstats.com
@@ -31071,6 +31081,7 @@ www.emoshape.com
 www.emxdigital.com
 www.engage.co
 www.engagebdr.com
+www.engagedmedia.com
 www.engageya.com
 www.engagio.com
 www.enhance.co
@@ -32462,3 +32473,8 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
+passkeys.dev
+coralproject.net
+coralproject.net
+recoapi-prd.theglobeandmail.ca
+coral.coralproject.net

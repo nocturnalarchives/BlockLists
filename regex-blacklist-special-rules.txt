@@ -236,6 +236,7 @@
 (\.|^)*encrypt*\.
 (\.|^)*encrypted*\.
 (\.|^)*engage*\.
+(\.|^)*engaged-?media*\.
 (\.|^)*engagement*\.
 (\.|^)*event*\.
 (\.|^)*every-?action*\.
@@ -844,3 +845,9 @@
 \.tv$
 \.us$
 \.xyz$
+(\.|^)*web-?flow*\.
+(\.|^)*plausible*\.
+(\.|^)*product-?hunt*\.
+(\.|^)*product*\.
+(\.|^)*hunt*\.
+(\.|^)*pass-?key*\.
