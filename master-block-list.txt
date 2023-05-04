@@ -32478,3 +32478,14 @@ coralproject.net
 coralproject.net
 recoapi-prd.theglobeandmail.ca
 coral.coralproject.net
+logrocket.com
+cdn.logrocket.com
+logrocket.io
+r.logrocket.io
+mrkp-static-production.themarkup.org
+themarkup.org
+bingapis.com
+izatcloud.net
+app.everviz.com
+everviz.com
+
