@@ -851,3 +851,10 @@
 (\.|^)*product*\.
 (\.|^)*hunt*\.
 (\.|^)*pass-?key*\.
+(\.|^)*log-?rocket*\.
+(\.|^)log*\.
+(\.|^)*log\.
+(\.|^)*the-?markup*\.
+(\.|^)*markup*\.
+(\.|^)*bing-?api*\.
+(\.|^)*izat-?cloud*\.
