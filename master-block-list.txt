@@ -32488,4 +32488,6 @@ bingapis.com
 izatcloud.net
 app.everviz.com
 everviz.com
+cdn-settings.segment.com
+segment.com
 

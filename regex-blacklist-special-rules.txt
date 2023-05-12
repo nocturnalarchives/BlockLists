@@ -858,3 +858,10 @@
 (\.|^)*markup*\.
 (\.|^)*bing-?api*\.
 (\.|^)*izat-?cloud*\.
+(\.|^)*segment*\.
+(\.|^)*setting*\.
+(\.|^)*control*\.
+(\.|^)*fire-?base*\.
+(\.|^)*segments?\.
+(\.|^)*settings?\.
+(\.|^)*controls?\.
