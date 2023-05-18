@@ -865,3 +865,5 @@
 (\.|^)*segments?\.
 (\.|^)*settings?\.
 (\.|^)*controls?\.
+(\.|^)*firebase-?remote*\.
+(\.|^)*firebase-?install*\.
