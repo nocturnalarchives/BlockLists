@@ -32490,4 +32490,11 @@ app.everviz.com
 everviz.com
 cdn-settings.segment.com
 segment.com
+jnn-pa.googleapis.com
+identitytoolkit.googleapis.com
+firestore.googleapis.com
+securetoken.googleapis.com
+addevent.com
+fonts.bunny.net
+bunny.net
 
