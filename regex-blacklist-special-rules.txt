@@ -96,6 +96,7 @@
 (\.|^)*bid*\.
 (\.|^)*bidde?r*\.
 (\.|^)*bidder*\.
+(\.|^)*bing-?api*\.
 (\.|^)*blob*\.
 (\.|^)*braze*\.
 (\.|^)*brealtime*\.
@@ -168,6 +169,8 @@
 (\.|^)*content*\.
 (\.|^)*contribute*\.
 (\.|^)*contributor*\.
+(\.|^)*control*\.
+(\.|^)*controls?\.
 (\.|^)*conversation*\.
 (\.|^)*conversion*\.
 (\.|^)*convert*\.
@@ -246,7 +249,11 @@
 (\.|^)*fact-?check*\.
 (\.|^)*fastlane-?adv*\.
 (\.|^)*filesusr*\.
+(\.|^)*fire-?base*\.
+(\.|^)*firebase-?install*\.
 (\.|^)*firebase-?installation*\.
+(\.|^)*firebase-?remote*\.
+(\.|^)*firmofthefuture*\.
 (\.|^)*firmware-?update*\.
 (\.|^)*firmware*\.
 (\.|^)*foresee*\.
@@ -287,6 +294,7 @@
 (\.|^)*http-?tool-?kit*\.
 (\.|^)*http-?tool*\.
 (\.|^)*human*\.
+(\.|^)*hunt*\.
 (\.|^)*i?phone*\.
 (\.|^)*iadsdk*\.
 (\.|^)*identity*\.
@@ -309,6 +317,7 @@
 (\.|^)*ip-*\.
 (\.|^)*ipv6*\.
 (\.|^)*iq\.
+(\.|^)*izat-?cloud*\.
 (\.|^)*jeeng*\.
 (\.|^)*judge*\.
 (\.|^)*killswitch*\.
@@ -345,8 +354,10 @@
 (\.|^)*localization*\.
 (\.|^)*locate*\.
 (\.|^)*location*\.
+(\.|^)*log-?rocket*\.
 (\.|^)*log-ingestion-eu*\.
 (\.|^)*log-ingestion*\.
+(\.|^)*log\.
 (\.|^)*logger*\.
 (\.|^)*logs-?([0-9a-z]+)*\.
 (\.|^)*logs*\.
@@ -360,6 +371,7 @@
 (\.|^)*marketing-?hub*\.
 (\.|^)*marketing*\.
 (\.|^)*marketing\.
+(\.|^)*markup*\.
 (\.|^)*mas-ssr-ad*\.
 (\.|^)*match*\.
 (\.|^)*matchedimages*\.
@@ -430,6 +442,7 @@
 (\.|^)*parsed-?data*\.
 (\.|^)*partner*\.
 (\.|^)*partnerstack*\.
+(\.|^)*pass-?key*\.
 (\.|^)*passport*\.
 (\.|^)*password*\.
 (\.|^)*patreon*\.
@@ -447,6 +460,7 @@
 (\.|^)*pinpoint*\.
 (\.|^)*pixel*\.
 (\.|^)*platform*\.
+(\.|^)*plausible*\.
 (\.|^)*playback*\.
 (\.|^)*podcast*\.
 (\.|^)*podium*\.
@@ -464,6 +478,8 @@
 (\.|^)*pro\.
 (\.|^)*prod-*\.
 (\.|^)*producer*\.
+(\.|^)*product-?hunt*\.
+(\.|^)*product*\.
 (\.|^)*production*\.
 (\.|^)*Production*\.
 (\.|^)*project*\.
@@ -537,6 +553,7 @@
 (\.|^)*sefaria*\.
 (\.|^)*segment-?data*\.
 (\.|^)*segment*\.
+(\.|^)*segments?\.
 (\.|^)*sellup*\.
 (\.|^)*sentry*\.
 (\.|^)*serice*\.
@@ -544,6 +561,7 @@
 (\.|^)*service*\.
 (\.|^)*session*\.
 (\.|^)*setting*\.
+(\.|^)*settings?\.
 (\.|^)*settings*\.
 (\.|^)*sgizmo*\.
 (\.|^)*share-?through*\.
@@ -623,6 +641,7 @@
 (\.|^)*test*\.
 (\.|^)*testing*\.
 (\.|^)*thawte*\.
+(\.|^)*the-?markup*\.
 (\.|^)*thecvf*\.
 (\.|^)*threat*\.
 (\.|^)*time-?zone*\.
@@ -685,6 +704,7 @@
 (\.|^)*washingtonpost-*\.
 (\.|^)*weather*\.
 (\.|^)*web-?cam*\.
+(\.|^)*web-?flow*\.
 (\.|^)*web.app*\.
 (\.|^)*webpkgcache*\.
 (\.|^)*webpurify*\.
@@ -776,6 +796,7 @@
 (\.|^)launcher\.
 (\.|^)leads*\.
 (\.|^)loc\.
+(\.|^)log*\.
 (\.|^)log\.
 (\.|^)logs?-?([0-9a-z]+)\.
 (\.|^)logs?\.
@@ -845,25 +866,3 @@
 \.tv$
 \.us$
 \.xyz$
-(\.|^)*web-?flow*\.
-(\.|^)*plausible*\.
-(\.|^)*product-?hunt*\.
-(\.|^)*product*\.
-(\.|^)*hunt*\.
-(\.|^)*pass-?key*\.
-(\.|^)*log-?rocket*\.
-(\.|^)log*\.
-(\.|^)*log\.
-(\.|^)*the-?markup*\.
-(\.|^)*markup*\.
-(\.|^)*bing-?api*\.
-(\.|^)*izat-?cloud*\.
-(\.|^)*segment*\.
-(\.|^)*setting*\.
-(\.|^)*control*\.
-(\.|^)*fire-?base*\.
-(\.|^)*segments?\.
-(\.|^)*settings?\.
-(\.|^)*controls?\.
-(\.|^)*firebase-?remote*\.
-(\.|^)*firebase-?install*\.
