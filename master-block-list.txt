@@ -8787,9 +8787,12 @@ consent.cookiebot.com
 consent.dropbox.com
 consent.google.com
 consent.inm.ie
+consent.intuit.quickbooksconnect.com
+consent.intuit.tsheets.com
 consent.is
 consent.trustarc.com
 consent.truste.com
+consent.www.firmofthefuture.com
 consentag.eu
 consentprovider.leadexec.com
 consistentcart.com
@@ -10487,6 +10490,7 @@ dreamdata.cloud
 dreamdata.io
 dreamlab.pl
 drift.com
+driftnet.io
 driftt.com
 drip.com
 drivcat.com
@@ -12511,6 +12515,7 @@ firestore.googleapis.com
 firestormmedia.tv
 firetop.su
 fireworktv.com
+firmofthefuture.com
 first.nova.cz
 firstgrabber.com
 firstimpression.io
@@ -31123,6 +31128,7 @@ www.fbcdn.net
 www.fidelity-media.com
 www.financialjuice.com
 www.findlawimages.com
+www.firmofthefuture.com
 www.fluct.jp
 www.fonts.evyy.net
 www.fonts.go2cloud.org
@@ -32497,11 +32503,9 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
-driftnet.io
-
-
-
-<<<<<<< HEAD
-
-=======
->>>>>>> 342e5c3ae1e47623a3034dbd350f8e54ea6e7d49
+brightdata.com
+cdn.mybrowseraddon.com
+mybrowseraddon.com
+safe-browsing-quorum.privacy.ghostery.net
+privacy.ghostery.net
+ghostery.net
