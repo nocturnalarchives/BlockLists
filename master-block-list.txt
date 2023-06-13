@@ -1107,6 +1107,7 @@ accesstra.de
 accesstrade.co.id
 accesstrade.net
 accomodation-tastes.net
+account-link.nabucasa.com
 accountant-audio.com
 accountcanceled.com
 accountkit.com
@@ -4082,6 +4083,7 @@ api.tiles.mapbox.com
 api.time.com
 api.tinypass.com
 api.uca.cloud.unity3d.com
+api.update.ledvance.com
 api.userleap.com
 api.verizon.com
 api.vungle.com
@@ -6981,6 +6983,7 @@ briggbrought.pro
 bright.bncnt.com
 brightcove.com
 brightcove.net
+brightdata.com
 brightedge.com
 brighteon.com
 brightfunnel.com
@@ -7545,6 +7548,7 @@ cdn.mediavoice.com
 cdn.mg2connext.com
 cdn.mojoreporter.com
 cdn.mozilla.net
+cdn.mybrowseraddon.com
 cdn.mylo.id
 cdn.net.elogia.net
 cdn.nfcube.com
@@ -10489,6 +10493,7 @@ dream.co.id
 dreamdata.cloud
 dreamdata.io
 dreamlab.pl
+dresden-elektronik.de
 drift.com
 driftnet.io
 driftt.com
@@ -12916,6 +12921,7 @@ fuzzyweather.com
 fv.google.com
 fvpsgi.niceonesa.com
 fw.google.com
+fw.ota.homesmart.ikea.net
 fwcdn1.com
 fwdcdn.com
 fwmrm.net
@@ -14520,6 +14526,7 @@ holiday4u.work
 hollandbusinessadvertising.nl
 hollowshake.com
 hollydeal.club
+home-assistant.io
 homebook.pl
 homedepot-app.quantummetric.com
 homedepot.demdex.net
@@ -14945,6 +14952,7 @@ ijdewp.hobium.com
 ijhlca.lulus.com
 ijypyy.fool.ca
 ik.google.com
+ikea.net
 ikomek.info
 il.google.com
 ilbanner.com
@@ -16477,6 +16485,7 @@ learn.uwindsor.ca
 lease.leasevergelijker.nl
 leavehomego.com
 leclerc.m.facebook.com
+ledvance.com
 lee.blueconic.net
 left5lock.com
 leftliquid.com
@@ -17828,6 +17837,9 @@ mas-sandbox.marsh.com
 mas-sdk.amazon.com
 mas.nth.ch
 mas.sector.sk
+mask-api.icloud.com
+mask-h2.icloud.com
+mask.icloud.com
 mass1soma.com
 massagetax.co
 massariuscdn.com
@@ -19528,6 +19540,7 @@ n69.com
 na.google.com
 na.prism.digital.amazon.dev
 na103.content.force.com
+nabucasa.com
 nadavi.net
 nagich.co.il
 nagich.com
@@ -20659,6 +20672,7 @@ ot.obi.ru
 ot.obi.si
 ot.obi.sk
 ota.cartrawler.com
+ota.homesmart.ikea.net
 ota.lokalise.co
 otaserve.net
 otdaft.hotelcareer.de
@@ -21088,6 +21102,7 @@ phonestats.net
 phonewagon.com
 phonograph2.voxmedia.com
 phoossax.net
+phoscon.de
 photo-afisha.net
 photo-my.net
 photographpan.com
@@ -27550,6 +27565,7 @@ toi-125b.com
 toimg.xyz
 tojrhz.silvergoldbull.com
 tokei.upstract.com
+token.safebrowsing.apple
 tokyoghoulre.com
 tommyfame.com
 tomorrowpastno.com
@@ -28898,6 +28914,7 @@ up.pixel.ad
 up.video
 upaffiliate.io
 upapi.net
+update.ledvance.com
 updateapps.net
 updated.com
 updatedchargers.com
@@ -29239,6 +29256,7 @@ verizontelecom.hb-api.omtrdc.net
 verizontelecom.tt.omtrdc.net
 verizonwireless.com
 verseballs.com
+version.home-assistant.io
 vertadnet.com
 vertamedia.com
 vertebrae-axis.com
@@ -31090,6 +31108,7 @@ www.disqusads.com
 www.dnps.com
 www.doubleverify.com
 www.draze.com
+www.dresden-elektronik.de
 www.drip.com
 www.dstillery.com
 www.dwin2.com
@@ -32503,9 +32522,3 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
-brightdata.com
-cdn.mybrowseraddon.com
-mybrowseraddon.com
-safe-browsing-quorum.privacy.ghostery.net
-privacy.ghostery.net
-ghostery.net

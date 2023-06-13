@@ -121,6 +121,8 @@
 (\.|^)*chat*\.
 (\.|^)*chat\.
 (\.|^)*check-?dns*\.
+(\.|^)*check-?doh*\.
+(\.|^)*check-?dot*\.
 (\.|^)*check-?online*\.
 (\.|^)*check*\.
 (\.|^)*chimp*\.
@@ -229,14 +231,17 @@
 (\.|^)*double-?click*\.
 (\.|^)*double-?verify*\.
 (\.|^)*download*\.
+(\.|^)*dresden*\.
 (\.|^)*drip\.
 (\.|^)*dss-*\.
 (\.|^)*dttrk*\.
 (\.|^)*dynamic*\.
+(\.|^)*elektronik*\.
 (\.|^)*embed*\.
 (\.|^)*embedly*\.
 (\.|^)*emxdgt*\.
 (\.|^)*encrypt*\.
+(\.|^)*encrypt\.
 (\.|^)*encrypted*\.
 (\.|^)*engage*\.
 (\.|^)*engaged-?media*\.
@@ -288,6 +293,7 @@
 (\.|^)*health*\.
 (\.|^)*heap-?analytics*\.
 (\.|^)*heroku*\.
+(\.|^)*home-?smart*\.
 (\.|^)*honey-?badger*\.
 (\.|^)*host*\.
 (\.|^)*hsbc-*\.
@@ -298,6 +304,7 @@
 (\.|^)*i?phone*\.
 (\.|^)*iadsdk*\.
 (\.|^)*identity*\.
+(\.|^)*identify*\.
 (\.|^)*img-?ssl*\.
 (\.|^)*improve*\.
 (\.|^)*imrworldwide*\.
@@ -337,7 +344,9 @@
 (\.|^)*lead-?gen*\.
 (\.|^)*lead-?page*\.
 (\.|^)*leads\.
+(\.|^)*led-?vance*\.
 (\.|^)*lencr*\.
+(\.|^)*lets-?encrypt*\.
 (\.|^)*letsencrypt*\.
 (\.|^)*lgsmartad*\.
 (\.|^)*lijit*\.
@@ -403,6 +412,7 @@
 (\.|^)*myid*\.
 (\.|^)*myphotodna*\.
 (\.|^)*myshopify*\.
+(\.|^)*nabu-?casa*\.
 (\.|^)*ncmec*\.
 (\.|^)*netclean*\.
 (\.|^)*network*\.
@@ -437,6 +447,8 @@
 (\.|^)*order-?limit*\.
 (\.|^)*osano*\.
 (\.|^)*outbrain*\.
+(\.|^)*pa?wned-?passwords*\.
+(\.|^)*pa?wned*\.
 (\.|^)*pardot*\.
 (\.|^)*parse*\.
 (\.|^)*parsed-?data*\.
@@ -445,6 +457,7 @@
 (\.|^)*pass-?key*\.
 (\.|^)*passport*\.
 (\.|^)*password*\.
+(\.|^)*passwords?\.
 (\.|^)*patreon*\.
 (\.|^)*pay-?wall*\.
 (\.|^)*pdnasampleimages*\.
@@ -583,6 +596,7 @@
 (\.|^)*smart-?phone*\.
 (\.|^)*smart-?themostat*\.
 (\.|^)*smart-ad*\.
+(\.|^)*smart*\.
 (\.|^)*smartclip*\.
 (\.|^)*smile*\.
 (\.|^)*snap-?kit*\.
@@ -669,6 +683,7 @@
 (\.|^)*universal*\.
 (\.|^)*unruly-?media*\.
 (\.|^)*update*\.
+(\.|^)*updates?\.
 (\.|^)*upload*\.
 (\.|^)*usabilla*\.
 (\.|^)*usage-eu*\.
@@ -738,6 +753,7 @@
 (\.|^)bwbx\.
 (\.|^)cagenerator\.
 (\.|^)check-?online\.
+(\.|^)check*\.
 (\.|^)chromium*\.
 (\.|^)chromium\.
 (\.|^)ck\.
@@ -758,9 +774,12 @@
 (\.|^)devices?\.
 (\.|^)digital\.
 (\.|^)dns*\.
+(\.|^)dns\.
 (\.|^)doh*\.
+(\.|^)doh\.
 (\.|^)domain*\.
 (\.|^)dot*\.
+(\.|^)dot\.
 (\.|^)drip*\.
 (\.|^)drip\.
 (\.|^)elements?\.
@@ -811,6 +830,7 @@
 (\.|^)omniture*\.
 (\.|^)omniture\.
 (\.|^)oscp\.
+(\.|^)ota\.
 (\.|^)partners?\.
 (\.|^)pendo\.
 (\.|^)phone-ld\.
@@ -843,6 +863,7 @@
 (\.|^)telemetry\.
 (\.|^)traffic*\.
 (\.|^)trust*\.
+(\.|^)updates?\.
 (\.|^)v6\.
 (\.|^)valid\.
 (\.|^)validate\.
