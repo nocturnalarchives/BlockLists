@@ -72,6 +72,7 @@
 (\.|^)*app-?analytic*\.
 (\.|^)*app-?center*\.
 (\.|^)*app-?spot*\.
+(\.|^)*app-?sync*\.
 (\.|^)*app\.
 (\.|^)*appassets*\.
 (\.|^)*appdynamics*\.
@@ -213,7 +214,10 @@
 (\.|^)*demand*\.
 (\.|^)*demdex*\.
 (\.|^)*detect*\.
+(\.|^)*dev-?tool*\.
 (\.|^)*developer*\.
+(\.|^)*device-?messag*\.
+(\.|^)*device-?messaging*\.
 (\.|^)*device-?provisioning*\.
 (\.|^)*device*\.
 (\.|^)*diagnostic*\.
@@ -303,8 +307,8 @@
 (\.|^)*hunt*\.
 (\.|^)*i?phone*\.
 (\.|^)*iadsdk*\.
-(\.|^)*identity*\.
 (\.|^)*identify*\.
+(\.|^)*identity*\.
 (\.|^)*img-?ssl*\.
 (\.|^)*improve*\.
 (\.|^)*imrworldwide*\.
@@ -392,6 +396,7 @@
 (\.|^)*member*\.
 (\.|^)*memberful*\.
 (\.|^)*membership*\.
+(\.|^)*messaging*\.
 (\.|^)*meta-?data*\.
 (\.|^)*metric*\.
 (\.|^)*microsoftmoderator*\.
