@@ -9973,6 +9973,7 @@ devolksbank.nl
 devrimplayer.com
 devscroll.com
 devtodev.com
+devtools.brave.com
 dexecure.net
 dextersolutions.actonservice.com
 df-srv.de
@@ -18581,6 +18582,7 @@ metrics.maxizoo.it
 metrics.maxizoo.pl
 metrics.mcafee.com
 metrics.med.roche.ru
+metrics.media-amazon.com
 metrics.meiers-weltreisen.de
 metrics.mein-jahnreisen.de
 metrics.mercola.com
@@ -32522,6 +32524,5 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
-
 
 
