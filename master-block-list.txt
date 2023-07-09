@@ -15385,6 +15385,7 @@ ingage.tech
 ingame.de
 ingest.sentry.io
 inibokep.best
+init-kt.apple.com
 init-nk11-a.gc.apple.com
 init-nk11-b.gc.apple.com
 init-p01md.apple.com
@@ -32524,5 +32525,4 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
-
-
+isdglobal.org
