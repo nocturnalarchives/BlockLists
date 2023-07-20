@@ -4019,6 +4019,7 @@ api.amplitude.com
 api.atlassian.com
 api.auth.adobe.com
 api.bibblio.org
+api.bigdatacloud.net
 api.bmw
 api.bounceexchange.com
 api.branch.io
@@ -6606,6 +6607,7 @@ bigbrain.me
 bigclicks.com
 bigcommerce.com
 bigdata.ssp.samsung.com
+bigdatacloud.net
 bigfishgames.com
 biggunsarefun.com
 bigjazz.ru
@@ -7455,6 +7457,7 @@ cd.connatix.com
 cd.google.com
 cdc.112.2o7.net
 cdc.gov
+cdck-file-uploads-global.s3.dualstack.us-west-2.amazonaws.com
 cdg2.fbcdn.net
 cdglb.com
 cdn-146.privacy-mgmt.com
@@ -15654,6 +15657,7 @@ is7-ssl.mzstatic.com
 is8-ssl.mzstatic.com
 is9-ssl.mzstatic.com
 isboost.co.jp
+isdglobal.org
 isepcvsb.com
 isepisep.com
 iseuaa.olx.pl
@@ -16951,6 +16955,7 @@ logicbuy.com
 logicideas.media
 login.chinacloudapi.cn
 login.facebook.com
+login.gov
 login.yahoo.com
 loginfra.com
 loginhood.io
@@ -32525,4 +32530,3 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
-isdglobal.org
