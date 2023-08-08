@@ -10361,6 +10361,7 @@ doh.cleanbrowsing.org
 doh.crypto.sx
 doh.digitalcourage.de
 doh.dns.apple.com
+doh.dns.apple.com.v.aaplimg.com
 doh.dns.sb
 doh.dnslify.com
 doh.dnswarden.com
@@ -10430,6 +10431,8 @@ dostophog.com
 dot-stat.radikal.ru
 dot.applied-privacy.net
 dot.digitalcourage.de
+dot.dns.apple.com
+dot.dns.apple.com.v.aaplimg.com
 dot.ffmuc.net
 dot.google.com
 dot.neutopia.org
@@ -12883,6 +12886,7 @@ fullstory.com
 fulltv.com.ar
 fulltvnetwork.com
 fullypcgames.org
+functiionalfeather.com
 functionalclaim.com
 functionalclam.com
 functionalcover.com
@@ -17844,6 +17848,7 @@ mas-sandbox.marsh.com
 mas-sdk.amazon.com
 mas.nth.ch
 mas.sector.sk
+mask-api.fe.apple-dns.net
 mask-api.icloud.com
 mask-h2.icloud.com
 mask.icloud.com
@@ -32530,4 +32535,3 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
-functiionalfeather.com

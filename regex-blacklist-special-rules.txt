@@ -1,6 +1,7 @@
 (\.|^)*-alert*\.
 (\.|^)*-alerts?\.
 (\.|^)*-analytic*\.
+(\.|^)*-api\.
 (\.|^)*-app*\.
 (\.|^)*-csem*\.
 (\.|^)*-data*\.
@@ -226,11 +227,16 @@
 (\.|^)*dmca*\.
 (\.|^)*dns*\.
 (\.|^)*dns\.
+(\.|^)*dns\.apple*\.
 (\.|^)*doh*\.
 (\.|^)*doh\.
+(\.|^)*doh\.apple*\.
+(\.|^)*doh\.dns*\.
 (\.|^)*domain*\.
 (\.|^)*dot*\.
 (\.|^)*dot\.
+(\.|^)*dot\.apple*\.
+(\.|^)*dot\.dns*\.
 (\.|^)*dotomi*\.
 (\.|^)*double-?click*\.
 (\.|^)*double-?verify*\.
@@ -386,6 +392,7 @@
 (\.|^)*marketing\.
 (\.|^)*markup*\.
 (\.|^)*mas-ssr-ad*\.
+(\.|^)*mask-api*\.
 (\.|^)*match*\.
 (\.|^)*matchedimages*\.
 (\.|^)*math-?tag*\.
@@ -825,6 +832,8 @@
 (\.|^)logs?-?([0-9a-z]+)\.
 (\.|^)logs?\.
 (\.|^)ls\.
+(\.|^)mask-?api\.
+(\.|^)mask*\.
 (\.|^)match\.
 (\.|^)me\.
 (\.|^)media-?sonar\.
@@ -892,4 +901,3 @@
 \.tv$
 \.us$
 \.xyz$
-(\.|^)*fed-?cm*\.
