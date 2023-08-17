@@ -1406,7 +1406,6 @@ adapt.io
 adapt.tv
 adaptv.advertising.com
 adaraanalytics.com
-adasiaholdings
 adasiaholdings.com
 adasta.it
 adatrix.com
@@ -1911,7 +1910,7 @@ adnet.ru
 adnet.worldreviewer.com
 adnetinteractive.com
 adnetmedia.lt
-adnetwork
+adnetwork.com
 adnetwork.net
 adnetwork.vn
 adnetworkperformance.com
@@ -2666,7 +2665,6 @@ adthrive.com
 adtiger.de
 adtilt.com
 adtima.vn
-adtimaserver
 adtimaserver.vn
 adtime.ru
 adtiming.com
@@ -4616,7 +4614,7 @@ authcaptcha.com
 authenticangry.com
 authenticated-origin.com
 authlovebirth.com
-authorcentral
+authorcentral.com
 authorize.net
 authorized.by
 authorne.info
@@ -7262,8 +7260,6 @@ calendly.com
 californiatimes.com
 call.me.sel.sony.com
 callfire.com
-callhistorysynchelper
-callhistorysynchelper.lan
 callloop.com
 callmeasurement.com
 callousbrake.com
@@ -30417,7 +30413,6 @@ www.adadapted.com
 www.adalliance.io
 www.adalyser.com
 www.adapt.io
-www.adasiaholdings
 www.adasiaholdings.com
 www.adatrix.com
 www.adbanner.ro
@@ -30573,7 +30568,6 @@ www.adname.ru
 www.adnection.com
 www.adnet-media.net
 www.adnetmedia.lt
-www.adnetwork
 www.adnetwork.vn
 www.adnexus.asia
 www.adnexus.mobi
@@ -30695,7 +30689,6 @@ www.adthrive.com
 www.adtiger.de
 www.adtilt.com
 www.adtima.vn
-www.adtimaserver
 www.adtimaserver.vn
 www.adtime.ru
 www.adtiming.com
@@ -30930,7 +30923,7 @@ www.ateam-ad.jp
 www.atmrum.net
 www.audible.com
 www.augur.io
-www.authorcentral
+www.authorcentral.com
 www.authorne.info
 www.autoads.asia
 www.autodaily.vn
