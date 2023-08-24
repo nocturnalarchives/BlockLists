@@ -1,4 +1,4 @@
-_checkdns.home-assistant.io
+
 0-courier.push.apple.com
 0-courier.sandbox.push.apple.com
 0-edge-chat.facebook.com
@@ -491,6 +491,14 @@ _checkdns.home-assistant.io
 9to5terminal.com
 9xbuddy.org
 9zpg.net
+Adsatt.ABCNews.starwave.com
+Adsatt.go.starwave.com
+Cookieyes.com
+Coordinator-Production-28516768.us-east-1.elb.amazonaws.com
+Google.ru
+Noyb.eu
+SustainableComputing.eu
+_checkdns.home-assistant.io
 a-ads.com
 a-cast.jp
 a-counter.kiev.ua
@@ -2441,10 +2449,8 @@ adsage.com
 adsales.snidigital.com
 adsame.com
 adsatt.abc.starwave.com
-Adsatt.ABCNews.starwave.com
 adsatt.espn.go.com
 adsatt.espn.starwave.com
-Adsatt.go.starwave.com
 adsb4track.com
 adsbtrk.com
 adsby.bidtheatre.com
@@ -8937,7 +8943,6 @@ cookiesoutthere.com
 cookietracking.eatonpowersource.com
 cookiex.ngd.yahoo.com
 cookieyes.com
-Cookieyes.com
 cool-smartphone-apps.com
 cooladata.com
 coolasiankitchen.com
@@ -8946,7 +8951,6 @@ coolertracks.emailroi.com
 coolmath4us.net
 cooper.logs.roku.com
 coordinatedcub.com
-Coordinator-Production-28516768.us-east-1.elb.amazonaws.com
 copart.com
 cophys.xyz
 copperchickens.com
@@ -12310,7 +12314,6 @@ favoritlistan.se
 fay.chat
 fazenda.gov.br
 fazphz.theiconic.com.au
-fb_servpub-a.akamaihd.net
 fb-accounts.com
 fb-lt.facebook.com
 fb-promotions.com
@@ -12320,6 +12323,7 @@ fb.m.facebook.com
 fb.me
 fb.watch
 fb4708f8e80kdno4pyq-bigworkf1521512717-sonar.xz.fbcdn.net
+fb_servpub-a.akamaihd.net
 fbcallback.wechat.com
 fbcdn-creative-a.akamaihd.net
 fbcdn-photos-a.akamaihd.net
@@ -13518,7 +13522,6 @@ google.m.facebook.com
 google.pt
 google.qualtrics.com
 google.ru
-Google.ru
 googleads.a.doubleclick.net
 googleads.b.doubleclick.net
 googleads.c.doubleclick.net
@@ -13618,13 +13621,13 @@ grandioseguide.com
 granicus.com
 granify.com
 graph-video.facebook.com
+graph.Facebook.com
+graph.Facebook.net
 graph.accountkit.com
 graph.amctheatres.com
 graph.bluecava.com
 graph.bustle.com
 graph.facebook.com
-graph.Facebook.com
-graph.Facebook.net
 graph.hinge.com
 graph.match.com
 graphly.io
@@ -14561,6 +14564,7 @@ host-one-more.com
 host-redirect.net
 host.pressdns.com
 host11.traffic-builders.com
+hosted.lithcloud.com
 hostedads.realitykings.com
 hostedlandingpages.net
 hostedprebid.com
@@ -16749,6 +16753,7 @@ lists.facebook.com
 listtrac.com
 literally-analytics.appspot.com
 literaryhub.disqus.com
+lithcloud.com
 lithium.com
 lithium.facebook.com
 lithium.rubblerock.com
@@ -16756,6 +16761,7 @@ lithub.com
 litix.io
 littlebrother.makeplans.net
 littlefrogalarm.com
+live-lia-pushy-service-v2.usw2.prod.hosted.lithcloud.com
 live-once.net
 live-patch-fe.pantheonsite.io
 live-video.net
@@ -19997,7 +20003,6 @@ now.tana.fi
 nowads.biz
 nowinteract.com
 noxgroup.com
-Noyb.eu
 noz-cdn.de
 noz.de
 np.google.com
@@ -21715,6 +21720,7 @@ prod.bugs.firebat.prime-video.amazon.dev
 prod.cagenerator.pki.strln.net
 prod.experiment.routing.cloudfront.aws.a2z.com
 prod.facebook.com
+prod.hosted.lithcloud.com
 prod.mozaws.net
 prod.service.minerva.devices.a2z.com
 prodara.de
@@ -26625,7 +26631,6 @@ surveys.cnet.com
 surveywall-api.survata.com
 survicate.com
 suspension.parts
-SustainableComputing.eu
 sut.dailyfx.com
 sutherlandglobal.com
 sv-se.facebook.com
@@ -29088,6 +29093,7 @@ uspto.report
 usrwy.com
 ustatik.com
 ustglobal.m.facebook.com
+usw2.prod.hosted.lithcloud.com
 ut.google.com
 utarget.co.uk
 utarget.ru
@@ -29143,8 +29149,8 @@ v.skimresources.com
 v.teads.tv
 v.udkcjr.com
 v.usabilla.com
-v0.wordpress.com
 v0.WordPress.com
+v0.wordpress.com
 v1.cnzz.com
 v10-win.vortex.data.microsoft.com.akadns.net
 v10.vortex-win.data.microsoft.com
@@ -30369,6 +30375,7 @@ www.4dsply.com
 www.4mads.com
 www.4seeresults.com
 www.6pm.com
+www.Google.ru
 www.a-ads.com
 www.a2dfp.net
 www.a2pub.com
@@ -31181,7 +31188,6 @@ www.gooddata.com
 www.goodreads.com
 www.google-analytics.com
 www.google.ru
-www.Google.ru
 www.googleadservices.co.uk
 www.googleadservices.com
 www.googleadservices.org
@@ -32444,6 +32450,7 @@ zmedia.com
 zminer.zaloapp.com
 zn.google.com
 zn0umm8znjpycgm2n-fiverr.siteintercept.qualtrics.com
+zn1amgis3tmt5gckb-dropbox.siteintercept.qualtrics.com
 znab2tibzoolvi76l-logmeinvoc.siteintercept.qualtrics.com
 zndikywqsjiuwn0q5-nlmenterprise.siteintercept.qualtrics.com
 znq9.destinia.mx
