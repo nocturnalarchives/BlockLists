@@ -4519,6 +4519,7 @@ atlas-www-shv-07-ash4.facebook.com
 atlas-www-shv-09-frc1.facebook.com
 atlas.astrology.com
 atlas.c10r.facebook.com
+atlas.shopifysvc.com
 atlasalpha-shv-09-frc3.facebook.com
 atlasinyour-shv-05-ash3.facebook.com
 atlaslions.info
@@ -7224,6 +7225,7 @@ c0.wp.com
 c0011.boursorama.com
 c0012.brsimg.com
 c0p.cepsum.umontreal.ca
+c1-stats.shopifysvc.com
 c1.nowlinux.com
 c1exchange.com
 c1fp46crw8ud8d.credentials.iot.us-east-1.amazonaws.com
@@ -18182,6 +18184,7 @@ mercedes-benz.com
 mercedesbenz-vip.com
 mercent.com
 merchant-businesses.com
+merchant-center-analytics.goog
 merchantadvantage.com
 merchantequip.com
 mercola.demdex.net
@@ -31315,6 +31318,7 @@ www.mediaz.vn
 www.medtargetsystem.com
 www.megapopads.com
 www.mellowads.com
+www.merchant-center-analytics.goog
 www.merchantadvantage.com
 www.mesosphere.com
 www.metalocator.com
