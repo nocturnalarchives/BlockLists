@@ -1,4 +1,4 @@
-# Specify filepatterns you want git to ignore.
+# Specify filepatterns you want git to ignore. 
 temp.txt
 @file-list.txt
 include-pihole-blocklist-html.php
