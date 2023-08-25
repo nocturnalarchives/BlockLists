@@ -15,9 +15,6 @@
 (\.|^)*33-?across*\.
 (\.|^)*3lift*\.
 (\.|^)*4dex*\.
-(\.|^)*Coordinator*\.
-(\.|^)*Coordinator-Production*\.
-(\.|^)*Production*\.
 (\.|^)*\.app$
 (\.|^)*aaplimg*\.
 (\.|^)*aaxads*\.
@@ -109,6 +106,7 @@
 (\.|^)*browseraddon*\.
 (\.|^)*browsing*\.
 (\.|^)*bug-?snag*\.
+(\.|^)*bugs*\.
 (\.|^)*bwbx*\.
 (\.|^)*bwbx\.
 (\.|^)*calendar-?api*\.
@@ -183,6 +181,8 @@
 (\.|^)*convert*\.
 (\.|^)*cookie*\.
 (\.|^)*cookie-?match*\.
+(\.|^)*Coordinator*\.
+(\.|^)*Coordinator-Production*\.
 (\.|^)*core*\.
 (\.|^)*corona*\.
 (\.|^)*coronavirus*\.
@@ -406,6 +406,9 @@
 (\.|^)*member*\.
 (\.|^)*memberful*\.
 (\.|^)*membership*\.
+(\.|^)*merchant*\.
+(\.|^)*merchant-?center*\.
+(\.|^)*merchant-?center-?analytics*\.
 (\.|^)*messaging*\.
 (\.|^)*meta-?data*\.
 (\.|^)*metric*\.
@@ -508,6 +511,7 @@
 (\.|^)*producer*\.
 (\.|^)*product*\.
 (\.|^)*product-?hunt*\.
+(\.|^)*Production*\.
 (\.|^)*production*\.
 (\.|^)*project*\.
 (\.|^)*promotion*\.
@@ -596,6 +600,7 @@
 (\.|^)*shop-?bonsai*\.
 (\.|^)*shopify-?order*\.
 (\.|^)*shopify-?order-?limit*\.
+(\.|^)*shopify-?svc*\.
 (\.|^)*shopifyapp*\.
 (\.|^)*shopifysvc*\.
 (\.|^)*site-?data*\.
@@ -613,6 +618,7 @@
 (\.|^)*smart-ad*\.
 (\.|^)*smartclip*\.
 (\.|^)*smile*\.
+(\.|^)*snag*\.
 (\.|^)*snap-?kit*\.
 (\.|^)*snare*\.
 (\.|^)*snigel-?web*\.
@@ -894,6 +900,7 @@
 \.ai$
 \.app
 \.glass$
+\.goog$
 \.gov$
 \.gov\.uk$
 \.io$
