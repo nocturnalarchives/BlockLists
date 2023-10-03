@@ -490,13 +490,6 @@
 9to5terminal.com
 9xbuddy.org
 9zpg.net
-Adsatt.ABCNews.starwave.com
-Adsatt.go.starwave.com
-Cookieyes.com
-Coordinator-Production-28516768.us-east-1.elb.amazonaws.com
-Google.ru
-Noyb.eu
-SustainableComputing.eu
 _checkdns.home-assistant.io
 a-ads.com
 a-cast.jp
@@ -2448,8 +2441,10 @@ adsage.com
 adsales.snidigital.com
 adsame.com
 adsatt.abc.starwave.com
+Adsatt.ABCNews.starwave.com
 adsatt.espn.go.com
 adsatt.espn.starwave.com
+Adsatt.go.starwave.com
 adsb4track.com
 adsbtrk.com
 adsby.bidtheatre.com
@@ -8943,6 +8938,7 @@ cookiesno.com
 cookiesoutthere.com
 cookietracking.eatonpowersource.com
 cookiex.ngd.yahoo.com
+Cookieyes.com
 cookieyes.com
 cool-smartphone-apps.com
 cooladata.com
@@ -8952,6 +8948,7 @@ coolertracks.emailroi.com
 coolmath4us.net
 cooper.logs.roku.com
 coordinatedcub.com
+Coordinator-Production-28516768.us-east-1.elb.amazonaws.com
 copart.com
 cophys.xyz
 copperchickens.com
@@ -13522,6 +13519,7 @@ google.gr
 google.m.facebook.com
 google.pt
 google.qualtrics.com
+Google.ru
 google.ru
 googleads.a.doubleclick.net
 googleads.b.doubleclick.net
@@ -13622,13 +13620,13 @@ grandioseguide.com
 granicus.com
 granify.com
 graph-video.facebook.com
-graph.Facebook.com
-graph.Facebook.net
 graph.accountkit.com
 graph.amctheatres.com
 graph.bluecava.com
 graph.bustle.com
+graph.Facebook.com
 graph.facebook.com
+graph.Facebook.net
 graph.hinge.com
 graph.match.com
 graphly.io
@@ -20005,6 +20003,7 @@ now.tana.fi
 nowads.biz
 nowinteract.com
 noxgroup.com
+Noyb.eu
 noz-cdn.de
 noz.de
 np.google.com
@@ -26633,6 +26632,7 @@ surveys.cnet.com
 surveywall-api.survata.com
 survicate.com
 suspension.parts
+SustainableComputing.eu
 sut.dailyfx.com
 sutherlandglobal.com
 sv-se.facebook.com
@@ -30377,7 +30377,6 @@ www.4dsply.com
 www.4mads.com
 www.4seeresults.com
 www.6pm.com
-www.Google.ru
 www.a-ads.com
 www.a2dfp.net
 www.a2pub.com
@@ -31189,6 +31188,7 @@ www.goodadvert.ru
 www.gooddata.com
 www.goodreads.com
 www.google-analytics.com
+www.Google.ru
 www.google.ru
 www.googleadservices.co.uk
 www.googleadservices.com
