@@ -290,6 +290,7 @@
 (\.|^)*gotchosen*\.
 (\.|^)*gotraffic*\.
 (\.|^)*gps*\.
+(\.|^)*gpt*\.
 (\.|^)*gql*\.
 (\.|^)*graph*\.
 (\.|^)*green-?house*\.
@@ -603,6 +604,7 @@
 (\.|^)*shopify-?svc*\.
 (\.|^)*shopifyapp*\.
 (\.|^)*shopifysvc*\.
+(\.|^)*siri*\.
 (\.|^)*site-?data*\.
 (\.|^)*site-?data-?processing*\.
 (\.|^)*site-?intercept*\.
