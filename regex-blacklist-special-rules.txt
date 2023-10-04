@@ -274,6 +274,7 @@
 (\.|^)*firmware-?update*\.
 (\.|^)*foresee*\.
 (\.|^)*free*\.
+(\.|^)*fresh-?chat*\.
 (\.|^)*frida*\.
 (\.|^)*funding*\.
 (\.|^)*funnel*\.
@@ -304,6 +305,7 @@
 (\.|^)*hd-personalization-prod*\.
 (\.|^)*health*\.
 (\.|^)*heap-?analytics*\.
+(\.|^)*help-?scout*\.
 (\.|^)*heroku*\.
 (\.|^)*home-?smart*\.
 (\.|^)*honey-?badger*\.
@@ -480,6 +482,7 @@
 (\.|^)*patreon*\.
 (\.|^)*pay-?wall*\.
 (\.|^)*pdnasampleimages*\.
+(\.|^)*pendo*\.
 (\.|^)*pendo*\.
 (\.|^)*perception*\.
 (\.|^)*personalization*\.
