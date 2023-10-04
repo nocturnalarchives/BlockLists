@@ -1,5 +1,6 @@
 (\.|^)*-alert*\.
 (\.|^)*-alerts?\.
+(\.|^)*-amazon*\.
 (\.|^)*-analytic*\.
 (\.|^)*-api\.
 (\.|^)*-app*\.
@@ -483,7 +484,6 @@
 (\.|^)*pay-?wall*\.
 (\.|^)*pdnasampleimages*\.
 (\.|^)*pendo*\.
-(\.|^)*pendo*\.
 (\.|^)*perception*\.
 (\.|^)*personalization*\.
 (\.|^)*personalize*\.
@@ -607,6 +607,8 @@
 (\.|^)*shopify-?svc*\.
 (\.|^)*shopifyapp*\.
 (\.|^)*shopifysvc*\.
+(\.|^)*siege*\.
+(\.|^)*siege-?amazon*\.
 (\.|^)*siri*\.
 (\.|^)*site-?data*\.
 (\.|^)*site-?data-?processing*\.
