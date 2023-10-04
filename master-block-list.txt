@@ -5028,6 +5028,7 @@ be-map.it
 be.google.com
 beacon-1.newrelic.com
 beacon-v2.helpscout.net
+beacon-v2.helpscout.net
 beacon.affil.walmart.com
 beacon.aimtell.com
 beacon.ehow.com
@@ -12822,6 +12823,7 @@ fresh.techdirt.com
 freshandsoftbread.com
 freshbots.ai
 freshchat.com
+freshchat.com
 freshclick.co.uk
 freshdesk.com
 freshfilter.co.uk
@@ -13503,6 +13505,7 @@ gooddata.com
 goodflowersinside.com
 goodreads.com
 goodthoughts4u.com
+google-analytics.com
 google-analytics.com
 google-public-dns-a.google.com
 google-public-dns-b.google.com
@@ -14295,6 +14298,7 @@ helpcrunch.com
 helpdeskeddy.com
 helpdocs.io
 helpjuice.com
+helpscout.net
 helpscout.net
 henrymakow.com
 hentaibaka.one
@@ -19701,6 +19705,7 @@ netincap.com
 netinsight.co.kr
 netizen.co
 netlify.app
+netlify.com
 netlify.com
 netmind-cloud.com
 netmng.com
