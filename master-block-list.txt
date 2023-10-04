@@ -5028,6 +5028,7 @@ be-map.it
 be.google.com
 beacon-1.newrelic.com
 beacon-v2.helpscout.net
+beacon-v2.helpscout.net
 beacon.affil.walmart.com
 beacon.aimtell.com
 beacon.ehow.com
@@ -8626,6 +8627,7 @@ commandwalk.com
 comment.youmaker.com
 commentfreely.bitchute.com
 comments.yappaapp.com
+commerce-web.netlify.com
 commerce.senate.gov
 commercesciences.com
 commercial.davey.com
@@ -8700,6 +8702,7 @@ confection.io
 conference-ballroom.com
 confiant-integrations.global.ssl.fastly.net
 confiant.msn.com
+config-msdk.freshchat.com
 config.emb-api.com
 config.evidence.io
 config.gorgias.io
@@ -12820,6 +12823,7 @@ fresh.techdirt.com
 freshandsoftbread.com
 freshbots.ai
 freshchat.com
+freshchat.com
 freshclick.co.uk
 freshdesk.com
 freshfilter.co.uk
@@ -13501,6 +13505,7 @@ gooddata.com
 goodflowersinside.com
 goodreads.com
 goodthoughts4u.com
+google-analytics.com
 google-analytics.com
 google-public-dns-a.google.com
 google-public-dns-b.google.com
@@ -14293,6 +14298,7 @@ helpcrunch.com
 helpdeskeddy.com
 helpdocs.io
 helpjuice.com
+helpscout.net
 helpscout.net
 henrymakow.com
 hentaibaka.one
@@ -19328,6 +19334,7 @@ ms.markosaric.com
 msafoy.eyebuydirect.com
 msci.com
 mscnet.com
+msdk.freshchat.com
 msecnd.net
 msedge.net
 mseeru.faz.net
@@ -19698,6 +19705,7 @@ netincap.com
 netinsight.co.kr
 netizen.co
 netlify.app
+netlify.com
 netlify.com
 netmind-cloud.com
 netmng.com
@@ -30362,6 +30370,7 @@ wwokkf.laredoute.ru
 wwopenclick.space
 wwry.xyz
 www-172.aig.com
+www-alv.google-analytics.com
 www-banner.chat.ru
 www-cdn.icloud.com.akadns.net
 www-google-analytics.l.google.com
