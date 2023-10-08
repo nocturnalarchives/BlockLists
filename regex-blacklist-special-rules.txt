@@ -6,10 +6,14 @@
 (\.|^)*-app*\.
 (\.|^)*-csem*\.
 (\.|^)*-data*\.
+(\.|^)*-dns*\.
+(\.|^)*-doh*\.
+(\.|^)*-dot*\.
 (\.|^)*-dss*\.
 (\.|^)*-edge*\.
 (\.|^)*-geo*\.
 (\.|^)*-iad-*\.
+(\.|^)*-iot*\.
 (\.|^)*-iot\.
 (\.|^)*-prod*\.
 (\.|^)*-verify*\.
@@ -52,6 +56,8 @@
 (\.|^)*affiliate*\.
 (\.|^)*age-*\.
 (\.|^)*age-verify*\.
+(\.|^)*air-?take*\.
+(\.|^)*air-?take-?private-?data*\.
 (\.|^)*airtake*\.
 (\.|^)*alert*\.
 (\.|^)*alerts*\.
@@ -172,6 +178,7 @@
 (\.|^)*consent*\.
 (\.|^)*constant-?contact*\.
 (\.|^)*consumer*\.
+(\.|^)*contact*\.
 (\.|^)*content*\.
 (\.|^)*contribute*\.
 (\.|^)*contributor*\.
@@ -228,14 +235,17 @@
 (\.|^)*direct-events-collector*\.
 (\.|^)*dmca*\.
 (\.|^)*dns*\.
+(\.|^)*dns-*\.
 (\.|^)*dns\.
 (\.|^)*dns\.apple*\.
 (\.|^)*doh*\.
+(\.|^)*doh-*\.
 (\.|^)*doh\.
 (\.|^)*doh\.apple*\.
 (\.|^)*doh\.dns*\.
 (\.|^)*domain*\.
 (\.|^)*dot*\.
+(\.|^)*dot-*\.
 (\.|^)*dot\.
 (\.|^)*dot\.apple*\.
 (\.|^)*dot\.dns*\.
@@ -312,6 +322,9 @@
 (\.|^)*honey-?badger*\.
 (\.|^)*host*\.
 (\.|^)*hsbc-*\.
+(\.|^)*http-?dns*\.
+(\.|^)*http-?doh*\.
+(\.|^)*http-?dot*\.
 (\.|^)*http-?tool*\.
 (\.|^)*http-?tool-?kit*\.
 (\.|^)*human*\.
@@ -336,6 +349,8 @@
 (\.|^)*intercept*\.
 (\.|^)*interstitial*\.
 (\.|^)*intsta*\.
+(\.|^)*iot-*\.
+(\.|^)*iot-?dns*\.
 (\.|^)*iot\.
 (\.|^)*ip-*\.
 (\.|^)*ipv6*\.
@@ -484,7 +499,6 @@
 (\.|^)*pay-?wall*\.
 (\.|^)*pdnasampleimages*\.
 (\.|^)*pendo*\.
-(\.|^)*pendo*\.
 (\.|^)*perception*\.
 (\.|^)*personalization*\.
 (\.|^)*personalize*\.
@@ -511,6 +525,7 @@
 (\.|^)*privacy*\.
 (\.|^)*privacy-?manager*\.
 (\.|^)*private*\.
+(\.|^)*private-?data*\.
 (\.|^)*pro\.
 (\.|^)*prod-*\.
 (\.|^)*producer*\.
@@ -709,11 +724,14 @@
 (\.|^)*trustarc*\.
 (\.|^)*truth*\.
 (\.|^)*tunnel*\.
+(\.|^)*tuya?httpdns*\.
 (\.|^)*universal*\.
 (\.|^)*unruly-?media*\.
 (\.|^)*update*\.
 (\.|^)*updates?\.
 (\.|^)*upload*\.
+(\.|^)*us-?east*\.
+(\.|^)*us-?west*\.
 (\.|^)*usabilla*\.
 (\.|^)*usage*\.
 (\.|^)*usage-eu*\.
@@ -919,3 +937,4 @@
 \.tv$
 \.us$
 \.xyz$
+(\.|^)*tuya-?httpdns*\.
