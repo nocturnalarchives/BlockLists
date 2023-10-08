@@ -11245,6 +11245,7 @@ el-mundo.net
 el.google.com
 elasticad.net
 elasticchange.com
+elb.us-west-2.amazonaws.com
 elc1.energies.leclerc
 elderlyscissors.com
 elderlytown.com
@@ -14154,6 +14155,7 @@ h.usabilla.com
 h1-us.iot-dns.com
 h1.msn.com
 h12-media.com
+h2-us.iot-dns.com
 h2.msn.com
 h5v.eu
 h78xb.pw
@@ -23103,8 +23105,10 @@ s3-1-w.amazonaws.com
 s3-dub-2.cf.trailer.row.aiv-cdn.net
 s3-iad-2.cf.dash.row.aiv-cdn.net
 s3-iad-ww.cf.videorolls.row.aiv-cdn.net
+s3-r-w.us-west-2.amazonaws.com
 s3-tracking.synthasite.net.s3.amazonaws.com
 s3.us-east-1.wasabisys.com
+s3.us-west-2.amazonaws.com
 s362693299.aon.com
 s3c.es
 s3chat.com
@@ -28690,6 +28694,8 @@ turn.com
 turn.gc.apple.com
 turner.com
 turnto.com
+tuya-httpdns-1-0ce29e016bf027d8.elb.us-west-2.amazonaws.com
+tuya-httpdns-2-f9e4d9e8ac1f132e.elb.us-west-2.amazonaws.com
 tuyaus.com
 tv.google.com
 tv2.hb-api.omtrdc.net
@@ -29032,6 +29038,7 @@ us-eu-main.geo.vergic.com
 us-prod-temp.s3.amazonaws.com
 us-proxy.org
 us-u.openx.net
+us-west-2.amazonaws.com
 us.a1.yimg.com
 us.ad.lgsmartad.com
 us.adv5.277288171.pixel.archive.is

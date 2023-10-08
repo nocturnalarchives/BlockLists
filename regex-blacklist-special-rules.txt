@@ -484,6 +484,7 @@
 (\.|^)*pay-?wall*\.
 (\.|^)*pdnasampleimages*\.
 (\.|^)*pendo*\.
+(\.|^)*pendo*\.
 (\.|^)*perception*\.
 (\.|^)*personalization*\.
 (\.|^)*personalize*\.
