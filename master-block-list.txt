@@ -7006,6 +7006,7 @@ broaddoor.com
 broadstreetads.com
 brodie.amazon.de
 broimg.net
+brokendnssec.net
 bronto.com
 brookings.foxycart.com
 brownandblueeyes.com
@@ -8389,6 +8390,7 @@ clouderrorreporting.googleapis.com
 cloudflare-dns.com
 cloudflare.com
 cloudflare.tv
+cloudflaredns.com
 cloudflareinsights.com
 cloudfront-labs.amazonaws.com
 cloudfront.net
@@ -11615,6 +11617,7 @@ encrypted-tbn96.gstatic.com
 encrypted-tbn97.gstatic.com
 encrypted-tbn98.gstatic.com
 encrypted-tbn99.gstatic.com
+encryptedsni.com
 endljp.abv.bg
 endljp.edna.bg
 endljp.sinoptik.bg
@@ -11997,6 +12000,7 @@ everesttech.net
 evergage.com
 everquote.com
 everviz.com
+every1dns.net
 everyaction.com
 everycolor-inside.com
 everything.yahoo.com
@@ -14292,6 +14296,7 @@ hellofresh.com
 hellomedian.com
 hellomydaddy.com
 hellomymommy.com
+help.every1dns.net
 help.eyeo.com
 helpcrunch.com
 helpdeskeddy.com
@@ -15645,6 +15650,8 @@ irqs.ioam.de
 irsdn.net
 iruauu.scorptec.com.au
 irvnot.athome.lu
+is-doh.help.every1dns.net
+is-dot.help.every1dns.net
 is-is.facebook.com
 is.base.de
 is.cc
