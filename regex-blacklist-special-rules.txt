@@ -88,6 +88,7 @@
 (\.|^)*apple-?id*\.
 (\.|^)*apple-?resource*\.
 (\.|^)*apple-resources*\.
+(\.|^)*application-?dns*\.
 (\.|^)*apps?\.
 (\.|^)*arcgis*\.
 (\.|^)*assessment*\.
@@ -109,6 +110,8 @@
 (\.|^)*blob*\.
 (\.|^)*braze*\.
 (\.|^)*brealtime*\.
+(\.|^)*broken*\.
+(\.|^)*broken-?dns-?sec*\.
 (\.|^)*browser*\.
 (\.|^)*browseraddon*\.
 (\.|^)*browsing*\.
@@ -151,6 +154,7 @@
 (\.|^)*clickstream-producer*\.
 (\.|^)*client*\.
 (\.|^)*client-?stream*\.
+(\.|^)*cloudflare-?dns*\.
 (\.|^)*cloudsolution*\.
 (\.|^)*cmaxsrv*\.
 (\.|^)*cmp*\.
@@ -236,6 +240,7 @@
 (\.|^)*dmca*\.
 (\.|^)*dns*\.
 (\.|^)*dns-*\.
+(\.|^)*dns-?sec*\.
 (\.|^)*dns\.
 (\.|^)*dns\.apple*\.
 (\.|^)*doh*\.
@@ -269,7 +274,10 @@
 (\.|^)*engaged-?media*\.
 (\.|^)*engagement*\.
 (\.|^)*event*\.
+(\.|^)*every-?([0-9]+?)-?dns*\.
+(\.|^)*every-?1-?dns*\.
 (\.|^)*every-?action*\.
+(\.|^)*every-?dns*\.
 (\.|^)*evidence*\.
 (\.|^)*evidon*\.
 (\.|^)*exploit*\.
@@ -355,6 +363,10 @@
 (\.|^)*ip-*\.
 (\.|^)*ipv6*\.
 (\.|^)*iq\.
+(\.|^)*is-?dns*\.
+(\.|^)*is-?doh*\.
+(\.|^)*is-?dot*\.
+(\.|^)*is-?sni*\.
 (\.|^)*izat-?cloud*\.
 (\.|^)*jeeng*\.
 (\.|^)*judge*\.
@@ -599,6 +611,7 @@
 (\.|^)*sdk*\.
 (\.|^)*seal-*\.
 (\.|^)*search*\.
+(\.|^)*sec\.
 (\.|^)*secure*\.
 (\.|^)*secure-?pubads*\.
 (\.|^)*sefaria*\.
@@ -644,6 +657,7 @@
 (\.|^)*snag*\.
 (\.|^)*snap-?kit*\.
 (\.|^)*snare*\.
+(\.|^)*sni\.
 (\.|^)*snigel-?web*\.
 (\.|^)*snippet*\.
 (\.|^)*social*\.
@@ -724,6 +738,7 @@
 (\.|^)*trustarc*\.
 (\.|^)*truth*\.
 (\.|^)*tunnel*\.
+(\.|^)*tuya-?httpdns*\.
 (\.|^)*tuya?httpdns*\.
 (\.|^)*universal*\.
 (\.|^)*unruly-?media*\.
@@ -736,6 +751,7 @@
 (\.|^)*usage*\.
 (\.|^)*usage-eu*\.
 (\.|^)*usage-us*\.
+(\.|^)*use-?application-?dns*\.
 (\.|^)*user*\.
 (\.|^)*uspto*\.
 (\.|^)*v2\.
@@ -937,4 +953,3 @@
 \.tv$
 \.us$
 \.xyz$
-(\.|^)*tuya-?httpdns*\.
