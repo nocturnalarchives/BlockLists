@@ -916,6 +916,7 @@ aas.visitsaudi.com
 aatrk.com
 aax-eu-dub.amazon.com
 aax-eu.amazon-adsystem.com
+aax-eu.amazon.de
 aax-us-east-retail-direct.amazon.com
 aax-us-east.amazon-adsystem.com
 aax-us-iad.amazon.com
@@ -3207,6 +3208,7 @@ agora.pl
 agraria.org
 agreeableprice.com
 agreeablestew.com
+ags-ext.amazon.com
 ah-ha.com
 ah-server.com
 ah.google.com
@@ -3473,6 +3475,7 @@ an.tacoda.net
 an.worldbaseballclassic.com
 an.yandex.ru
 ana.tv5unis.ca
+anagi.amazon.de
 anagog.com
 anahtars.com
 analitica.webrpp.com
@@ -4340,6 +4343,7 @@ archive.org
 archswimming.com
 arcpublishing.com
 arcticamber.com
+arcus-uswest.amazon.com
 ard.de
 ard.xxxblackbook.com
 are-ter.com
@@ -7019,6 +7023,7 @@ browser.pipe.aria.microsoft.com
 browser.sentry-cdn.com
 browseranalytic.com
 browserpush.net
+browserupdate.org
 browsiprod.com
 brsrvr.com
 bruisebaseball.com
@@ -7750,6 +7755,7 @@ cds843.lon.llnw.net
 cds857.lon.llnw.net
 cds868.lon.llnw.net
 cds869.lon.llnw.net
+cdws.eu-west-1.amazonaws.com
 cdx-nk11.gc.apple.com
 cdx.gc.apple.com
 cdxnet.com
@@ -8529,6 +8535,7 @@ coffecups.online
 coffee2go.org
 cognitiv.ai
 cognitivlabs.com
+cognito-identity.eu-central-1.amazonaws.com
 cognito-identity.us-east-1.amazonaws.com
 cognito-idp.us-east-1.amazonaws.com
 cogocast.net
@@ -8670,6 +8677,7 @@ compass-fit.jp
 compatexchange1.trafficmanager.net
 comperia.pl
 completecabbage.com
+completion.amazon.co.uk
 complex.com
 complextoad.com
 compote.slate.com
@@ -9787,6 +9795,7 @@ dc.services.visualstudio.com
 dc8na2hxrj29i.cloudfront.net
 dc8xl0ndzn2cb.cloudfront.net
 dca0.com
+dcape-na.amazon.com
 dccfog.petco.com
 dcclaa.bunte.de
 dcclaa.freundin.de
@@ -10069,6 +10078,7 @@ digitalsunray.com
 digitaltarget.ru
 digitalthrottle.com
 digitru.st
+digprjsurvey.amazon.eu
 dii2.bitiba.be
 dii2.bitiba.ch
 dii2.bitiba.co.uk
@@ -11870,6 +11880,7 @@ etx.indiatimes.com
 etym6cero.com
 eu-adcenter.net
 eu-u.openx.net
+eu.api.amazonvideo.com
 eu.google.com
 eu.groupondata.com
 eu1.madsone.com
@@ -19351,6 +19362,8 @@ msgapp.com
 msgesr.askona.ru
 msgp.pl
 msgr.com
+msh.amazon.co.uk
+msh.amazon.com
 msigbs.actonservice.com
 msmetrics-test.ws.sonos.com
 msmetrics.ws.sonos.com
@@ -27034,6 +27047,7 @@ tantrumall.club
 tanx.com
 taobao.con
 taostar.com
+tap-client-stats.s3-eu-west-1.amazonaws.com
 tapad.com
 tapatalk-cdn.com
 tapatalk.com
@@ -28868,6 +28882,7 @@ umxwew.hellobello.com
 umzzaftkqgx.com
 un-limitededitions.com
 un.google.com
+unagi-eu.amazon.com
 unanimis.co.uk
 unarmedindustry.com
 unative.com
@@ -31010,6 +31025,8 @@ www.braze.com
 www.brickandmobile.com
 www.bricknet.com
 www.brightroll.com
+www.browser-update.org
+www.browserupdate.org
 www.btn2go.com
 www.btrll.com
 www.bttrack.com
@@ -32550,3 +32567,7 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
+open-api.spot.im
+spot.im
+api.nypdev.com
+nypdev.com
