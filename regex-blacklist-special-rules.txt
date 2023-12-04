@@ -954,3 +954,5 @@
 \.us$
 \.xyz$
 (\.|^)*browser-?update*\.
+(\.|^)*mc-?user-?content*\.
+(\.|^)*user-?content*\.
