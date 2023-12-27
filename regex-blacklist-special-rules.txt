@@ -113,6 +113,7 @@
 (\.|^)*broken*\.
 (\.|^)*broken-?dns-?sec*\.
 (\.|^)*browser*\.
+(\.|^)*browser-?update*\.
 (\.|^)*browseraddon*\.
 (\.|^)*browsing*\.
 (\.|^)*bug-?snag*\.
@@ -430,6 +431,7 @@
 (\.|^)*match*\.
 (\.|^)*matchedimages*\.
 (\.|^)*math-?tag*\.
+(\.|^)*mc-?user-?content*\.
 (\.|^)*measurement*\.
 (\.|^)*media-?service*\.
 (\.|^)*media-?sonar*\.
@@ -753,6 +755,7 @@
 (\.|^)*usage-us*\.
 (\.|^)*use-?application-?dns*\.
 (\.|^)*user*\.
+(\.|^)*user-?content*\.
 (\.|^)*uspto*\.
 (\.|^)*v2\.
 (\.|^)*v6-*\.
@@ -797,6 +800,20 @@
 (\.|^)*zoominfo*\.
 (\.|^)*zooom*\.
 (\.|^)*zooomyapps*\.
+(\.|^)?.*audience.*\.
+(\.|^)?.*clarity.*\.
+(\.|^)?.*connect.*\.
+(\.|^)?.*double-?click.*\.
+(\.|^)?.*get-?drip.*\.
+(\.|^)?.*judge.*\.
+(\.|^)?.*protected.*\.
+(\.|^)?.*sales-?iq.*\.
+(\.|^)?.*share-?a-?sale.*\.
+(\.|^)?.*start-?drip.*\.
+(\.|^)?.*survey.*\.
+(\.|^)?.*web-?font.*\.
+(\.|^)?fonts?\.
+(\.|^)?maps?\.
 (\.|^)aax\.
 (\.|^)ad\.
 (\.|^)ads?\.
@@ -938,6 +955,7 @@
 (\.|^)waldo*\.
 (\.|^)waldo\.
 (\.|^)web\.
+*\.ms
 \.ai
 \.ai$
 \.app
@@ -953,6 +971,3 @@
 \.tv$
 \.us$
 \.xyz$
-(\.|^)*browser-?update*\.
-(\.|^)*mc-?user-?content*\.
-(\.|^)*user-?content*\.
