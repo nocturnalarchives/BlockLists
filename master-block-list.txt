@@ -4062,6 +4062,7 @@ api.nextgen.guardianapps.co.uk
 api.no
 api.nobeta.com.br
 api.nypddev.com
+api.nypdev.com
 api.nytimes.com
 api.oadoi.org
 api.oadoi.org.herokudns.com
@@ -20149,6 +20150,7 @@ nym1-ib.adnxs.com
 nym5c.bonlook.com
 nym5c.laura.ca
 nypddev.com
+nypdev.com
 nytimes.commdn.net
 nz.google.com
 nzmkzl.mytheresa.com
@@ -20529,6 +20531,7 @@ ooyala.com
 op-drive-sto.carrefour.fr
 op.google.com
 opecloud.com
+open-api.spot.im
 open.delivery.net
 open.mkt1397.com
 openaccess.thecvf.com
@@ -32567,8 +32570,3 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
-open-api.spot.im
-spot.im
-api.nypdev.com
-nypdev.com
-mcusercontent.com
