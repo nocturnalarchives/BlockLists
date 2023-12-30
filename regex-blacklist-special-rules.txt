@@ -971,3 +971,5 @@
 \.tv$
 \.us$
 \.xyz$
+(\.|^)?.*backup-?rabbit.*\.
+(\.|^)?.*backup.*\.
