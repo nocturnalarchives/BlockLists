@@ -4823,6 +4823,7 @@ babymarkt.com
 backbeatmedia.com
 backstage.funnelenvy.com
 backtrace.io
+backuprabbit.com
 bacon.getcarro.com
 bacon.section.io
 bacontent.de
@@ -13469,6 +13470,7 @@ go.sinobi.com
 go.smljmp.com
 go.sonobi.com
 go.streakwave.com
+go.stripe.global
 go.theregister.com
 go.transversal.com
 go.tuv.com
@@ -15132,6 +15134,7 @@ inconcertcc.com
 increaserev.com
 increasingly.co
 incrediblesugar.com
+increment.com
 indapass.hu
 indeed.com
 independence.americanportfolios.com
@@ -16645,6 +16648,8 @@ link.alerts.busuu.app
 link.automated.almosafer.com
 link.cdl.freshly.com
 link.cheerz.com
+link.co
+link.com
 link.creditonemail.com
 link.davison.com
 link.earnin.com
@@ -26538,6 +26543,9 @@ strikeiron.com
 stripchat.com
 stripclubads.com
 stripe.com
+stripe.dev
+stripe.events
+stripe.global
 stripe.network
 stripecdn.map.fastly.net
 stripedburst.com
@@ -26639,6 +26647,8 @@ supertraders.club
 supertraders.info
 supplychain.kinaxis.com
 supplyframe.com
+support-conversations.link.co
+support-conversations.link.com
 support-sp.apple.com
 support.flex.com
 support.okta.com
@@ -32577,4 +32587,3 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
-backuprabbit.com
