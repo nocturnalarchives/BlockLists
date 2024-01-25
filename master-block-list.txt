@@ -32587,3 +32587,8 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
+sf-api-token-service.itunes.apple.com
+assets.sendinblue.com
+sendinblue.com
+292330999892453.wt-eu02.net
+wt-eu02.net
