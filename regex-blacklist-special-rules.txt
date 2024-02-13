@@ -807,16 +807,22 @@
 (\.|^)?.*connect.*\.
 (\.|^)?.*conversation.*\.
 (\.|^)?.*double-?click.*\.
+(\.|^)?.*dropbox-?dns.*\.
 (\.|^)?.*get-?drip.*\.
 (\.|^)?.*increment.*\.
 (\.|^)?.*judge.*\.
 (\.|^)?.*protected.*\.
 (\.|^)?.*sales-?iq.*\.
+(\.|^)?.*send-?in-?blue.*\.
 (\.|^)?.*share-?a-?sale.*\.
 (\.|^)?.*start-?drip.*\.
 (\.|^)?.*stripe.events.*\.
 (\.|^)?.*survey.*\.
+(\.|^)?.*token.*\.
 (\.|^)?.*web-?font.*\.
+(\.|^)?.dropbox-?dns\.
+(\.|^)?.wt-eu([0-9]+?)\.
+(\.|^)?api-env\.
 (\.|^)?fonts?\.
 (\.|^)?go\.
 (\.|^)?maps?\.
@@ -982,4 +988,3 @@
 (\.|^)?.*token.*\.
 (\.|^)?.*send-?in-?blue.*\.
 (\.|^)?.wt-eu([0-9]+?)\.
-
