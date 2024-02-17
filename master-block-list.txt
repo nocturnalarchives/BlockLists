@@ -32592,3 +32592,7 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
+sprig.com
+api.sprig.com
+cdn-settings.segment.com
+segment.com
