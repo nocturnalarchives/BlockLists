@@ -4083,6 +4083,7 @@ api.rewards.brave.com
 api.rollbar.com
 api.sail-personalize.com
 api.smoot.apple.com
+api.sprig.com
 api.ssrn.com
 api.tiles.mapbox.com
 api.time.com
@@ -9928,6 +9929,7 @@ dependable-s.hyster.com
 depilflash.tv
 deployads.com
 deportesinfo.com
+deposit.us.shopifycs.com
 deqwas-dsp.net
 deqwas.net
 desa.fkapi.net
@@ -24249,6 +24251,7 @@ shopifyapp.rontar.com
 shopifyapps.com
 shopifyassets.freshchat.com
 shopifycdn.com
+shopifycs.com
 shopifyorderlimits.s3.amazonaws.com
 shopifysvc.com
 shopmetric.rediff.com
@@ -25452,6 +25455,7 @@ spqtpm.anifare.jp
 spr.bild.de
 spreadshirts.net
 spreaker.com
+sprig.com
 springaftermath.com
 springbot.com
 springer.com
@@ -29092,6 +29096,7 @@ us.data3.mobile.pendo.io
 us.google.com
 us.info.lgsmartad.com
 us.onkyo.actonservice.com
+us.shopifycs.com
 us.tags.newscgp.com
 us1.gigya.com
 usa.gov
@@ -32592,7 +32597,3 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
-sprig.com
-api.sprig.com
-cdn-settings.segment.com
-segment.com
