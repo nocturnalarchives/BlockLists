@@ -1,4 +1,5 @@
 
+
 0-courier.push.apple.com
 0-courier.sandbox.push.apple.com
 0-edge-chat.facebook.com
@@ -1187,6 +1188,7 @@ activities.niagara.comedycentral.com
 activity.asce.org
 activity.frequency.com
 activity.windows.com
+activity.wisepops.com
 activtrak.com
 acton.marcusevans-events.com
 acton.simpleviewinc.com
@@ -4279,6 +4281,7 @@ appsflyer.tk
 appsflyersdk.com
 appsgeyser.com
 appsgratis.com.mx
+appsgrowthpromo-pa.clients6.google.com
 appsitemsuggest-pa.clients6.google.com
 appsjuegos.com.mx
 appsmav.com
@@ -9837,6 +9840,8 @@ dd.nytimes.com
 dd6zx4ibq538k.cloudfront.net
 ddguhg.wickes.co.uk
 ddioce.wolverine.com
+ddlnk.com
+ddlnk.net
 ddmcdn.com
 ddos-guard.net
 ddynwa.brithotel.fr
@@ -10251,6 +10256,8 @@ dmtracker.com
 dmtracking.1688.com
 dmtracking.alibaba.com
 dmtracking2.alibaba.com
+dmtrk.com
+dmtrk.net
 dmx.districtm.io
 dmxalb.winni.in
 dmxleo.com
@@ -10461,6 +10468,7 @@ dot1.digitalcourage.de
 dot2.digitalcourage.de
 dotache.io
 dotaoutpost.com
+dotdigital-pages.com
 dotdigital.com
 doterracertifiedsite.com
 dotmailer-surveys.com
@@ -11502,6 +11510,16 @@ emeu0circ.com
 emfluence.com
 emiratesfoundation.net
 emjcd.com
+emlfiles.com
+emlfiles1.com
+emlfiles2.com
+emlfiles3.com
+emlfiles4.com
+emlfiles5.com
+emlfiles6.com
+emlfiles7.com
+emlfiles8.com
+emlfiles9.com
 emma.tools
 emmtree.com
 emng.libero.it
@@ -13456,6 +13474,7 @@ go.mvtec.com
 go.mwe.com
 go.netsuite.com
 go.noregon.com
+go.oncehub.com
 go.oracle.com
 go.oroinc.com
 go.pardot.com
@@ -14815,6 +14834,16 @@ i.clean.gg
 i.compendium.com
 i.connectad.io
 i.doubleclick.net
+i.emlfiles.com
+i.emlfiles1.com
+i.emlfiles2.com
+i.emlfiles3.com
+i.emlfiles4.com
+i.emlfiles5.com
+i.emlfiles6.com
+i.emlfiles7.com
+i.emlfiles8.com
+i.emlfiles9.com
 i.gov.ph
 i.gse.io
 i.guim.co.uk
@@ -15026,6 +15055,7 @@ images.bwbx.io
 images.ctfassets.net
 images.dmca.com
 images.findlawresources.com
+images.oncehubassets.com
 images.outbrain.com
 images.pluto.tv
 images.salsify.com
@@ -16484,6 +16514,7 @@ ldqtdd.peing.net
 lds.org
 ldscdn.org
 ldschurch.org
+ldynamicspublicapi.leadforensics.com
 le.google.com
 le118000.fr
 lead-alliance.net
@@ -20465,6 +20496,8 @@ on-mobi.com
 on.google.com
 onaudience.com
 oncam.xxx
+oncehub.com
+oncehubassets.com
 onclasrv.com
 onclickads.net
 oncoclinicas.actonservice.com
@@ -22251,10 +22284,40 @@ r.skimresources.com
 r.teads.tv
 r.udkcjr.com
 r.usabilla.com
+r1-t.trackedlink.net
+r1.ddlnk.com
+r1.ddlnk.net
+r1.dmtrk.com
+r1.dmtrk.net
+r1.dotdigital-pages.com
+r1.dotdigital-surveys.com
+r1.dotmailer-pages.com
+r1.dotmailer-surveys.com
+r1.trackedweb.net
 r10s.jp
 r18.com
 r1ztni.oui.sncf
+r2-t.trackedlink.net
+r2.ddlnk.com
+r2.ddlnk.net
+r2.dmtrk.com
+r2.dmtrk.net
+r2.dotdigital-pages.com
+r2.dotdigital-surveys.com
+r2.dotmailer-pages.com
+r2.dotmailer-surveys.com
+r2.trackedweb.net
+r3-t.trackedlink.net
+r3.ddlnk.com
+r3.ddlnk.net
+r3.dmtrk.com
+r3.dmtrk.net
+r3.dotdigital-pages.com
+r3.dotdigital-surveys.com
+r3.dotmailer-pages.com
+r3.dotmailer-surveys.com
 r3.o.lencr.org
+r3.trackedweb.net
 r42tag.com
 r66net.com
 r7.com
@@ -26004,6 +26067,7 @@ static.scroll.com
 static.siege-amazon.com
 static.sinclairstoryline.com
 static.track.omguk.com
+static.trackedweb.net
 static.webnx.com
 static.wikia.nocookie.net
 static.www.ojrq.net
@@ -26955,6 +27019,7 @@ t.skimresources.com
 t.smile.eu
 t.spot.im
 t.teads.tv
+t.trackedlink.net
 t.udkcjr.com
 t.usabilla.com
 t.valcyte.com
@@ -28067,6 +28132,7 @@ trackad.cz
 trackalyzer.com
 trackcmp.net
 trackedlink.net
+trackedweb.com
 trackedweb.net
 tracker-api.my.com
 tracker-id.cdiscount.com
@@ -29938,6 +30004,7 @@ webdev.imgix.net
 webedia.fr
 webengage.co
 webengage.com
+webeo-web-content.s3-eu-west-1.amazonaws.com
 webexaminer.net
 webeyez.com
 webflow.com
@@ -29948,6 +30015,7 @@ webglstats.com
 webhit.snd.no
 webim.ru
 webinar.intel.com
+webinsight.s3.amazonaws.com
 webkul.com
 weblog.eseoul.go.kr
 weblog.flyasiana.com
@@ -30219,6 +30287,7 @@ wipe.de
 wirecomic.com
 wisc.cloud
 wisepops.com
+wisepops.net
 wiser.nl
 wishabi.com
 wishabi.net
