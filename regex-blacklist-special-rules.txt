@@ -820,6 +820,8 @@
 (\.|^)?.*eml-?file.*\.
 (\.|^)?.*forensic.*\.
 (\.|^)?.*get-?drip.*\.
+(\.|^)?.*improve-?analytic.*\.
+(\.|^)?.*improve.*\.
 (\.|^)?.*increment.*\.
 (\.|^)?.*insight.*\.
 (\.|^)?.*judge.*\.
@@ -833,6 +835,8 @@
 (\.|^)?.*send-?in-?blue.*\.
 (\.|^)?.*share-?a-?sale.*\.
 (\.|^)?.*shopify\.
+(\.|^)?.*site-?improve-?analytic.*\.
+(\.|^)?.*site-?improve.*\.
 (\.|^)?.*start-?drip.*\.
 (\.|^)?.*stripe.events.*\.
 (\.|^)?.*survey.*\.
@@ -1012,3 +1016,9 @@
 \.us$
 \.us\.
 \.xyz$
+
+
+
+
+
+

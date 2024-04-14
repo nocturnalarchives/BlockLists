@@ -1,5 +1,4 @@
 
-
 0-courier.push.apple.com
 0-courier.sandbox.push.apple.com
 0-edge-chat.facebook.com
@@ -19802,6 +19801,7 @@ neudesicmediagroup.com
 neutralpages.com
 neverbounce.com
 neverwayneck.com
+new.adblockplus.org
 newads.bangbros.com
 newandfresh.com
 newandroidapps.net
@@ -32666,4 +32666,3 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
-new.adblockplus.org
