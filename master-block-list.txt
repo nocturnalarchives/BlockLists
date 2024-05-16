@@ -4747,6 +4747,8 @@ azlyta.immowelt.de
 azr.footprintdns.com
 aztracking.net
 azure-api.net
+azure.eaglex.ic.gov
+azure.microsoft.scloud
 azure.net
 azureedge.net
 azurewebsites.net
@@ -8586,6 +8588,8 @@ collector-px04kmklxi.px-cloud.net
 collector-px0py5pczn.octopart.com
 collector-pxogckki0e.px-cloud.net
 collector.automote.co.nz
+collector.azure.eaglex.ic.gov
+collector.azure.microsoft.scloud
 collector.clareity.net
 collector.fiverr.com
 collector.getyourguide.com
@@ -10743,6 +10747,7 @@ ea.zebestof.com
 eacdn.com
 eadexchange.com
 eadv.it
+eaglex.ic.gov
 eardooraround.com
 early-birds.fr
 earnify.com
@@ -14907,6 +14912,7 @@ ibsrv.net
 ibtracking.com
 ibuki.cgnat.net
 ic.google.com
+ic.gov
 icagruppen.se
 icas.ikea.com
 icebns.com
@@ -18988,6 +18994,7 @@ microsites.nielseniq.com
 microsmallcap.com
 microsoft.com
 microsoft.m.facebook.com
+microsoft.scloud
 microsoftmoderator.com
 microsofttranslator.com
 microstatic.pl
@@ -19461,6 +19468,7 @@ murdoog.com
 music-electric.org
 music-group.com
 music-headphones.org
+music-history.ssl.sonos.com
 musical.ly
 musicatorrents.com
 musiccounter.ru
@@ -26759,6 +26767,7 @@ sv.symcd.com
 svarcom.actonservice.com
 svc.example.net
 svc2.example.net
+sve.ssl.sonos.com
 svmarketing.destinationtoronto.com
 svmarketing.torcvb.com
 svonm.com
@@ -27526,6 +27535,7 @@ thirdrespect.com
 thirstytwig.com
 thisav.com
 thisiswaldo.com
+thor.ssl.sonos.com
 thoughtfulbundle.com
 threadloom.com
 threechurch.com

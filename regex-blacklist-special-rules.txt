@@ -1,3 +1,4 @@
+
 (\.|^)*-alert*\.
 (\.|^)*-alerts?\.
 (\.|^)*-amazon*\.
@@ -882,6 +883,8 @@
 (\.|^)clicks?\.
 (\.|^)client-?stream\.
 (\.|^)cmp*\.
+(\.|^)collect\.
+(\.|^)collector\.
 (\.|^)connect\.
 (\.|^)consent\.
 (\.|^)core\.
@@ -920,6 +923,7 @@
 (\.|^)health\.
 (\.|^)iads?-?([0-9]+)?\.
 (\.|^)iadsdk\.
+(\.|^)ic\.gov$
 (\.|^)id\.
 (\.|^)idmsa\.
 (\.|^)insight*\.
@@ -1016,9 +1020,5 @@
 \.us$
 \.us\.
 \.xyz$
-
-
-
-
 
 
