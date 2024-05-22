@@ -1,4 +1,5 @@
 
+
 (\.|^)*-alert*\.
 (\.|^)*-alerts?\.
 (\.|^)*-amazon*\.
@@ -819,16 +820,19 @@
 (\.|^)?.*double-?click.*\.
 (\.|^)?.*dropbox-?dns.*\.
 (\.|^)?.*eml-?file.*\.
+(\.|^)?.*extention.*\.
 (\.|^)?.*forensic.*\.
 (\.|^)?.*get-?drip.*\.
 (\.|^)?.*improve-?analytic.*\.
 (\.|^)?.*improve.*\.
 (\.|^)?.*increment.*\.
 (\.|^)?.*insight.*\.
+(\.|^)?.*intercom.*\.
 (\.|^)?.*judge.*\.
 (\.|^)?.*lead-?forensic.*\.
 (\.|^)?.*loader.*\.
 (\.|^)?.*mailer.*\.
+(\.|^)?.*messenger.*\.
 (\.|^)?.*once-?hub.*\.
 (\.|^)?.*protected.*\.
 (\.|^)?.*public-?api.*\.
@@ -836,8 +840,10 @@
 (\.|^)?.*send-?in-?blue.*\.
 (\.|^)?.*share-?a-?sale.*\.
 (\.|^)?.*shopify\.
+(\.|^)?.*shopifycs.*\.
 (\.|^)?.*site-?improve-?analytic.*\.
 (\.|^)?.*site-?improve.*\.
+(\.|^)?.*stape.*\.
 (\.|^)?.*start-?drip.*\.
 (\.|^)?.*stripe.events.*\.
 (\.|^)?.*survey.*\.
@@ -1020,5 +1026,4 @@
 \.us$
 \.us\.
 \.xyz$
-
 

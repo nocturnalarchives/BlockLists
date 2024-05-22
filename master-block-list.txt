@@ -7619,17 +7619,21 @@ cdn.volument.com
 cdn.walkme.com
 cdn.wallit.io
 cdn1.buysellads.net
+cdn1.judge.me
 cdn1.pebx.pl
 cdn2.bustle.com
 cdn2.buysellads.net
 cdn2.editmysite.com
+cdn2.judge.me
 cdn2.lockerdome.com
 cdn2.smartgiftit.com
 cdn20tube.pro
 cdn3.buysellads.net
 cdn3.doubleverify.com
+cdn3.judge.me
 cdn3.net
 cdn4.buysellads.net
+cdn4.judge.me
 cdn4dd.com
 cdn7.baunetz.de
 cdn7.rocks
@@ -9937,6 +9941,7 @@ dependable-s.hyster.com
 depilflash.tv
 deployads.com
 deportesinfo.com
+deposit.shopifycs.com
 deposit.us.shopifycs.com
 deqwas-dsp.net
 deqwas.net
@@ -12152,6 +12157,7 @@ exszmq.thetot.com
 ext.nile.works
 extend-list.net
 extend.tv
+extentions.shopifycdn.com
 external-cdt1-1.xx.fbcdn.net
 external-content.duckduckgo.com
 external-frt3-2.xx.fbcdn.net
@@ -15574,6 +15580,8 @@ interactive.forthnet.gr
 interactive.guim.co.uk
 interactive.wbir.com
 interactives.dk
+intercom-chat.com
+intercom-messenger.com
 intercom.io
 intercomcdn.com
 interestinglinks.net
@@ -25353,6 +25361,7 @@ sp.rmbl.ws
 sp.sctimes.com
 sp.sheboyganpress.com
 sp.shreveporttimes.com
+sp.stape.io
 sp.stargazette.com
 sp.statesmanjournal.com
 sp.stevenspointjournal.com
@@ -25843,6 +25852,7 @@ standstock.net
 stankyrich.com
 stanleyblackanddecker.m.facebook.com
 stanza.co
+stape.io
 star-advertising.com
 star-mini.c10r.facebook.com
 star.c10r.facebook.com
