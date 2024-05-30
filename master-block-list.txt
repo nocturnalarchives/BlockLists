@@ -4857,6 +4857,7 @@ balloontexture.com
 ballymoregroup.actonservice.com
 bam-sdk-configs.bamgrid.com
 bam-x.com
+bam.nr-data.com
 bam.nr-data.net
 banca-movil.com
 bancopostapremia.bancoposta.it
@@ -20107,6 +20108,7 @@ npylsv.elle.ro
 npylsv.libertatea.ro
 nq.google.com
 nqcbgz.cocopanda.se
+nr-data.com
 nr-data.net
 nr.google.com
 nra.locktonaffinity.net
