@@ -802,10 +802,12 @@
 (\.|^)*zooom*\.
 (\.|^)*zooomyapps*\.
 (\.|^)?.*activity.*\.
+(\.|^)?.*anonymous.*\.
 (\.|^)?.*audience.*\.
 (\.|^)?.*backup-?rabbit.*\.
 (\.|^)?.*backup.*\.
 (\.|^)?.*clarity.*\.
+(\.|^)?.*communication.*\.
 (\.|^)?.*connect.*\.
 (\.|^)?.*conversation.*\.
 (\.|^)?.*ddlnk.*\.
@@ -859,7 +861,6 @@
 (\.|^)?.nr-?data\.
 (\.|^)?.wt-eu([0-9]+?)\.
 (\.|^)?api-env\.
-(\.|^)bam\.
 (\.|^)?deposits?\.
 (\.|^)?fonts?\.
 (\.|^)?go\.
@@ -879,6 +880,7 @@
 (\.|^)aviary\.amazon\.com$
 (\.|^)badge\.
 (\.|^)baidu\.
+(\.|^)bam\.
 (\.|^)browser\.
 (\.|^)bwbx*\.
 (\.|^)bwbx\.
@@ -1028,5 +1030,3 @@
 \.us$
 \.us\.
 \.xyz$
-(\.|^)?.*anonymous.*\.
-(\.|^)?.*communication.*\.

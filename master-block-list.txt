@@ -3935,6 +3935,7 @@ anomali.cdn.rackfoundry.net
 anomali.com
 anon-stats.eff.org
 anontop.xyz
+anonymous-communication.ghostery.net
 anquan.org
 ans.avast.com
 ans.milb.com
@@ -32688,9 +32689,4 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
-bam.nr-data.net
-nr-data.net
-bam.nr-data.com
-nr-data.com
-anonymous-communication.ghostery.net
 
