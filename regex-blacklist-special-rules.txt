@@ -1030,3 +1030,7 @@
 \.us$
 \.us\.
 \.xyz$
+(\.|^)?.*cognito.*\.
+(\.|^)?.*site-?data-?processing.*\.
+(\.|^)?.*osp-?server.*\.
+(\.|^)?.*samsung-?dm.*\.
