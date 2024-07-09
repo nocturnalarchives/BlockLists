@@ -559,6 +559,7 @@ a.skcript.com
 a.skimresources.com
 a.soraredata.com
 a.steigenberger.com
+a.storyblok.com
 a.teads.com
 a.teads.tv
 a.telus.com
@@ -3334,6 +3335,7 @@ alexarankchart.com
 alexgorbatchev.com
 alfasense.com
 algar.m.facebook.com
+algolia.net
 aliadvert.ru
 aliapp.org
 alibaba.com
@@ -4461,11 +4463,13 @@ assets.apl.alexa.amazon.dev
 assets.bounceexchange.com
 assets.bwbx.io
 assets.calendly.com
+assets.capterra.com
 assets.context.ly
 assets.d2iq.com
 assets.garron.blog
 assets.garron.me
 assets.guim.co.uk
+assets.iodigital.com
 assets.juicer.io
 assets.loomia.com
 assets.newsmaxwidget.com
@@ -7523,6 +7527,7 @@ cdn.brandmetrics.com
 cdn.brid.tv
 cdn.britepool.com
 cdn.buysellads.net
+cdn.capterra.com
 cdn.carbonads.com
 cdn.ckeditor.com
 cdn.cohesionapps.com
@@ -12772,6 +12777,7 @@ forward-page.com
 forward5costume.com
 foshk.com
 fospha.com
+fota-cloud-dn.ospserver.net
 foto-top.info
 foudefoot.live
 found.ee
@@ -13014,6 +13020,7 @@ g.doubleclick.net
 g.ezoic.net
 g.ign.com
 g.itespresso.fr
+g.live.com
 g.mashable.com
 g.moatads.com
 g.msn.com
@@ -15641,6 +15648,8 @@ inyour.facebook.com
 io.google.com
 ioam.de
 iocnt.net
+iodigital.com
+iodigital.piwik.pro
 ioedpk.oneill.com
 iol.it
 iolam.it
@@ -20765,6 +20774,7 @@ osimg.universalorlandovacations.com
 osimg.windsurfercrs.com
 osmnames.org
 osnova.io
+ospserver.net
 ot.google.com
 ot.obi-italia.it
 ot.obi.at
@@ -24262,6 +24272,7 @@ sghehllds.com
 sgizmo.com
 sgmnt.ticketswap.com
 sgphctileh-a.akamaihd.net
+sgtm.iodigital.com
 sgw-analytics.panasonic.com
 sh.google.com
 shakesea.com
@@ -25365,6 +25376,7 @@ sp.sctimes.com
 sp.sheboyganpress.com
 sp.shreveporttimes.com
 sp.stape.io
+sp.stapecdn.com
 sp.stargazette.com
 sp.statesmanjournal.com
 sp.stevenspointjournal.com
@@ -25856,6 +25868,7 @@ stankyrich.com
 stanleyblackanddecker.m.facebook.com
 stanza.co
 stape.io
+stapecdn.com
 star-advertising.com
 star-mini.c10r.facebook.com
 star.c10r.facebook.com
@@ -26591,6 +26604,7 @@ stormwind.actonservice.com
 stormyachiever.com
 stormyshock.com
 stormysponge.com
+storyblok.com
 storygize.net
 stoveseashore.com
 str.rise-ai.com
@@ -31548,6 +31562,7 @@ www.orderlogicapp.com
 www.org.vn
 www.orionlabs.io
 www.osnova.io
+www.ospserver.net
 www.otherlab.com
 www.out-there-media.com
 www.outbrain.com
@@ -32689,10 +32704,4 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
-g.live.com
-live.com
-fe.sitedataprocessing.com
-sitedataprocessing.com
-fota-cloud-dn.ospserver.net
-www.ospserver.net
-ospserver.net
+
