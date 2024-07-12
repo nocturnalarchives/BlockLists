@@ -1,4 +1,5 @@
 
+
 (\.|^)*-alert*\.
 (\.|^)*-alerts?\.
 (\.|^)*-amazon*\.
@@ -805,6 +806,7 @@
 (\.|^)?.*algolia.*\.
 (\.|^)?.*anonymous.*\.
 (\.|^)?.*audience.*\.
+(\.|^)?.*auto-?complete.*\.
 (\.|^)?.*backup-?rabbit.*\.
 (\.|^)?.*backup.*\.
 (\.|^)?.*capterra.*\.
@@ -827,6 +829,7 @@
 (\.|^)?.*extention.*\.
 (\.|^)?.*forensic.*\.
 (\.|^)?.*get-?drip.*\.
+(\.|^)?.*identity.*\.
 (\.|^)?.*improve-?analytic.*\.
 (\.|^)?.*improve.*\.
 (\.|^)?.*increment.*\.
@@ -845,6 +848,7 @@
 (\.|^)?.*piwik.*\.
 (\.|^)?.*protected.*\.
 (\.|^)?.*public-?api.*\.
+(\.|^)?.*push.*\.
 (\.|^)?.*sales-?iq.*\.
 (\.|^)?.*samsung-?dm.*\.
 (\.|^)?.*send-?in-?blue.*\.
@@ -854,6 +858,7 @@
 (\.|^)?.*site-?data-?processing.*\.
 (\.|^)?.*site-?improve-?analytic.*\.
 (\.|^)?.*site-?improve.*\.
+(\.|^)?.*smarty-?streets.*\.
 (\.|^)?.*stape.*\.
 (\.|^)?.*start-?drip.*\.
 (\.|^)?.*story-?blok.*\.
@@ -863,6 +868,7 @@
 (\.|^)?.*tracked-?link.*\.
 (\.|^)?.*tracked-?web.*\.
 (\.|^)?.*tracked.*\.
+(\.|^)?.*weather.*\.
 (\.|^)?.*web-?font.*\.
 (\.|^)?.*web-?insight.*\.
 (\.|^)?.*webeo.*\.
@@ -874,8 +880,10 @@
 (\.|^)?deposits?\.
 (\.|^)?fonts?\.
 (\.|^)?go\.
+(\.|^)?identity.*\.
 (\.|^)?maps?\.
 (\.|^)?shopify.*\.
+(\.|^)?weather.*\.
 (\.|^)aax\.
 (\.|^)ad\.
 (\.|^)ads?\.
@@ -1021,6 +1029,7 @@
 (\.|^)waldo*\.
 (\.|^)waldo\.
 (\.|^)web\.
+(\.|^)wpc\.
 *\.ms
 \.ai
 \.ai$
@@ -1032,6 +1041,7 @@
 \.gov$
 \.gov\.uk$
 \.io$
+\.ls\.
 \.me$
 \.ms$
 \.page$
@@ -1040,3 +1050,10 @@
 \.us$
 \.us\.
 \.xyz$
+
+
+
+
+
+
+
