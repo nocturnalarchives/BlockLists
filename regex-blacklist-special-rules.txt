@@ -1050,6 +1050,7 @@
 \.us$
 \.us\.
 \.xyz$
+<<<<<<< Updated upstream
 
 
 
@@ -1057,3 +1058,9 @@
 
 
 
+=======
+(\.|^)?.*auto-?complete.*\.
+(\.|^)?.*smarty-?streets.*\.
+
+(\.|^)wpc\.
+>>>>>>> Stashed changes
