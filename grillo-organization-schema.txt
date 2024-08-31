@@ -1,0 +1,12 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Grillo & Associates",
+  "url": "https://www.grilloinsurance.com/",
+  "logo": "https://www.grilloinsurance.com/wp-content/uploads/2020/11/Grillo_logo.jpg",
+  "sameAs": [
+    "https://www.instagram.com/grilloinsurance/"
+  ]
+}
+</script>

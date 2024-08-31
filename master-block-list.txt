@@ -32707,4 +32707,7 @@ zzvid.com
 us-autocomplete-pro.api.smartystreets.com
 api.smartystreets.com
 smartystreets.com
-
+config-chr.health.apple.com
+health.apple.com
+algolianet.com
+algolia.net
