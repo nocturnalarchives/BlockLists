@@ -1,5 +1,6 @@
 
 
+
 (\.|^)*-alert*\.
 (\.|^)*-alerts?\.
 (\.|^)*-amazon*\.
@@ -849,6 +850,7 @@
 (\.|^)?.*protected.*\.
 (\.|^)?.*public-?api.*\.
 (\.|^)?.*push.*\.
+(\.|^)?.*pwned-?password.*\.
 (\.|^)?.*sales-?iq.*\.
 (\.|^)?.*samsung-?dm.*\.
 (\.|^)?.*send-?in-?blue.*\.
@@ -1050,17 +1052,4 @@
 \.us$
 \.us\.
 \.xyz$
-<<<<<<< Updated upstream
 
-
-
-
-
-
-
-=======
-(\.|^)?.*auto-?complete.*\.
-(\.|^)?.*smarty-?streets.*\.
-
-(\.|^)wpc\.
->>>>>>> Stashed changes

@@ -1,4 +1,5 @@
 
+
 0-courier.push.apple.com
 0-courier.sandbox.push.apple.com
 0-edge-chat.facebook.com
@@ -1068,6 +1069,7 @@ about.facebook.com
 aboutads.com
 aboutads.info
 aboutamazon.com
+abp.telemetry.adblockplus.org
 abrankings.com
 abruptroad.com
 abs.proxistore.com
@@ -3336,6 +3338,7 @@ alexgorbatchev.com
 alfasense.com
 algar.m.facebook.com
 algolia.net
+algolianet.com
 aliadvert.ru
 aliapp.org
 alibaba.com
@@ -4086,6 +4089,7 @@ api.retargetly.com
 api.rewards.brave.com
 api.rollbar.com
 api.sail-personalize.com
+api.smartystreets.com
 api.smoot.apple.com
 api.sprig.com
 api.ssrn.com
@@ -8736,6 +8740,7 @@ confection.io
 conference-ballroom.com
 confiant-integrations.global.ssl.fastly.net
 confiant.msn.com
+config-chr.health.apple.com
 config-msdk.freshchat.com
 config.emb-api.com
 config.evidence.io
@@ -24708,6 +24713,7 @@ smartsupp.com
 smartsuppcdn.com
 smartsuppchat.com
 smarttarfi.com
+smartystreets.com
 smashsurprise.com
 smatning.volkswagen.se
 smaudience.com
@@ -29179,6 +29185,7 @@ urs.metacritic.com
 urspanishteacher.net
 urtracker.q-sis.de
 us-api.samsungyosemite.com
+us-autocomplete-pro.api.smartystreets.com
 us-content.vergic.com
 us-east-1-decisionapi.lift.acquia.com
 us-east-1.playback.live-video.net
@@ -32704,10 +32711,3 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
-us-autocomplete-pro.api.smartystreets.com
-api.smartystreets.com
-smartystreets.com
-config-chr.health.apple.com
-health.apple.com
-algolianet.com
-algolia.net
