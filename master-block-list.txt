@@ -1,5 +1,4 @@
 
-
 0-courier.push.apple.com
 0-courier.sandbox.push.apple.com
 0-edge-chat.facebook.com
@@ -7037,6 +7036,8 @@ brookings.foxycart.com
 brownandblueeyes.com
 browsealoud.com
 browsee.io
+browser.io
+browser-intake-datadoghq.com
 browser-update.online
 browser-update.org
 browser-updater.yandex.net
@@ -32711,4 +32712,3 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
-browser-intake-datadoghq.com

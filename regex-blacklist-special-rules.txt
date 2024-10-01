@@ -1,6 +1,4 @@
 
-
-
 (\.|^)*-alert*\.
 (\.|^)*-alerts?\.
 (\.|^)*-amazon*\.
@@ -816,6 +814,7 @@
 (\.|^)?.*communication.*\.
 (\.|^)?.*connect.*\.
 (\.|^)?.*conversation.*\.
+(\.|^)?.*data-?dog*\.
 (\.|^)?.*ddlnk.*\.
 (\.|^)?.*deposit.*\.
 (\.|^)?.*dmtrk.*\.
@@ -835,6 +834,7 @@
 (\.|^)?.*improve.*\.
 (\.|^)?.*increment.*\.
 (\.|^)?.*insight.*\.
+(\.|^)?.*intake.*\.
 (\.|^)?.*intercom.*\.
 (\.|^)?.*iodigital.*\.
 (\.|^)?.*judge.*\.
@@ -1052,4 +1052,3 @@
 \.us$
 \.us\.
 \.xyz$
-
