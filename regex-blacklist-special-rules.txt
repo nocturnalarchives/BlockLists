@@ -815,6 +815,7 @@
 (\.|^)?.*connect.*\.
 (\.|^)?.*conversation.*\.
 (\.|^)?.*data-?dog*\.
+(\.|^)?.*data-?dog*\.
 (\.|^)?.*ddlnk.*\.
 (\.|^)?.*deposit.*\.
 (\.|^)?.*dmtrk.*\.
