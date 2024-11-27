@@ -7036,11 +7036,11 @@ brookings.foxycart.com
 brownandblueeyes.com
 browsealoud.com
 browsee.io
-browser.io
 browser-intake-datadoghq.com
 browser-update.online
 browser-update.org
 browser-updater.yandex.net
+browser.io
 browser.pipe.aria.microsoft.com
 browser.sentry-cdn.com
 browseranalytic.com
@@ -7508,6 +7508,7 @@ cdn-settings.segment.com
 cdn-sic.33across.com
 cdn-sp-gcs.air.tv
 cdn-spurit.com
+cdn-stv.adgrx.com
 cdn-us-doubleverify.com
 cdn.9xbud.com
 cdn.add0n.com
@@ -20671,6 +20672,7 @@ opticalanalytics.io
 optico.fr
 optimahub.com
 optimallimit.com
+optimizationguide-pa.googleapis.com
 optimize-stats.voxmedia.com
 optimized-by.rubiconproject.com
 optimizely.com
@@ -23342,6 +23344,7 @@ samsungacr.com
 samsungads.com
 samsungcloudsolution.com
 samsungelectronicsamericainc.demdex.net
+samsunghealthcn.com
 samsungosp.com
 samsungotn.net
 samsungqbe.com
