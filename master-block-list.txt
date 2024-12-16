@@ -4271,6 +4271,7 @@ apps.identrust.com
 apps.mil
 apps.mzstatic.com
 apps.npr.org
+apps.rokt.com
 apps.wixrestaurants.com
 appscomeon.com
 appsdt.com
@@ -23001,6 +23002,7 @@ roia.biz
 roimediaconsultants.com
 roirevolution.com
 rok.com.com
+rokt.com
 roland.com
 rolex.com
 rollbar.com
