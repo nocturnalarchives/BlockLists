@@ -804,6 +804,7 @@
 (\.|^)*zooom*\.
 (\.|^)*zooomyapps*\.
 (\.|^)?.*activity.*\.
+(\.|^)?.*ad-?system.*\.
 (\.|^)?.*algolia.*\.
 (\.|^)?.*anonymous.*\.
 (\.|^)?.*apps?-?gen-?ai-?server.*\.
