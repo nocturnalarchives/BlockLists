@@ -1,5 +1,6 @@
 
 
+
 (\.|^)*-alert*\.
 (\.|^)*-alerts?\.
 (\.|^)*-amazon*\.
@@ -805,6 +806,9 @@
 (\.|^)?.*activity.*\.
 (\.|^)?.*algolia.*\.
 (\.|^)?.*anonymous.*\.
+(\.|^)?.*apps?-?gen-?ai-?server.*\.
+(\.|^)?.*apps?-?gen-?ai.*\.
+(\.|^)?.*artificial.*\.
 (\.|^)?.*audience.*\.
 (\.|^)?.*auto-?complete.*\.
 (\.|^)?.*backup-?rabbit.*\.
@@ -829,6 +833,8 @@
 (\.|^)?.*eml-?file.*\.
 (\.|^)?.*extention.*\.
 (\.|^)?.*forensic.*\.
+(\.|^)?.*gen-?ai.*\.
+(\.|^)?.*generative.*\.
 (\.|^)?.*get-?drip.*\.
 (\.|^)?.*identity.*\.
 (\.|^)?.*improve-?analytic.*\.
@@ -836,6 +842,7 @@
 (\.|^)?.*increment.*\.
 (\.|^)?.*insight.*\.
 (\.|^)?.*intake.*\.
+(\.|^)?.*intelligence.*\.
 (\.|^)?.*intercom.*\.
 (\.|^)?.*iodigital.*\.
 (\.|^)?.*judge.*\.
