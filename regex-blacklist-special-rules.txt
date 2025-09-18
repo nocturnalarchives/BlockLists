@@ -1,6 +1,5 @@
 
 
-
 (\.|^)*-alert*\.
 (\.|^)*-alerts?\.
 (\.|^)*-amazon*\.
@@ -818,6 +817,8 @@
 (\.|^)?.*clarity.*\.
 (\.|^)?.*cognito.*\.
 (\.|^)?.*communication.*\.
+(\.|^)?.*community.*\.
+(\.|^)?.*compliance.*\.
 (\.|^)?.*connect.*\.
 (\.|^)?.*conversation.*\.
 (\.|^)?.*data-?dog*\.
@@ -834,9 +835,11 @@
 (\.|^)?.*eml-?file.*\.
 (\.|^)?.*extention.*\.
 (\.|^)?.*forensic.*\.
+(\.|^)?.*fpjs.*\.
 (\.|^)?.*gen-?ai.*\.
 (\.|^)?.*generative.*\.
 (\.|^)?.*get-?drip.*\.
+(\.|^)?.*iabtechnologylab.*\.
 (\.|^)?.*identity.*\.
 (\.|^)?.*improve-?analytic.*\.
 (\.|^)?.*improve.*\.
@@ -848,9 +851,13 @@
 (\.|^)?.*iodigital.*\.
 (\.|^)?.*judge.*\.
 (\.|^)?.*lead-?forensic.*\.
+(\.|^)?.*livesearch-?autocomplete.*\.
+(\.|^)?.*livesearch-?metrics.*\.
 (\.|^)?.*loader.*\.
 (\.|^)?.*lubenda.*\.
+(\.|^)?.*magento-?ds.*\.
 (\.|^)?.*mailer.*\.
+(\.|^)?.*megabrain.*\.
 (\.|^)?.*messenger.*\.
 (\.|^)?.*nr-?data.*\.
 (\.|^)?.*once-?hub.*\.
@@ -878,6 +885,7 @@
 (\.|^)?.*story-?blok.*\.
 (\.|^)?.*stripe.events.*\.
 (\.|^)?.*survey.*\.
+(\.|^)?.*together.*\.
 (\.|^)?.*token.*\.
 (\.|^)?.*tracked-?link.*\.
 (\.|^)?.*tracked-?web.*\.
@@ -1064,4 +1072,3 @@
 \.us$
 \.us\.
 \.xyz$
-(\.|^)?.*fpjs.*\.
