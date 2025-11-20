@@ -3933,6 +3933,7 @@ anl-services.com
 anltics.com
 anm.intelli-direct.com
 annonser.dagbladet.no
+announcekit.co
 annoyedfifth.com
 anomali.cdn.rackfoundry.net
 anomali.com
@@ -4129,6 +4130,8 @@ app-ab32.marketo.com
 app-abq.marketo.com
 app-adforce.jp
 app-analytics.snapchat.com
+app-ananlytics-services-att.com
+app-ananlytics-services.com
 app-c.net
 app-clicks.firstrepublic.com
 app-measurement.com
@@ -13123,6 +13126,7 @@ gamesradar-gb.gamesradar.com
 gamesrevenue.com
 gamesrv1.com
 gaming-cdn.com
+gamma.kinde.com
 gammamaximum.com
 gammaplatform.com
 gannett-cdn.com
@@ -16255,6 +16259,7 @@ kiki.rireetchansons.fr
 kiks.auto.ru
 kilometrix.de
 kindads.com
+kinde.com
 kindlycdn.com
 kinesisproxy.hearstlabs.com
 kingads.mobi
@@ -32723,6 +32728,4 @@ zz.google.com
 zznfip.bork.ru
 zzsiqn.happyxnature.com
 zzvid.com
-announcekit.co
-gamma.kinde.com
-kinde.com
+prodregistryv2.org

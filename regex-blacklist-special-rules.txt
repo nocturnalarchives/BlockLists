@@ -1072,3 +1072,10 @@
 \.us$
 \.us\.
 \.xyz$
+
+
+
+(\.|^)?.*prodregistryv2.*\.
+(\.|^)?.*prodregistry.*\.
+(\.|^)?.*registry.*\.
+
